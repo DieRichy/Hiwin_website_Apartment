@@ -1,6 +1,6 @@
 # HIWIN Travel Agency Partnerships
 
-Static website with 7 languages, prepared for migration from Sites version 17.
+Static website with 7 languages, hosted on Cloudflare Pages; migrated from Sites version 17.
 
 Source baseline: 68fae8f91ddd6431381e50adafb11338ee05d34a.
 
@@ -19,3 +19,17 @@ Attach the custom domain in Pages and use its supplied DNS record in Cloudflare.
 To update the website, edit source files and push to `main`. Pages builds and deploys the update automatically once Git integration is connected.
 
 No backend, database or runtime secret is required. Do not upload internal research or Sites credentials to this repository.
+
+## Language URLs
+
+| Path | Language | HTML language |
+| --- | --- | --- |
+| `/en/` | English | `en` |
+| `/jp/` | Japanese | `ja` |
+| `/tw/` | Traditional Chinese (Taiwan) | `zh-Hant` |
+| `/my/` | Malay | `ms` |
+| `/th/` | Thai | `th` |
+| `/id/` | Indonesian | `id` |
+| `/ph/` | Filipino | `fil` |
+
+The root homepage also displays English. Existing `/ja/`, `/zh-Hant/`, `/ms/`, and `/fil/` links permanently redirect to their new paths, including their forms without a trailing slash. The language menu, canonical URLs, and hreflang links use the new paths. Translation keys remain language codes, separate from URL paths.
