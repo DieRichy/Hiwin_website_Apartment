@@ -8,10 +8,10 @@ output.mkdir()
 translations = json.loads((root / 'localization.json').read_text())
 template = (root / 'index.html').read_text()
 for key, values in translations.items():
-    for code in ('ja', 'zh-Hant', 'ms', 'th', 'id', 'fil'):
+    for code in ('ja', 'zh-Hant', 'ms', 'th', 'id', 'fil', 'ko'):
         if not values.get(code): raise ValueError(f'Missing {code} translation: {key}')
-labels = {'en': 'EN', 'ja': '日本語', 'zh-Hant': '繁中', 'ms': 'MS', 'th': 'ไทย', 'id': 'ID', 'fil': 'FIL'}
-routes = {'en': 'en', 'ja': 'jp', 'zh-Hant': 'tw', 'ms': 'my', 'th': 'th', 'id': 'id', 'fil': 'ph'}
+labels = {'en': 'EN', 'ja': '日本語', 'zh-Hant': '繁中', 'ms': 'MS', 'th': 'ไทย', 'id': 'ID', 'fil': 'FIL', 'ko': '한국어'}
+routes = {'en': 'en', 'ja': 'jp', 'zh-Hant': 'tw', 'ms': 'my', 'th': 'th', 'id': 'id', 'fil': 'ph', 'ko': 'ko'}
 origin = (os.environ.get('SITE_URL') or os.environ.get('CF_PAGES_URL') or '').rstrip('/')
 if not origin.startswith('https://'):
     raise ValueError('Set SITE_URL to the https:// website origin before building.')
@@ -65,4 +65,4 @@ for locale, route in routes.items():
         for old_path in ('/'+locale, '/'+locale+'/', '/'+locale+'/index.html'):
             redirects.append(f'{old_path} /{route}/ 301')
 (output / '_redirects').write_text('\n'.join(redirects)+'\n')
-print('Built 7 localized pages:', ', '.join('/'+route for route in routes.values()), 'in', output)
+print('Built 8 localized pages:', ', '.join('/'+route for route in routes.values()), 'in', output)

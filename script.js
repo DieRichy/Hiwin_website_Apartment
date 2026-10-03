@@ -1,5 +1,5 @@
 const lang = document.documentElement.lang;
-const ui = {en:{pause:'Pause video',play:'Play video'},ja:{pause:'動画を一時停止',play:'動画を再生'},'zh-Hant':{pause:'暫停影片',play:'播放影片'},ms:{pause:'Jeda video',play:'Mainkan video'},th:{pause:'หยุดวิดีโอชั่วคราว',play:'เล่นวิดีโอ'},id:{pause:'Jeda video',play:'Putar video'},fil:{pause:'I-pause ang video',play:'I-play ang video'}}[lang] || {pause:'Pause video',play:'Play video'};
+const ui = {en:{pause:'Pause video',play:'Play video'},ja:{pause:'動画を一時停止',play:'動画を再生'},'zh-Hant':{pause:'暫停影片',play:'播放影片'},ms:{pause:'Jeda video',play:'Mainkan video'},th:{pause:'หยุดวิดีโอชั่วคราว',play:'เล่นวิดีโอ'},id:{pause:'Jeda video',play:'Putar video'},fil:{pause:'I-pause ang video',play:'I-play ang video'},ko:{pause:'영상 일시정지',play:'영상 재생'}}[lang] || {pause:'Pause video',play:'Play video'};
 const menuButton = document.querySelector('.menu-toggle');
 const navigation = document.querySelector('#main-navigation');
 function closeMenu(){menuButton.setAttribute('aria-expanded','false');navigation.classList.remove('open');menuButton.querySelector('.menu-symbol').textContent='＋';}
@@ -83,7 +83,7 @@ const motion=document.querySelector('.motion-toggle');
 const mobile=matchMedia('(max-width:760px)');
 const scenes=[...document.querySelectorAll('.scene')];
 const sceneButtons=[...document.querySelectorAll('[data-scene]')];
-const slideUI={en:{pause:'Pause slideshow',play:'Play slideshow'},ja:{pause:'スライドを一時停止',play:'スライドを再生'},'zh-Hant':{pause:'暫停輪播',play:'播放輪播'},ms:{pause:'Jeda tayangan slaid',play:'Mainkan tayangan slaid'},th:{pause:'หยุดภาพสไลด์ชั่วคราว',play:'เล่นภาพสไลด์'},id:{pause:'Jeda tayangan slide',play:'Putar tayangan slide'},fil:{pause:'I-pause ang slideshow',play:'I-play ang slideshow'}}[lang] || {pause:'Pause slideshow',play:'Play slideshow'};
+const slideUI={en:{pause:'Pause slideshow',play:'Play slideshow'},ja:{pause:'スライドを一時停止',play:'スライドを再生'},'zh-Hant':{pause:'暫停輪播',play:'播放輪播'},ms:{pause:'Jeda tayangan slaid',play:'Mainkan tayangan slaid'},th:{pause:'หยุดภาพสไลด์ชั่วคราว',play:'เล่นภาพสไลด์'},id:{pause:'Jeda tayangan slide',play:'Putar tayangan slide'},fil:{pause:'I-pause ang slideshow',play:'I-play ang slideshow'},ko:{pause:'슬라이드 일시정지',play:'슬라이드 재생'}}[lang] || {pause:'Pause slideshow',play:'Play slideshow'};
 let paused=reduced.matches||Boolean(navigator.connection?.saveData), index=0,timer;
 function motionLabel(){const playing=mobile.matches?Boolean(timer):!video.paused;const labels=mobile.matches?slideUI:ui;motion.querySelector('.motion-label').textContent=playing?labels.pause:labels.play;motion.querySelector('span').textContent=playing?'Ⅱ':'▶';motion.setAttribute('aria-pressed',String(playing));}
 function showScene(n){index=(n+scenes.length)%scenes.length;scenes.forEach((s,i)=>s.classList.toggle('current',i===index));sceneButtons.forEach((b,i)=>b.setAttribute('aria-pressed',String(i===index)));}
