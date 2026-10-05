@@ -40,3 +40,9 @@ The root homepage also displays English. Existing `/ja/`, `/zh-Hant/`, `/ms/`, a
 The production website is https://hiwin-partners.com on Cloudflare Pages (project `hiwin-partners`), backed by the private GitHub repository `DieRichy/Hiwin_website_Apartment`. This `agency-cloudflare` directory is the source checkout to edit. Push verified changes to `main` to trigger production deployment. The previous Sites hostname and sibling `agency` checkout are legacy; use this Cloudflare project for future website updates.
 
 Korean uses locally hosted Noto Sans KR variable WOFF2 subsets with the included SIL OFL license, whole-word wrapping and responsive heading/spacing rules. All 187 copy entries, metadata and accessibility/media labels are localized. Root and `/en/` remain English; language codes and public route names stay separate.
+
+## SEO crawl files
+
+The build generates `sitemap.xml` with the eight canonical language homepages and `robots.txt` with the sitemap URL. Both use the configured HTTPS site origin. The root English homepage stays accessible and canonicalizes to `/en/`, so it is not duplicated in the sitemap. Language alternatives remain in the HTML `hreflang` links.
+
+Submit `https://hiwin-partners.com/sitemap.xml` to the domain property in Google Search Console after deployment. Submission does not guarantee indexing.

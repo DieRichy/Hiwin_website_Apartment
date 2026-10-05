@@ -1,5 +1,6 @@
 from pathlib import Path
 import html, json, re, shutil, os
+import xml.etree.ElementTree as ET
 root = Path(__file__).resolve().parent
 output = root / 'dist'
 if output.exists():
@@ -65,4 +66,13 @@ for locale, route in routes.items():
         for old_path in ('/'+locale, '/'+locale+'/', '/'+locale+'/index.html'):
             redirects.append(f'{old_path} /{route}/ 301')
 (output / '_redirects').write_text('\n'.join(redirects)+'\n')
+# Publish only canonical language URLs; the root English alias points to /en/.
+namespace = 'http://www.sitemaps.org/schemas/sitemap/0.9'
+ET.register_namespace('', namespace)
+sitemap = ET.Element('{'+namespace+'}urlset')
+for route in routes.values():
+    entry = ET.SubElement(sitemap, '{'+namespace+'}url')
+    ET.SubElement(entry, '{'+namespace+'}loc').text = origin + '/' + route + '/'
+ET.ElementTree(sitemap).write(output / 'sitemap.xml', encoding='utf-8', xml_declaration=True)
+(output / 'robots.txt').write_text('User-agent: *\nAllow: /\n\nSitemap: '+origin+'/sitemap.xml\n', encoding='utf-8')
 print('Built 8 localized pages:', ', '.join('/'+route for route in routes.values()), 'in', output)
