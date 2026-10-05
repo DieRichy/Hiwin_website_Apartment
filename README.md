@@ -46,3 +46,11 @@ Korean uses locally hosted Noto Sans KR variable WOFF2 subsets with the included
 The build generates `sitemap.xml` with the eight canonical language homepages and `robots.txt` with the sitemap URL. Both use the configured HTTPS site origin. The root English homepage stays accessible and canonicalizes to `/en/`, so it is not duplicated in the sitemap. Language alternatives remain in the HTML `hreflang` links.
 
 Submit `https://hiwin-partners.com/sitemap.xml` to the domain property in Google Search Console after deployment. Submission does not guarantee indexing.
+
+## GA4 measurement
+
+The production hostname `hiwin-partners.com` uses GA4 measurement ID `G-TNJQEP3WWM` (web stream `hp main site`). The Google tag appears once on the root and all eight language pages. Other hostnames, including local and Cloudflare preview addresses, do not initialize this property.
+
+`analytics.js` sends one `contact_click` event for an Email, phone, WhatsApp or LINE link click. Parameters are `contact_channel` and `site_language`; the custom event does not include destination contact details or link text. A contact click is not a confirmed enquiry. Enhanced measurement remains managed in GA4.
+
+Validate installation using the stream's Google tag test and GA4 Realtime. For channel and language breakdowns in standard reports, create event-scoped custom dimensions for these two event parameters.

@@ -37,7 +37,7 @@ for locale in labels:
         page = page.replace('<span>EN</span>', '<span>'+labels[locale]+'</span>')
     page = page.replace('href="assets/', 'href="../assets/').replace('src="assets/', 'src="../assets/')
     page = page.replace('data-video-src="assets/', 'data-video-src="../assets/').replace('poster="assets/', 'poster="../assets/')
-    page = page.replace('href="styles.css"', 'href="../styles.css"').replace('src="script.js"', 'src="../script.js"')
+    page = page.replace('href="styles.css"', 'href="../styles.css"').replace('src="script.js"', 'src="../script.js"').replace('src="analytics.js"', 'src="../analytics.js"')
     if locale == 'id':
         page = page.replace('>2,986<', '>2.986<').replace('>2,640<', '>2.640<')
     for code in labels:
@@ -56,8 +56,8 @@ for locale in labels:
     (target / 'index.html').write_text(page)
     if locale == 'en':
         # Keep the homepage in English while /en remains directly shareable.
-        (output / 'index.html').write_text(page.replace('../assets/', 'assets/').replace('../styles.css', 'styles.css').replace('../script.js', 'script.js'))
-for name in ('styles.css', 'script.js'):
+        (output / 'index.html').write_text(page.replace('../assets/', 'assets/').replace('../styles.css', 'styles.css').replace('../script.js', 'script.js').replace('../analytics.js', 'analytics.js'))
+for name in ('styles.css', 'script.js', 'analytics.js'):
     shutil.copy2(root / name, output / name)
 shutil.copytree(root / 'assets', output / 'assets', dirs_exist_ok=True)
 redirects = []
