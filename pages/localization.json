@@ -1565,22 +1565,22 @@
     "fil": "Tsutenkaku 3",
     "ko": "쓰텐카쿠 3"
   },
-  "Talk to us anytime.": {
-    "ja": "お気軽にご連絡ください。",
-    "zh-Hant": "歡迎隨時與我們聯繫。",
-    "ms": "Hubungi kami bila-bila masa.",
-    "th": "ติดต่อเราได้ทุกเมื่อ",
-    "id": "Hubungi kami kapan saja.",
-    "fil": "Makipag-ugnayan sa amin anumang oras.",
-    "ko": "언제든지 문의해 주세요."
+  "Contact us": {
+    "ja": "お問い合わせ",
+    "zh-Hant": "聯絡我們",
+    "ms": "Hubungi Kami",
+    "th": "ติดต่อเรา",
+    "id": "Hubungi Kami",
+    "fil": "Makipag-ugnayan sa Amin",
+    "ko": "문의하기"
   },
-  "Whether you have a group coming up, want to discuss a long-term partnership, or simply want to get to know us first, we'd be glad to hear from you.": {
-    "ja": "団体のご予定がある場合はもちろん、長期的なお取引のご相談や、まずは情報交換だけでも歓迎です。",
-    "zh-Hant": "不論是已有團體需求、想洽談長期合作，或只是想先認識我們，都歡迎聯繫。",
-    "ms": "Sama ada anda ada kumpulan yang akan datang, ingin membincangkan kerjasama jangka panjang, atau sekadar mahu mengenali kami dahulu, kami sedia mendengar.",
-    "th": "ไม่ว่าคุณจะมีกรุ๊ปที่กำลังจะมา อยากคุยเรื่องความร่วมมือระยะยาว หรือแค่อยากรู้จักเราก่อน เรายินดีรับฟังเสมอ",
-    "id": "Baik Anda sudah punya rombongan, ingin membahas kemitraan jangka panjang, atau sekadar ingin mengenal kami terlebih dahulu, kami senang mendengar dari Anda.",
-    "fil": "May grupo man kayong paparating, gusto ninyong pag-usapan ang pangmatagalang partnership, o gusto lang muna ninyong makilala kami, ikinagagalak naming makarinig mula sa inyo.",
-    "ko": "단체 일정이 있으시거나 장기 제휴를 논의하고 싶으실 때, 또는 먼저 인사만 나누고 싶으실 때도 언제든 환영합니다."
+  "We welcome enquiries regarding group bookings, long-term partnerships, or general information about our properties.": {
+    "ja": "団体のご予約、長期的なお取引のご相談、当社施設に関するご質問など、お気軽にお問い合わせください。",
+    "zh-Hant": "無論是團體訂房需求、長期合作洽談，或希望進一步了解本公司，均歡迎與我們聯繫。",
+    "ms": "Kami mengalu-alukan pertanyaan berkaitan tempahan berkumpulan, kerjasama jangka panjang atau maklumat umum tentang hartanah kami.",
+    "th": "เรายินดีรับการติดต่อเกี่ยวกับการจองสำหรับกรุ๊ป ความร่วมมือระยะยาว หรือข้อมูลทั่วไปเกี่ยวกับที่พักของเรา",
+    "id": "Kami menerima pertanyaan terkait pemesanan rombongan, kemitraan jangka panjang, maupun informasi umum mengenai properti kami.",
+    "fil": "Malugod naming tinatanggap ang mga katanungan tungkol sa group booking, pangmatagalang partnership, o pangkalahatang impormasyon tungkol sa aming mga property.",
+    "ko": "단체 예약, 장기 제휴 상담, 당사 숙소에 관한 일반 문의 등 언제든지 연락 주시기 바랍니다."
   }
 }
