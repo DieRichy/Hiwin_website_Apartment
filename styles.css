@@ -1242,3 +1242,5 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
 @media(min-width:761px){.op-area-extra .op-chips .op-chip{min-width:200px}}
 @media(max-width:760px){.op-chips{display:grid;grid-template-columns:1fr 1fr;gap:10px}.op-chip{padding:14px 16px}.op-chip span{font-size:16px}.op-chip strong{font-size:26px}}
 .op-more-card .op-more-cta:hover,.op-more-card .op-more-cta:focus-visible{color:var(--ink);border-color:var(--ink)}
+.op-more-card .op-more-logo{width:auto;height:44px;max-width:80%;aspect-ratio:auto;object-fit:contain;margin-bottom:6px}
+@media(max-width:760px){.op-more-card .op-more-logo{height:38px}}
