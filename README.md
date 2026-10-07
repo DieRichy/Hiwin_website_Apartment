@@ -78,3 +78,7 @@ Two inner pages target travel-agency searches, in all 8 languages:
 - Strings: `pages/localization.json`, all seven languages required. Strings already in `localization.json` (navigation, contact labels, property names) are reused from there; the build rejects duplicates so each string has one translation site-wide. English is the base; translations are localized, not literal.
 - Homepage links to the pages (`href="osaka-accommodation/"` / `href="travel-agency-partnership/"`) are rewritten per language by the build.
 - Content rules: every property is labelled as a featured selection, and the page says more properties and room types are available on request. Partner rates are never published; the rate sheet is sent on enquiry. Room data follows the 2027 rate sheet; access and facilities follow the property brochures and apartmenthotel11.com. Property photos in `assets/stays/` are 640×800 crops of the main photos on apartmenthotel11.com.
+
+## Cache busting · October 7, 2026
+
+Cloudflare serves CSS/JS with `cache-control: max-age=14400` (4 hours), so after a release a returning visitor could get new HTML with an old stylesheet. `build.py` appends `?v=<content hash>` to every `styles.css`, `script.js`, `page.js` and `analytics.js` reference in the built HTML, so a changed file always gets a new URL. No manual step is needed.

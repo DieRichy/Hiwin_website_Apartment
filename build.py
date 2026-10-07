@@ -170,6 +170,14 @@ for locale, route in routes.items():
 (output / '_redirects').write_text('\n'.join(redirects)+'\n')
 # Publish only canonical language URLs; the root English alias points to /en/.
 namespace = 'http://www.sitemaps.org/schemas/sitemap/0.9'
+# Cache busting: Cloudflare lets browsers keep CSS/JS for 4 hours, so a new page could load with an old
+# stylesheet. Tag every CSS/JS reference with a hash of the file content; a changed file gets a new URL.
+import hashlib
+versions = {name: hashlib.sha1((root / name).read_bytes()).hexdigest()[:10] for name in ('styles.css', 'script.js', 'page.js', 'analytics.js')}
+for page_path in output.rglob('*.html'):
+    text = page_path.read_text()
+    text = re.sub(r'((?:href|src)="[^"]*?(styles\.css|script\.js|page\.js|analytics\.js))"', lambda m: m.group(1)+'?v='+versions[m.group(2)]+'"', text)
+    page_path.write_text(text)
 ET.register_namespace('', namespace)
 sitemap = ET.Element('{'+namespace+'}urlset')
 for route in routes.values():
