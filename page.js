@@ -20,7 +20,7 @@ for (const row of document.querySelectorAll('.op-cards')) {
   const buttons = cards.map(card => {
     const button = document.createElement('button');
     button.type = 'button';
-    button.setAttribute('aria-label', (card.querySelector('h4') || card.querySelector('strong')).textContent);
+    button.setAttribute('aria-label', (card.querySelector('h4') || card.querySelector('span')).textContent);
     button.addEventListener('click', () => row.scrollTo({left: card.offsetLeft - cards[0].offsetLeft, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'}));
     dots.append(button);
     return button;

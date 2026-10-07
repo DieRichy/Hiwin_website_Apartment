@@ -1448,15 +1448,6 @@
     "fil": "Magtanong ng iba pang options",
     "ko": "더 많은 숙소 문의하기"
   },
-  "more properties in this area": {
-    "ja": "このエリアのその他の施設",
-    "zh-Hant": "此區其他物業",
-    "ms": "lagi hartanah di kawasan ini",
-    "th": "ที่พักอื่นในย่านนี้",
-    "id": "properti lain di area ini",
-    "fil": "pang property sa lugar na ito",
-    "ko": "이 지역의 다른 숙소"
-  },
   "More Osaka areas": {
     "ja": "大阪のその他のエリア",
     "zh-Hant": "大阪其他區域",
@@ -1484,15 +1475,6 @@
     "fil": "Umeda at Osaka Dome",
     "ko": "우메다 · 오사카 돔"
   },
-  "Number of properties in each area, not featured above. Ask us for options.": {
-    "ja": "各エリアの施設数です（上記では紹介していません）。お気軽にお問い合わせください。",
-    "zh-Hant": "數字為各區物業數，以上未列出，歡迎洽詢。",
-    "ms": "Bilangan hartanah di setiap kawasan, tidak dipaparkan di atas. Tanya kami untuk pilihan.",
-    "th": "ตัวเลขคือจำนวนที่พักในแต่ละย่าน ซึ่งไม่ได้แสดงด้านบน สอบถามได้เลย",
-    "id": "Jumlah properti di setiap area, tidak ditampilkan di atas. Tanyakan pilihan kepada kami.",
-    "fil": "Bilang ng property sa bawat lugar na hindi nakalista sa itaas. Magtanong lang para sa options.",
-    "ko": "지역별 숙소 수이며, 위에는 소개되지 않았습니다. 문의해 주세요."
-  },
   "Other cities in Japan": {
     "ja": "日本のその他の都市",
     "zh-Hant": "日本其他城市",
@@ -1510,5 +1492,23 @@
     "id": "Jumlah properti di setiap kota. Suite yang lebih luas juga tersedia. Tanyakan pilihan kepada kami.",
     "fil": "Bilang ng property sa bawat lungsod. May mas malalaking suite din. Magtanong lang para sa options.",
     "ko": "도시별 숙소 수입니다. 더 넓은 스위트룸도 있습니다. 문의해 주세요."
+  },
+  "More properties in this area": {
+    "ja": "このエリアには、ほかにも施設があります",
+    "zh-Hant": "此區還有更多物業",
+    "ms": "Lebih banyak hartanah di kawasan ini",
+    "th": "ยังมีที่พักอื่นในย่านนี้อีก",
+    "id": "Masih ada properti lain di area ini",
+    "fil": "Marami pang property sa lugar na ito",
+    "ko": "이 지역에 더 많은 숙소가 있습니다"
+  },
+  "Also available, not featured above. Ask us for options.": {
+    "ja": "上記で紹介していないエリアにも施設があります。お気軽にお問い合わせください。",
+    "zh-Hant": "以上未列出的區域也有物業，歡迎洽詢。",
+    "ms": "Turut tersedia, tidak dipaparkan di atas. Tanya kami untuk pilihan.",
+    "th": "มีที่พักในย่านเหล่านี้ด้วย ซึ่งไม่ได้แสดงด้านบน สอบถามได้เลย",
+    "id": "Juga tersedia, tidak ditampilkan di atas. Tanyakan pilihan kepada kami.",
+    "fil": "Available din, hindi nakalista sa itaas. Magtanong lang para sa options.",
+    "ko": "위에 소개되지 않은 지역에도 숙소가 있습니다. 문의해 주세요."
   }
 }
