@@ -34,3 +34,46 @@ for (const row of document.querySelectorAll('.op-cards')) {
   row.addEventListener('scroll', update, {passive: true});
   update();
 }
+// Osaka page building strip: drifts slowly and loops forever. The track holds the photos twice; when the
+// scroll position passes one full set it jumps back by exactly that width, which looks seamless.
+const strip = document.querySelector('.op-buildings');
+if (strip) {
+  const figures = strip.querySelector('.op-buildings-track').children;
+  const half = figures.length / 2;
+  const period = () => figures[half].offsetLeft - figures[0].offsetLeft;
+  const still = matchMedia('(prefers-reduced-motion: reduce)');
+  const wrap = () => {
+    const p = period();
+    // Keep the position in (0, p]: past p jump back one set, at 0 jump forward one set.
+    if (strip.scrollLeft > p) strip.scrollLeft -= p;
+    else if (strip.scrollLeft <= 0) strip.scrollLeft += p;
+  };
+  strip.addEventListener('scroll', wrap, {passive: true});
+  strip.scrollLeft = 1;
+  for (const img of strip.querySelectorAll('img')) img.draggable = false;
+  let paused = false, resume, carry = 0, last = performance.now();
+  const pause = () => { paused = true; clearTimeout(resume); };
+  const resumeLater = (ms) => { clearTimeout(resume); resume = setTimeout(() => { paused = false; }, ms); };
+  strip.addEventListener('pointerenter', e => { if (e.pointerType === 'mouse') pause(); });
+  strip.addEventListener('pointerleave', e => { if (e.pointerType === 'mouse') resumeLater(300); });
+  strip.addEventListener('touchstart', pause, {passive: true});
+  strip.addEventListener('touchend', () => resumeLater(2500), {passive: true});
+  // Mouse drag on desktop (touch devices swipe natively).
+  let dragX = null;
+  strip.addEventListener('pointerdown', e => { if (e.pointerType !== 'mouse') return; dragX = e.clientX; strip.classList.add('dragging'); strip.setPointerCapture(e.pointerId); });
+  strip.addEventListener('pointermove', e => { if (dragX === null) return; strip.scrollLeft -= e.clientX - dragX; dragX = e.clientX; });
+  const endDrag = () => { dragX = null; strip.classList.remove('dragging'); };
+  strip.addEventListener('pointerup', endDrag);
+  strip.addEventListener('pointercancel', endDrag);
+  const speed = () => (matchMedia('(max-width:760px)').matches ? 22 : 30); // px per second
+  const tick = now => {
+    const dt = Math.min(now - last, 100) / 1000; last = now;
+    if (!paused && !still.matches && !document.hidden) {
+      carry += speed() * dt;
+      const step = Math.floor(carry);
+      if (step) { strip.scrollLeft += step; carry -= step; }
+    }
+    requestAnimationFrame(tick);
+  };
+  requestAnimationFrame(tick);
+}

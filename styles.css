@@ -1248,3 +1248,11 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
 @media(max-width:760px){.op-chip-more{font-size:16px}}
 /* Keep the two logos together on the left at every width; only the controls go right. */
 @media(max-width:1280px){.site-header>.header-controls{margin-left:auto}}
+/* Osaka page building strip: endless loop (page.js scrolls it and wraps around), swipe or drag to browse. */
+.op-buildings{display:block;margin-top:40px;overflow-x:auto;overflow-y:hidden;scroll-snap-type:none;scrollbar-width:none;padding-bottom:0;cursor:grab;-webkit-mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent);mask-image:linear-gradient(90deg,transparent,#000 4%,#000 96%,transparent)}
+.op-buildings::-webkit-scrollbar{display:none}.op-buildings.dragging{cursor:grabbing}
+.op-buildings-track{display:flex;gap:16px;width:max-content}.op-buildings figure{flex:0 0 180px;margin:0}.op-buildings img{width:100%;height:auto;aspect-ratio:4/5;-webkit-user-drag:none;user-select:none}
+@media(max-width:1100px){.op-buildings{display:block;overflow-x:auto;scroll-snap-type:none;padding-bottom:0}}
+@media(max-width:760px){.op-buildings{margin-top:28px}.op-buildings-track{gap:12px}.op-buildings figure{flex-basis:132px}}
+/* FEATURED SELECTION badge in the page's dark brown */
+.op-badge{background:#44382e}
