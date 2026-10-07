@@ -16,6 +16,45 @@ routes = {'en': 'en', 'ja': 'jp', 'zh-Hant': 'tw', 'ms': 'my', 'th': 'th', 'id':
 origin = (os.environ.get('SITE_URL') or os.environ.get('CF_PAGES_URL') or '').rstrip('/')
 if not origin.startswith('https://'):
     raise ValueError('Set SITE_URL to the https:// website origin before building.')
+og_locales = {'en': 'en_US', 'ja': 'ja_JP', 'zh-Hant': 'zh_TW', 'ms': 'ms_MY', 'th': 'th_TH', 'id': 'id_ID', 'fil': 'fil_PH', 'ko': 'ko_KR'}
+# Brand names people search for: parent company HIWIN, hotel brand Apartment Hotel 11, Chinese brand name 住一.
+brand_names = ['住一', 'Apartment Hotel 11 (Eleven)', 'アパートメントホテル11']
+def structured_data(locale, path, page):
+    """Schema.org JSON-LD for Google: the company, its hotel brand, contact point and this language page."""
+    title = html.unescape(re.search(r'<title>(.*?)</title>', page, re.S).group(1)).strip()
+    description = html.unescape(re.search(r'<meta name="description" content="([^"]*)"', page).group(1))
+    org_id = origin + '/#organization'
+    data = {
+        '@context': 'https://schema.org',
+        '@graph': [
+            {
+                '@type': 'Organization',
+                '@id': org_id,
+                'name': 'HIWIN',
+                'url': origin + '/',
+                'logo': origin + '/assets/hiwin-logo.svg',
+                'sameAs': ['https://hiwin-japan.co.jp/'],
+                'brand': {'@type': 'Brand', 'name': 'Apartment Hotel 11', 'alternateName': brand_names,
+                          'logo': origin + '/assets/apartment11-logo.png'},
+                'address': {'@type': 'PostalAddress', 'streetAddress': '13F Quartz Shinsaibashi, 3-12-14 Minamisenba, Chuo-ku',
+                            'addressLocality': 'Osaka', 'addressRegion': 'Osaka', 'postalCode': '542-0081', 'addressCountry': 'JP'},
+                'contactPoint': {'@type': 'ContactPoint', 'telephone': '+81-70-3205-9967', 'contactType': 'sales',
+                                 'areaServed': ['MY', 'SG', 'TH', 'ID', 'PH', 'TW', 'HK', 'KR']},
+            },
+            {
+                '@type': 'WebPage',
+                '@id': origin + path + '#webpage',
+                'url': origin + path,
+                'name': title,
+                'description': description,
+                'inLanguage': locale,
+                'publisher': {'@id': org_id},
+                'about': {'@id': org_id},
+            },
+        ],
+    }
+    # Keep "</" out of the inline script so the JSON can never close the tag early.
+    return json.dumps(data, ensure_ascii=False, separators=(',', ':')).replace('</', '<\\/')
 for locale in labels:
     page = template
     if locale in ('th', 'id', 'fil'):
@@ -50,6 +89,15 @@ for locale in labels:
         url = origin + '/'+routes[code]+'/'
         seo += '<link rel="alternate" hreflang="'+code+'" href="'+url+'">'
     seo += '<link rel="alternate" hreflang="x-default" href="'+origin+'/">'
+    # Share previews (WhatsApp, LINE, Facebook) need absolute URLs and a locale.
+    seo += '<meta property="og:url" content="'+origin+path+'">'
+    seo += '<meta property="og:image" content="'+origin+'/assets/og-image.jpg">'
+    seo += '<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
+    seo += '<meta property="og:locale" content="'+og_locales[locale]+'">'
+    for code in labels:
+        if code != locale:
+            seo += '<meta property="og:locale:alternate" content="'+og_locales[code]+'">'
+    seo += '<script type="application/ld+json">'+structured_data(locale, path, page)+'</script>'
     page = page.replace('</head>', seo+'\n</head>')
     target = output / routes[locale]
     target.mkdir(exist_ok=True)

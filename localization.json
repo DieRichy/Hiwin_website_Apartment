@@ -1,12 +1,12 @@
 {
-  "HIWIN | Travel Agency Partnerships in Japan": {
-    "ja": "HIWIN｜旅行会社向け 日本の宿泊・サービス",
-    "zh-Hant": "HIWIN｜日本住宿與旅行社合作",
-    "ms": "HIWIN | Rakan Penginapan di Jepun untuk Agensi Pelancongan",
-    "th": "HIWIN — พันธมิตรบริษัทท่องเที่ยวในญี่ปุ่น",
-    "id": "HIWIN — Kemitraan Agen Perjalanan di Jepang",
-    "fil": "HIWIN — Pakikipagtulungan sa mga Travel Agency sa Japan",
-    "ko": "HIWIN | 여행사를 위한 일본 여행 파트너십"
+  "Apartment Hotel 11 for Travel Agencies in Japan | HIWIN": {
+    "ja": "Apartment Hotel 11｜旅行会社向け 日本の宿泊パートナー｜HIWIN",
+    "zh-Hant": "住一 Apartment Hotel 11｜日本住宿・旅行社合作｜HIWIN",
+    "ms": "Apartment Hotel 11 untuk Agensi Pelancongan di Jepun | HIWIN",
+    "th": "Apartment Hotel 11 ที่พักในญี่ปุ่นสำหรับบริษัทท่องเที่ยว | HIWIN",
+    "id": "Apartment Hotel 11 untuk Agen Perjalanan di Jepang | HIWIN",
+    "fil": "Apartment Hotel 11 para sa mga Travel Agency sa Japan | HIWIN",
+    "ko": "Apartment Hotel 11 | 여행사를 위한 일본 숙박 파트너 | HIWIN"
   },
   "Skip to content": {
     "ja": "本文へ移動",
@@ -172,7 +172,7 @@
   },
   "Based in Osaka, HIWIN operates Apartment Hotel 11 (Eleven). Our group brings together property development, design, construction and operations to create apartment hotels that combine the comfort of home with the convenience of a hotel.": {
     "ja": "HIWINは大阪を拠点に、Apartment Hotel 11（Eleven）を運営しています。グループで開発・設計・施工・運営を担い、自宅のような快適さとホテルの利便性を兼ね備えたアパートメントホテルを展開しています。",
-    "zh-Hant": "HIWIN 以大阪為據點，營運 Apartment Hotel 11（Eleven）。集團整合開發、設計、施工與營運，打造兼具居家舒適感與飯店便利性的公寓式飯店。",
+    "zh-Hant": "HIWIN 以大阪為據點，營運 住一 Apartment Hotel 11。集團整合開發、設計、施工與營運，打造兼具居家舒適感與飯店便利性的公寓式飯店。",
     "ms": "HIWIN berpusat di Osaka dan mengendalikan Apartment Hotel 11 (Eleven). Kumpulan kami menggabungkan pembangunan hartanah, reka bentuk, pembinaan dan operasi untuk menawarkan hotel apartmen dengan keselesaan rumah dan kemudahan hotel.",
     "th": "HIWIN มีฐานการดำเนินงานในโอซาก้าและดำเนินธุรกิจ Apartment Hotel 11 (Eleven) กลุ่มบริษัทของเราดูแลตั้งแต่การพัฒนาอสังหาริมทรัพย์ การออกแบบ การก่อสร้าง ไปจนถึงการบริหารที่พัก เพื่อสร้างที่พักแบบอพาร์ตเมนต์ที่ผสานความสบายเหมือนอยู่บ้านกับความสะดวกของโรงแรม",
     "id": "Berbasis di Osaka, HIWIN mengoperasikan Apartment Hotel 11 (Eleven). Grup kami menangani pengembangan properti, desain, konstruksi, hingga pengelolaan, untuk menghadirkan hotel apartemen yang memadukan kenyamanan rumah dengan kemudahan hotel.",
@@ -1196,14 +1196,14 @@
     "fil": "Mga business partner na nagkakamay",
     "ko": "악수하는 비즈니스 파트너"
   },
-  "Connect your agency to Apartment Hotel 11: 60 properties, 2,986 rooms and six city destinations in Japan, with dining and local services through the HIWIN network.": {
-    "ja": "旅行会社の皆さまへ。Apartment Hotel 11は日本6エリアに60施設・2,986室を展開。宿泊にHIWINの飲食・地域サービスを組み合わせた旅をご提案します。",
-    "zh-Hant": "HIWIN 為旅行社提供日本住宿合作：Apartment Hotel 11 涵蓋六個目的地、60處住宿據點與2,986間客房，並結合餐飲及在地服務。",
-    "ms": "HIWIN menawarkan kerjasama penginapan untuk agensi pelancongan: 60 lokasi penginapan, 2,986 bilik di enam destinasi di Jepun, bersama pilihan tempat makan dan perkhidmatan tempatan.",
-    "th": "เชื่อมบริษัทท่องเที่ยวของคุณกับ Apartment Hotel 11: ที่พัก 60 แห่ง ห้องพัก 2,986 ห้อง ใน 6 จุดหมายปลายทางของญี่ปุ่น พร้อมร้านอาหารและบริการท้องถิ่นผ่านเครือข่าย HIWIN",
-    "id": "Hubungkan agen perjalanan Anda dengan Apartment Hotel 11: 60 properti, 2.986 kamar, dan enam destinasi di Jepang, dengan kuliner serta layanan lokal melalui jaringan HIWIN.",
-    "fil": "Iugnay ang inyong travel agency sa Apartment Hotel 11: 60 property, 2,986 kuwarto, at anim na destinasyon sa Japan, kasama ang mga kainan at lokal na serbisyo sa network ng HIWIN.",
-    "ko": "여행사를 위한 Apartment Hotel 11 파트너십. 일본 6개 지역의 60개 시설, 2,986개 객실과 HIWIN 네트워크의 식사 및 현지 서비스를 함께 제안합니다."
+  "Partner with Apartment Hotel 11 by HIWIN: 60 apartment hotels and 2,986 rooms in Osaka, Kyoto, Tokyo and 3 more Japanese cities, for FIT and group travel.": {
+    "ja": "HIWINが運営するApartment Hotel 11は、大阪・京都・東京など日本6都市に60施設・2,986室を展開。旅行会社さま向けに、個人旅行・団体旅行の宿泊と飲食・地域サービスをご提案します。",
+    "zh-Hant": "住一 Apartment Hotel 11 由 HIWIN 營運，在大阪、京都、東京等日本六個城市擁有60處公寓式飯店、2,986間客房，為旅行社提供自由行與團體住宿合作，並結合餐飲及在地服務。",
+    "ms": "Bekerjasama dengan Apartment Hotel 11 oleh HIWIN: 60 hotel apartmen dan 2,986 bilik di Osaka, Kyoto, Tokyo dan tiga lagi bandar di Jepun, untuk pelancongan individu dan berkumpulan.",
+    "th": "ร่วมงานกับ Apartment Hotel 11 โดย HIWIN: อพาร์ตเมนต์โฮเทล 60 แห่ง ห้องพัก 2,986 ห้อง ในโอซาก้า เกียวโต โตเกียว และอีก 3 เมืองในญี่ปุ่น สำหรับนักท่องเที่ยวอิสระและกรุ๊ปทัวร์",
+    "id": "Bermitra dengan Apartment Hotel 11 oleh HIWIN: 60 hotel apartemen dan 2.986 kamar di Osaka, Kyoto, Tokyo, dan tiga kota lain di Jepang, untuk perjalanan individu maupun rombongan.",
+    "fil": "Makipag-partner sa Apartment Hotel 11 ng HIWIN: 60 apartment hotel at 2,986 kuwarto sa Osaka, Kyoto, Tokyo at tatlo pang lungsod sa Japan, para sa individual at group travel.",
+    "ko": "HIWIN이 운영하는 Apartment Hotel 11과 함께하세요. 오사카·교토·도쿄 등 일본 6개 도시의 60개 시설, 2,986개 객실로 개별 여행과 단체 여행 숙박을 제안합니다."
   },
   "Pause slideshow": {
     "ja": "スライドを一時停止",
