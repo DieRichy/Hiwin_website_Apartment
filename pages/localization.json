@@ -1,0 +1,1316 @@
+{
+  "Osaka stays": {
+    "ja": "大阪の宿泊施設",
+    "zh-Hant": "大阪住宿",
+    "ms": "Penginapan di Osaka",
+    "th": "ที่พักในโอซาก้า",
+    "id": "Penginapan di Osaka",
+    "fil": "Mga matutuluyan sa Osaka",
+    "ko": "오사카 숙소"
+  },
+  "How we partner": {
+    "ja": "お取引について",
+    "zh-Hant": "合作方式",
+    "ms": "Cara bekerjasama",
+    "th": "รูปแบบความร่วมมือ",
+    "id": "Cara bermitra",
+    "fil": "Paano makipag-partner",
+    "ko": "제휴 안내"
+  },
+  "HIWIN Travel Agency Partnerships home": {
+    "ja": "HIWIN 旅行会社向けサイト トップ",
+    "zh-Hant": "HIWIN 旅行社合作首頁",
+    "ms": "Laman utama kerjasama agensi pelancongan HIWIN",
+    "th": "หน้าแรกความร่วมมือกับบริษัทนำเที่ยวของ HIWIN",
+    "id": "Beranda kemitraan agen perjalanan HIWIN",
+    "fil": "Home ng HIWIN travel agency partnerships",
+    "ko": "HIWIN 여행사 제휴 홈"
+  },
+  "Send an accommodation enquiry.": {
+    "ja": "宿泊のご相談はこちら",
+    "zh-Hant": "住宿需求，歡迎洽詢",
+    "ms": "Hantar pertanyaan penginapan",
+    "th": "สอบถามเรื่องที่พัก",
+    "id": "Kirim pertanyaan akomodasi",
+    "fil": "Magpadala ng accommodation inquiry",
+    "ko": "숙박 문의하기"
+  },
+  "Please include stay dates, number of guests and rooms.": {
+    "ja": "ご宿泊日程・人数・部屋数をお知らせください。",
+    "zh-Hant": "詢價時請提供入住日期、人數與房間數。",
+    "ms": "Sila nyatakan tarikh menginap, bilangan tetamu dan bilik.",
+    "th": "กรุณาระบุวันที่เข้าพัก จำนวนผู้เข้าพัก และจำนวนห้อง",
+    "id": "Mohon sertakan tanggal menginap, jumlah tamu, dan jumlah kamar.",
+    "fil": "Pakisama ang petsa ng stay, bilang ng bisita at kuwarto.",
+    "ko": "숙박 일정, 인원, 객실 수를 함께 알려 주세요."
+  },
+  "Information as of October 2026 and may change without notice. Room layouts and furnishings may vary. Final availability and rates are confirmed according to stay dates, property and group requirements.": {
+    "ja": "掲載情報は2026年10月時点のもので、予告なく変更する場合があります。客室の間取りや備品は部屋により異なる場合があります。空室状況と料金は、ご宿泊日・施設・人数に応じて確定いたします。",
+    "zh-Hant": "以上資訊為2026年10月資料，如有異動恕不另行通知。各房間格局與擺設可能略有不同。實際房況與價格，將依入住日期、物業與人數需求確認。",
+    "ms": "Maklumat setakat Oktober 2026 dan boleh berubah tanpa notis. Susun atur dan perabot bilik mungkin berbeza. Ketersediaan dan kadar muktamad disahkan mengikut tarikh menginap, hartanah dan keperluan kumpulan.",
+    "th": "ข้อมูล ณ เดือนตุลาคม 2026 และอาจเปลี่ยนแปลงโดยไม่ต้องแจ้งให้ทราบล่วงหน้า ผังห้องและเฟอร์นิเจอร์อาจแตกต่างกันในแต่ละห้อง ห้องว่างและราคาจะยืนยันตามวันที่เข้าพัก ที่พัก และความต้องการของกรุ๊ป",
+    "id": "Informasi per Oktober 2026 dan dapat berubah tanpa pemberitahuan. Tata letak dan perabot kamar dapat berbeda. Ketersediaan dan tarif final dikonfirmasi sesuai tanggal menginap, properti, dan kebutuhan rombongan.",
+    "fil": "Ang impormasyon ay as of Oktubre 2026 at maaaring magbago nang walang abiso. Maaaring magkakaiba ang layout at gamit ng bawat kuwarto. Kinukumpirma ang final na availability at rates ayon sa petsa, property at pangangailangan ng grupo.",
+    "ko": "2026년 10월 기준 정보이며 사전 공지 없이 변경될 수 있습니다. 객실 구조와 비품은 객실마다 다를 수 있습니다. 최종 객실 현황과 요금은 숙박 일정, 숙소, 단체 조건에 따라 확정됩니다."
+  },
+  "See featured Osaka properties for travel agencies": {
+    "ja": "旅行会社さま向け｜大阪のおすすめ施設を見る",
+    "zh-Hant": "旅行社專區：查看大阪精選物業",
+    "ms": "Lihat hartanah pilihan di Osaka untuk agensi pelancongan",
+    "th": "ดูที่พักแนะนำในโอซาก้าสำหรับบริษัทนำเที่ยว",
+    "id": "Lihat properti pilihan di Osaka untuk agen perjalanan",
+    "fil": "Tingnan ang featured properties sa Osaka para sa travel agencies",
+    "ko": "여행사용 오사카 추천 숙소 보기"
+  },
+  "Partner rates, stay conditions and booking steps": {
+    "ja": "取引料金・宿泊条件・ご予約の流れ",
+    "zh-Hant": "同業價格、住宿條件與訂房流程",
+    "ms": "Kadar rakan kongsi, syarat penginapan dan cara tempahan",
+    "th": "ราคาสำหรับพาร์ทเนอร์ เงื่อนไขการเข้าพัก และขั้นตอนการจอง",
+    "id": "Tarif mitra, ketentuan menginap, dan langkah pemesanan",
+    "fil": "Partner rates, kondisyon ng stay at paano mag-book",
+    "ko": "제휴 요금, 숙박 조건, 예약 절차"
+  },
+  "Osaka Apartment Hotels for Travel Agents | Apartment Hotel 11": {
+    "ja": "旅行会社さま向け 大阪のアパートメントホテル｜Apartment Hotel 11",
+    "zh-Hant": "大阪公寓式飯店・旅行社住宿合作｜住一 Apartment Hotel 11",
+    "ms": "Hotel Apartmen di Osaka untuk Agensi Pelancongan | Apartment Hotel 11",
+    "th": "อพาร์ตเมนต์โฮเทลในโอซาก้าสำหรับบริษัทนำเที่ยว | Apartment Hotel 11",
+    "id": "Hotel Apartemen di Osaka untuk Agen Perjalanan | Apartment Hotel 11",
+    "fil": "Osaka Apartment Hotels para sa Travel Agencies | Apartment Hotel 11",
+    "ko": "여행사를 위한 오사카 아파트먼트 호텔 | Apartment Hotel 11"
+  },
+  "Featured Apartment Hotel 11 properties in central Osaka for travel agencies: family and group rooms from 25㎡ with kitchens, breakfast delivery and partner rates on request.": {
+    "ja": "旅行会社さま向けに、大阪中心部のApartment Hotel 11おすすめ施設をご紹介。キッチン付き25㎡〜のファミリー・団体向け客室、朝食デリバリー付き。取引料金はお問い合わせください。",
+    "zh-Hant": "住一 Apartment Hotel 11 大阪市中心精選物業，專為旅行社提供：25㎡起、附廚房的家庭與團體客房，含早餐配送，同業價格歡迎洽詢。",
+    "ms": "Hartanah pilihan Apartment Hotel 11 di tengah Osaka untuk agensi pelancongan: bilik keluarga dan kumpulan dari 25㎡ dengan dapur, penghantaran sarapan dan kadar rakan kongsi atas permintaan.",
+    "th": "ที่พักแนะนำของ Apartment Hotel 11 ใจกลางโอซาก้าสำหรับบริษัทนำเที่ยว ห้องสำหรับครอบครัวและกรุ๊ปตั้งแต่ 25 ตร.ม. พร้อมครัว มีบริการส่งอาหารเช้า สอบถามราคาพาร์ทเนอร์ได้",
+    "id": "Properti pilihan Apartment Hotel 11 di pusat Osaka untuk agen perjalanan: kamar keluarga dan rombongan mulai 25㎡ dengan dapur, antar sarapan, dan tarif mitra sesuai permintaan.",
+    "fil": "Featured Apartment Hotel 11 properties sa central Osaka para sa travel agencies: family at group rooms mula 25㎡ na may kusina, breakfast delivery at partner rates kapag nag-inquire.",
+    "ko": "여행사를 위한 오사카 중심부 Apartment Hotel 11 추천 숙소. 주방이 있는 25㎡ 이상 가족·단체 객실, 조식 배달 포함, 제휴 요금은 문의해 주세요."
+  },
+  "Agency Partnership & Booking Terms | Apartment Hotel 11": {
+    "ja": "旅行会社さまとのお取引・予約条件｜Apartment Hotel 11",
+    "zh-Hant": "旅行社同業合作與訂房條件｜住一 Apartment Hotel 11",
+    "ms": "Kerjasama Agensi & Terma Tempahan | Apartment Hotel 11",
+    "th": "ความร่วมมือกับบริษัทนำเที่ยวและเงื่อนไขการจอง | Apartment Hotel 11",
+    "id": "Kemitraan Agen & Ketentuan Pemesanan | Apartment Hotel 11",
+    "fil": "Agency Partnership at Booking Terms | Apartment Hotel 11",
+    "ko": "여행사 제휴 및 예약 조건 | Apartment Hotel 11"
+  },
+  "How travel agencies work with Apartment Hotel 11 by HIWIN in Osaka: partner rates on request, stay conditions, cancellation policy and booking steps.": {
+    "ja": "HIWINが運営する大阪のApartment Hotel 11と旅行会社さまのお取引について。取引料金のご案内、宿泊条件、キャンセルポリシー、ご予約の流れをまとめています。",
+    "zh-Hant": "旅行社如何與 HIWIN 旗下大阪住一 Apartment Hotel 11 合作：同業價格洽詢、住宿條件、取消政策與訂房流程一次看懂。",
+    "ms": "Cara agensi pelancongan bekerjasama dengan Apartment Hotel 11 oleh HIWIN di Osaka: kadar rakan kongsi atas permintaan, syarat penginapan, polisi pembatalan dan langkah tempahan.",
+    "th": "บริษัทนำเที่ยวร่วมงานกับ Apartment Hotel 11 โดย HIWIN ในโอซาก้าอย่างไร: ราคาพาร์ทเนอร์ตามคำขอ เงื่อนไขการเข้าพัก นโยบายการยกเลิก และขั้นตอนการจอง",
+    "id": "Cara agen perjalanan bermitra dengan Apartment Hotel 11 by HIWIN di Osaka: tarif mitra sesuai permintaan, ketentuan menginap, kebijakan pembatalan, dan langkah pemesanan.",
+    "fil": "Paano nakikipag-partner ang travel agencies sa Apartment Hotel 11 ng HIWIN sa Osaka: partner rates kapag nag-inquire, kondisyon ng stay, cancellation policy at booking steps.",
+    "ko": "여행사가 HIWIN의 오사카 Apartment Hotel 11과 제휴하는 방법: 제휴 요금 문의, 숙박 조건, 취소 규정, 예약 절차를 한눈에 확인하세요."
+  },
+  "FOR TRAVEL AGENCIES · OSAKA": {
+    "ja": "旅行会社さま向け・大阪",
+    "zh-Hant": "旅行社專區・大阪",
+    "ms": "UNTUK AGENSI PELANCONGAN · OSAKA",
+    "th": "สำหรับบริษัทนำเที่ยว · โอซาก้า",
+    "id": "UNTUK AGEN PERJALANAN · OSAKA",
+    "fil": "PARA SA TRAVEL AGENCIES · OSAKA",
+    "ko": "여행사 전용 · 오사카"
+  },
+  "Osaka apartment hotels for travel agencies": {
+    "ja": "旅行会社さまへ、大阪のアパートメントホテル",
+    "zh-Hant": "大阪公寓式飯店，旅行社住宿合作",
+    "ms": "Hotel apartmen di Osaka untuk agensi pelancongan",
+    "th": "อพาร์ตเมนต์โฮเทลในโอซาก้า สำหรับบริษัทนำเที่ยว",
+    "id": "Hotel apartemen di Osaka untuk agen perjalanan",
+    "fil": "Apartment hotels sa Osaka para sa travel agencies",
+    "ko": "여행사를 위한 오사카 아파트먼트 호텔"
+  },
+  "Featured Apartment Hotel 11 properties in central Osaka, for independent travellers, families and groups. Partner rates are available on request.": {
+    "ja": "個人旅行・ご家族・団体のお客さまに向けた、大阪中心部のApartment Hotel 11おすすめ施設です。取引料金はお問い合わせください。",
+    "zh-Hant": "住一 Apartment Hotel 11 位於大阪市中心的精選物業，自由行、家庭與團體旅客都適合。同業價格歡迎洽詢。",
+    "ms": "Hartanah pilihan Apartment Hotel 11 di tengah Osaka untuk pelancong individu, keluarga dan kumpulan. Kadar rakan kongsi boleh didapati atas permintaan.",
+    "th": "ที่พักแนะนำของ Apartment Hotel 11 ใจกลางโอซาก้า เหมาะสำหรับนักท่องเที่ยวอิสระ ครอบครัว และกรุ๊ปทัวร์ สอบถามราคาพาร์ทเนอร์ได้",
+    "id": "Properti pilihan Apartment Hotel 11 di pusat Osaka untuk wisatawan mandiri, keluarga, dan rombongan. Tarif mitra tersedia sesuai permintaan.",
+    "fil": "Featured Apartment Hotel 11 properties sa central Osaka para sa independent travellers, pamilya at grupo. Available ang partner rates kapag nag-inquire.",
+    "ko": "개별 여행객, 가족, 단체 고객을 위한 오사카 중심부 Apartment Hotel 11 추천 숙소입니다. 제휴 요금은 문의해 주세요."
+  },
+  "Send an accommodation enquiry": {
+    "ja": "宿泊について問い合わせる",
+    "zh-Hant": "住宿需求洽詢",
+    "ms": "Hantar pertanyaan penginapan",
+    "th": "สอบถามเรื่องที่พัก",
+    "id": "Kirim pertanyaan akomodasi",
+    "fil": "Mag-inquire tungkol sa accommodation",
+    "ko": "숙박 문의하기"
+  },
+  "Partnership and booking terms": {
+    "ja": "お取引・予約条件を見る",
+    "zh-Hant": "查看合作與訂房條件",
+    "ms": "Terma kerjasama dan tempahan",
+    "th": "เงื่อนไขความร่วมมือและการจอง",
+    "id": "Ketentuan kemitraan dan pemesanan",
+    "fil": "Partnership at booking terms",
+    "ko": "제휴 및 예약 조건 보기"
+  },
+  "FOR TRAVEL AGENCIES": {
+    "ja": "旅行会社さま向け",
+    "zh-Hant": "旅行社專區",
+    "ms": "UNTUK AGENSI PELANCONGAN",
+    "th": "สำหรับบริษัทนำเที่ยว",
+    "id": "UNTUK AGEN PERJALANAN",
+    "fil": "PARA SA TRAVEL AGENCIES",
+    "ko": "여행사 전용"
+  },
+  "Partner with Apartment Hotel 11": {
+    "ja": "Apartment Hotel 11とのお取引",
+    "zh-Hant": "與住一 Apartment Hotel 11 合作",
+    "ms": "Bekerjasama dengan Apartment Hotel 11",
+    "th": "ร่วมเป็นพาร์ทเนอร์กับ Apartment Hotel 11",
+    "id": "Bermitra dengan Apartment Hotel 11",
+    "fil": "Makipag-partner sa Apartment Hotel 11",
+    "ko": "Apartment Hotel 11과 함께하세요"
+  },
+  "Partner rates, stay conditions, cancellation policy and booking steps for travel agencies, all in one place.": {
+    "ja": "取引料金、宿泊条件、キャンセルポリシー、ご予約の流れを旅行会社さま向けにまとめました。",
+    "zh-Hant": "同業價格、住宿條件、取消政策與訂房流程，旅行社需要的資訊都在這裡。",
+    "ms": "Kadar rakan kongsi, syarat penginapan, polisi pembatalan dan langkah tempahan untuk agensi pelancongan, semuanya di satu tempat.",
+    "th": "ราคาพาร์ทเนอร์ เงื่อนไขการเข้าพัก นโยบายการยกเลิก และขั้นตอนการจอง สำหรับบริษัทนำเที่ยว รวมไว้ในที่เดียว",
+    "id": "Tarif mitra, ketentuan menginap, kebijakan pembatalan, dan langkah pemesanan untuk agen perjalanan, semuanya di satu tempat.",
+    "fil": "Partner rates, kondisyon ng stay, cancellation policy at booking steps para sa travel agencies, nasa iisang lugar.",
+    "ko": "제휴 요금, 숙박 조건, 취소 규정, 예약 절차까지 여행사에 필요한 정보를 한곳에 모았습니다."
+  },
+  "See featured Osaka properties": {
+    "ja": "大阪のおすすめ施設を見る",
+    "zh-Hant": "查看大阪精選物業",
+    "ms": "Lihat hartanah pilihan di Osaka",
+    "th": "ดูที่พักแนะนำในโอซาก้า",
+    "id": "Lihat properti pilihan di Osaka",
+    "fil": "Tingnan ang featured properties sa Osaka",
+    "ko": "오사카 추천 숙소 보기"
+  },
+  "FEATURED PROPERTIES": {
+    "ja": "おすすめ施設",
+    "zh-Hant": "精選物業",
+    "ms": "HARTANAH PILIHAN",
+    "th": "ที่พักแนะนำ",
+    "id": "PROPERTI PILIHAN",
+    "fil": "FEATURED PROPERTIES",
+    "ko": "추천 숙소"
+  },
+  "Featured stays in central Osaka.": {
+    "ja": "大阪中心部のおすすめ施設",
+    "zh-Hant": "大阪市中心精選住宿",
+    "ms": "Penginapan pilihan di tengah Osaka.",
+    "th": "ที่พักแนะนำใจกลางโอซาก้า",
+    "id": "Penginapan pilihan di pusat Osaka.",
+    "fil": "Featured stays sa central Osaka.",
+    "ko": "오사카 중심부 추천 숙소"
+  },
+  "Each card shows one featured room type. All central Osaka properties below have in-room kitchens.": {
+    "ja": "各施設のおすすめ客室タイプを1つずつご紹介しています。以下の大阪中心部の施設は、全室キッチン付きです。",
+    "zh-Hant": "每處物業列出一種精選房型。以下大阪市中心物業，客房皆附廚房。",
+    "ms": "Setiap kad menunjukkan satu jenis bilik pilihan. Semua hartanah di tengah Osaka di bawah mempunyai dapur dalam bilik.",
+    "th": "แต่ละการ์ดแสดงห้องแนะนำ 1 ประเภท ที่พักใจกลางโอซาก้าด้านล่างทุกแห่งมีครัวในห้อง",
+    "id": "Setiap kartu menampilkan satu tipe kamar pilihan. Semua properti di pusat Osaka di bawah ini memiliki dapur di kamar.",
+    "fil": "Isang featured room type ang nasa bawat card. May kusina sa kuwarto ang lahat ng properties sa central Osaka sa ibaba.",
+    "ko": "숙소마다 추천 객실 타입 1개를 소개합니다. 아래 오사카 중심부 숙소는 모든 객실에 주방이 있습니다."
+  },
+  "FEATURED SELECTION": {
+    "ja": "厳選紹介",
+    "zh-Hant": "精選房型",
+    "ms": "PILIHAN TERPILIH",
+    "th": "ห้องแนะนำ",
+    "id": "PILIHAN UNGGULAN",
+    "fil": "FEATURED SELECTION",
+    "ko": "추천 셀렉션"
+  },
+  "This is a selection, not our full portfolio. Share your itinerary, budget and group size, and we will recommend other properties and room types.": {
+    "ja": "ここでご紹介しているのは一部の施設です。行程・ご予算・人数をお知らせいただければ、ほかの施設や客室タイプもご提案いたします。",
+    "zh-Hant": "以下僅為部分精選，並非全部物業。歡迎告訴我們行程、預算與人數，我們會推薦其他合適的物業與房型。",
+    "ms": "Ini hanya sebahagian pilihan, bukan keseluruhan portfolio kami. Kongsikan jadual perjalanan, bajet dan saiz kumpulan anda, dan kami akan mencadangkan hartanah serta jenis bilik lain.",
+    "th": "นี่เป็นเพียงส่วนหนึ่งของที่พักทั้งหมด แจ้งแผนการเดินทาง งบประมาณ และจำนวนคนให้เราทราบ เราจะแนะนำที่พักและประเภทห้องอื่นที่เหมาะสมให้",
+    "id": "Ini hanya sebagian pilihan, bukan seluruh portofolio kami. Bagikan itinerary, anggaran, dan jumlah rombongan Anda, dan kami akan merekomendasikan properti serta tipe kamar lainnya.",
+    "fil": "Ilan lang ito sa aming mga property. Ibahagi ang inyong itinerary, budget at laki ng grupo, at magrerekomenda kami ng iba pang property at room type.",
+    "ko": "일부 숙소만 소개하고 있습니다. 일정, 예산, 인원을 알려 주시면 다른 숙소와 객실 타입도 추천해 드립니다."
+  },
+  "Shinsaibashi": {
+    "ja": "心斎橋",
+    "zh-Hant": "心齋橋",
+    "ms": "Shinsaibashi",
+    "th": "ชินไซบาชิ",
+    "id": "Shinsaibashi",
+    "fil": "Shinsaibashi",
+    "ko": "신사이바시"
+  },
+  "Near the Shinsaibashi shopping streets and Midosuji, in Chuo-ku.": {
+    "ja": "中央区。心斎橋の商店街や御堂筋にほど近いエリアです。",
+    "zh-Hant": "位於中央區，鄰近心齋橋商店街與御堂筋。",
+    "ms": "Berhampiran jalan beli-belah Shinsaibashi dan Midosuji, di Chuo-ku.",
+    "th": "ใกล้ย่านช้อปปิ้งชินไซบาชิและถนนมิโดสุจิ ในเขตชูโอ",
+    "id": "Dekat kawasan belanja Shinsaibashi dan Midosuji, di Chuo-ku.",
+    "fil": "Malapit sa shopping streets ng Shinsaibashi at Midosuji, sa Chuo-ku.",
+    "ko": "주오구, 신사이바시 상점가와 미도스지 인근"
+  },
+  "Kuromon & Nipponbashi": {
+    "ja": "黒門・日本橋",
+    "zh-Hant": "黑門・日本橋",
+    "ms": "Kuromon & Nipponbashi",
+    "th": "คุโรมง & นิปปงบาชิ",
+    "id": "Kuromon & Nipponbashi",
+    "fil": "Kuromon at Nipponbashi",
+    "ko": "구로몬 · 닛폰바시"
+  },
+  "Around Kuromon Market, a short walk from Dotonbori.": {
+    "ja": "黒門市場の周辺。道頓堀へも歩いて行けます。",
+    "zh-Hant": "黑門市場周邊，步行即可到道頓堀。",
+    "ms": "Sekitar Pasar Kuromon, berjalan kaki sebentar ke Dotonbori.",
+    "th": "รอบตลาดคุโรมง เดินไปโดทงโบริได้ไม่ไกล",
+    "id": "Sekitar Pasar Kuromon, dekat jalan kaki ke Dotonbori.",
+    "fil": "Paligid ng Kuromon Market, malapit lang lakarin papuntang Dotonbori.",
+    "ko": "구로몬 시장 주변, 도톤보리까지 걸어서 이동 가능"
+  },
+  "Namba": {
+    "ja": "難波",
+    "zh-Hant": "難波",
+    "ms": "Namba",
+    "th": "นัมบะ",
+    "id": "Namba",
+    "fil": "Namba",
+    "ko": "난바"
+  },
+  "Easy access to Namba, Tennoji and Umeda, in Naniwa-ku.": {
+    "ja": "浪速区。なんば・天王寺・梅田へのアクセスも便利です。",
+    "zh-Hant": "位於浪速區，前往難波、天王寺、梅田都很方便。",
+    "ms": "Mudah ke Namba, Tennoji dan Umeda, di Naniwa-ku.",
+    "th": "เดินทางไปนัมบะ เทนโนจิ และอุเมดะได้สะดวก ในเขตนานิวะ",
+    "id": "Akses mudah ke Namba, Tennoji, dan Umeda, di Naniwa-ku.",
+    "fil": "Madaling puntahan ang Namba, Tennoji at Umeda, sa Naniwa-ku.",
+    "ko": "나니와구, 난바·덴노지·우메다 이동이 편리"
+  },
+  "Shin-Imamiya & Tsutenkaku": {
+    "ja": "新今宮・通天閣",
+    "zh-Hant": "新今宮・通天閣",
+    "ms": "Shin-Imamiya & Tsutenkaku",
+    "th": "ชินอิมามิยะ & สึเท็นคาคุ",
+    "id": "Shin-Imamiya & Tsutenkaku",
+    "fil": "Shin-Imamiya at Tsutenkaku",
+    "ko": "신이마미야 · 쓰텐카쿠"
+  },
+  "Near Shinsekai, Tsutenkaku and Spa World.": {
+    "ja": "新世界・通天閣・スパワールドのすぐ近く。",
+    "zh-Hant": "鄰近新世界、通天閣與 SPA WORLD。",
+    "ms": "Berhampiran Shinsekai, Tsutenkaku dan Spa World.",
+    "th": "ใกล้ชินเซไก สึเท็นคาคุ และสปาเวิลด์",
+    "id": "Dekat Shinsekai, Tsutenkaku, dan Spa World.",
+    "fil": "Malapit sa Shinsekai, Tsutenkaku at Spa World.",
+    "ko": "신세카이, 쓰텐카쿠, 스파월드 인근"
+  },
+  "Near Kansai Airport": {
+    "ja": "関西空港エリア",
+    "zh-Hant": "關西機場周邊",
+    "ms": "Berhampiran Lapangan Terbang Kansai",
+    "th": "ใกล้สนามบินคันไซ",
+    "id": "Dekat Bandara Kansai",
+    "fil": "Malapit sa Kansai Airport",
+    "ko": "간사이공항 인근"
+  },
+  "For the night before or after a flight.": {
+    "ja": "フライト前後のご宿泊に。",
+    "zh-Hant": "適合搭機前後住宿。",
+    "ms": "Untuk malam sebelum atau selepas penerbangan.",
+    "th": "เหมาะสำหรับพักก่อนหรือหลังขึ้นเครื่อง",
+    "id": "Untuk menginap sebelum atau sesudah penerbangan.",
+    "fil": "Para sa gabi bago o pagkatapos ng flight.",
+    "ko": "출국 전날이나 도착 당일 숙박에"
+  },
+  "Shinsaibashi 5": {
+    "ja": "心斎橋5",
+    "zh-Hant": "心齋橋5",
+    "ms": "Shinsaibashi 5",
+    "th": "Shinsaibashi 5",
+    "id": "Shinsaibashi 5",
+    "fil": "Shinsaibashi 5",
+    "ko": "신사이바시 5"
+  },
+  "Kuromon 4": {
+    "ja": "黒門4",
+    "zh-Hant": "黑門4",
+    "ms": "Kuromon 4",
+    "th": "Kuromon 4",
+    "id": "Kuromon 4",
+    "fil": "Kuromon 4",
+    "ko": "구로몬 4"
+  },
+  "Kuromon 8": {
+    "ja": "黒門8",
+    "zh-Hant": "黑門8",
+    "ms": "Kuromon 8",
+    "th": "Kuromon 8",
+    "id": "Kuromon 8",
+    "fil": "Kuromon 8",
+    "ko": "구로몬 8"
+  },
+  "Namba Minami 3": {
+    "ja": "難波南3",
+    "zh-Hant": "難波南3",
+    "ms": "Namba Minami 3",
+    "th": "Namba Minami 3",
+    "id": "Namba Minami 3",
+    "fil": "Namba Minami 3",
+    "ko": "난바미나미 3"
+  },
+  "Namba Minami 5": {
+    "ja": "難波南5",
+    "zh-Hant": "難波南5",
+    "ms": "Namba Minami 5",
+    "th": "Namba Minami 5",
+    "id": "Namba Minami 5",
+    "fil": "Namba Minami 5",
+    "ko": "난바미나미 5"
+  },
+  "Shin-Imamiya 1": {
+    "ja": "新今宮1",
+    "zh-Hant": "新今宮1",
+    "ms": "Shin-Imamiya 1",
+    "th": "Shin-Imamiya 1",
+    "id": "Shin-Imamiya 1",
+    "fil": "Shin-Imamiya 1",
+    "ko": "신이마미야 1"
+  },
+  "Kansai Airport": {
+    "ja": "関西空港",
+    "zh-Hant": "關西機場館",
+    "ms": "Kansai Airport",
+    "th": "Kansai Airport",
+    "id": "Kansai Airport",
+    "fil": "Kansai Airport",
+    "ko": "간사이공항"
+  },
+  "Featured room type": {
+    "ja": "おすすめ客室",
+    "zh-Hant": "精選房型",
+    "ms": "Jenis bilik pilihan",
+    "th": "ห้องแนะนำ",
+    "id": "Tipe kamar pilihan",
+    "fil": "Featured room type",
+    "ko": "추천 객실"
+  },
+  "Deluxe Family Room": {
+    "ja": "デラックスファミリールーム",
+    "zh-Hant": "豪華家庭房",
+    "ms": "Bilik Keluarga Deluxe",
+    "th": "ห้องแฟมิลี่ดีลักซ์",
+    "id": "Kamar Keluarga Deluxe",
+    "fil": "Deluxe Family Room",
+    "ko": "디럭스 패밀리룸"
+  },
+  "Standard Quad Room": {
+    "ja": "スタンダードクアッドルーム",
+    "zh-Hant": "標準四人房",
+    "ms": "Bilik Quad Standard",
+    "th": "ห้องสแตนดาร์ดสำหรับ 4 ท่าน",
+    "id": "Kamar Standard Quad",
+    "fil": "Standard Quad Room",
+    "ko": "스탠다드 쿼드룸"
+  },
+  "Standard Double Room": {
+    "ja": "スタンダードダブルルーム",
+    "zh-Hant": "標準雙人房",
+    "ms": "Bilik Double Standard",
+    "th": "ห้องสแตนดาร์ดดับเบิล",
+    "id": "Kamar Standard Double",
+    "fil": "Standard Double Room",
+    "ko": "스탠다드 더블룸"
+  },
+  "Standard Twin Room": {
+    "ja": "スタンダードツインルーム",
+    "zh-Hant": "標準雙床房",
+    "ms": "Bilik Twin Standard",
+    "th": "ห้องสแตนดาร์ดทวิน",
+    "id": "Kamar Standard Twin",
+    "fil": "Standard Twin Room",
+    "ko": "스탠다드 트윈룸"
+  },
+  "Size": {
+    "ja": "広さ",
+    "zh-Hant": "面積",
+    "ms": "Keluasan",
+    "th": "ขนาด",
+    "id": "Luas",
+    "fil": "Laki",
+    "ko": "면적"
+  },
+  "Beds": {
+    "ja": "ベッド",
+    "zh-Hant": "床型",
+    "ms": "Katil",
+    "th": "เตียง",
+    "id": "Tempat tidur",
+    "fil": "Kama",
+    "ko": "침대"
+  },
+  "Guests": {
+    "ja": "定員",
+    "zh-Hant": "可住人數",
+    "ms": "Tetamu",
+    "th": "ผู้เข้าพัก",
+    "id": "Tamu",
+    "fil": "Bisita",
+    "ko": "인원"
+  },
+  "2 double beds + sofa bed": {
+    "ja": "ダブルベッド2台＋ソファベッド",
+    "zh-Hant": "雙人床2張＋沙發床",
+    "ms": "2 katil kelamin + sofa katil",
+    "th": "เตียงดับเบิล 2 เตียง + โซฟาเบด",
+    "id": "2 tempat tidur double + sofa bed",
+    "fil": "2 double bed + sofa bed",
+    "ko": "더블베드 2개 + 소파베드"
+  },
+  "2 double beds": {
+    "ja": "ダブルベッド2台",
+    "zh-Hant": "雙人床2張",
+    "ms": "2 katil kelamin",
+    "th": "เตียงดับเบิล 2 เตียง",
+    "id": "2 tempat tidur double",
+    "fil": "2 double bed",
+    "ko": "더블베드 2개"
+  },
+  "1 double bed": {
+    "ja": "ダブルベッド1台",
+    "zh-Hant": "雙人床1張",
+    "ms": "1 katil kelamin",
+    "th": "เตียงดับเบิล 1 เตียง",
+    "id": "1 tempat tidur double",
+    "fil": "1 double bed",
+    "ko": "더블베드 1개"
+  },
+  "2 beds": {
+    "ja": "ベッド2台",
+    "zh-Hant": "床2張",
+    "ms": "2 katil",
+    "th": "2 เตียง",
+    "id": "2 tempat tidur",
+    "fil": "2 kama",
+    "ko": "침대 2개"
+  },
+  "Nagahoribashi Station, about 3 minutes on foot": {
+    "ja": "長堀橋駅から徒歩約3分",
+    "zh-Hant": "長堀橋站步行約3分鐘",
+    "ms": "Stesen Nagahoribashi, kira-kira 3 minit berjalan kaki",
+    "th": "สถานีนากาโฮริบาชิ เดินประมาณ 3 นาที",
+    "id": "Stasiun Nagahoribashi, sekitar 3 menit jalan kaki",
+    "fil": "Nagahoribashi Station, mga 3 minutong lakad",
+    "ko": "나가호리바시역 도보 약 3분"
+  },
+  "Shinsaibashi Station, about 8 minutes on foot": {
+    "ja": "心斎橋駅から徒歩約8分",
+    "zh-Hant": "心齋橋站步行約8分鐘",
+    "ms": "Stesen Shinsaibashi, kira-kira 8 minit berjalan kaki",
+    "th": "สถานีชินไซบาชิ เดินประมาณ 8 นาที",
+    "id": "Stasiun Shinsaibashi, sekitar 8 menit jalan kaki",
+    "fil": "Shinsaibashi Station, mga 8 minutong lakad",
+    "ko": "신사이바시역 도보 약 8분"
+  },
+  "In-room kitchen and on-site laundry room": {
+    "ja": "客室キッチン、館内ランドリー",
+    "zh-Hant": "客房附廚房，館內設洗衣間",
+    "ms": "Dapur dalam bilik dan bilik dobi di premis",
+    "th": "มีครัวในห้องและห้องซักรีดในอาคาร",
+    "id": "Dapur di kamar dan ruang laundry di properti",
+    "fil": "May kusina sa kuwarto at laundry room sa building",
+    "ko": "객실 내 주방, 관내 세탁실"
+  },
+  "Nagahoribashi Station, about 4 minutes on foot": {
+    "ja": "長堀橋駅から徒歩約4分",
+    "zh-Hant": "長堀橋站步行約4分鐘",
+    "ms": "Stesen Nagahoribashi, kira-kira 4 minit berjalan kaki",
+    "th": "สถานีนากาโฮริบาชิ เดินประมาณ 4 นาที",
+    "id": "Stasiun Nagahoribashi, sekitar 4 menit jalan kaki",
+    "fil": "Nagahoribashi Station, mga 4 na minutong lakad",
+    "ko": "나가호리바시역 도보 약 4분"
+  },
+  "Kitchen and washing machine in every room": {
+    "ja": "全室キッチン・洗濯機付き",
+    "zh-Hant": "每間客房皆附廚房與洗衣機",
+    "ms": "Dapur dan mesin basuh di setiap bilik",
+    "th": "ทุกห้องมีครัวและเครื่องซักผ้า",
+    "id": "Dapur dan mesin cuci di setiap kamar",
+    "fil": "May kusina at washing machine ang bawat kuwarto",
+    "ko": "전 객실 주방·세탁기 완비"
+  },
+  "Kuromon Market, about 3 minutes on foot": {
+    "ja": "黒門市場まで徒歩約3分",
+    "zh-Hant": "黑門市場步行約3分鐘",
+    "ms": "Pasar Kuromon, kira-kira 3 minit berjalan kaki",
+    "th": "ตลาดคุโรมง เดินประมาณ 3 นาที",
+    "id": "Pasar Kuromon, sekitar 3 menit jalan kaki",
+    "fil": "Kuromon Market, mga 3 minutong lakad",
+    "ko": "구로몬 시장 도보 약 3분"
+  },
+  "Nipponbashi Station, about 6–8 minutes on foot": {
+    "ja": "日本橋駅から徒歩約6〜8分",
+    "zh-Hant": "日本橋站步行約6〜8分鐘",
+    "ms": "Stesen Nipponbashi, kira-kira 6–8 minit berjalan kaki",
+    "th": "สถานีนิปปงบาชิ เดินประมาณ 6–8 นาที",
+    "id": "Stasiun Nipponbashi, sekitar 6–8 menit jalan kaki",
+    "fil": "Nipponbashi Station, mga 6–8 minutong lakad",
+    "ko": "닛폰바시역 도보 약 6~8분"
+  },
+  "Nankai Namba Station, about 8 minutes on foot": {
+    "ja": "南海なんば駅から徒歩約8分",
+    "zh-Hant": "南海難波站步行約8分鐘",
+    "ms": "Stesen Nankai Namba, kira-kira 8 minit berjalan kaki",
+    "th": "สถานีนันไกนัมบะ เดินประมาณ 8 นาที",
+    "id": "Stasiun Nankai Namba, sekitar 8 menit jalan kaki",
+    "fil": "Nankai Namba Station, mga 8 minutong lakad",
+    "ko": "난카이 난바역 도보 약 8분"
+  },
+  "Kuromon Market, about 7 minutes on foot": {
+    "ja": "黒門市場まで徒歩約7分",
+    "zh-Hant": "黑門市場步行約7分鐘",
+    "ms": "Pasar Kuromon, kira-kira 7 minit berjalan kaki",
+    "th": "ตลาดคุโรมง เดินประมาณ 7 นาที",
+    "id": "Pasar Kuromon, sekitar 7 menit jalan kaki",
+    "fil": "Kuromon Market, mga 7 minutong lakad",
+    "ko": "구로몬 시장 도보 약 7분"
+  },
+  "Kitchen, washing machine and bathtub in every room": {
+    "ja": "全室キッチン・洗濯機・バスタブ付き",
+    "zh-Hant": "每間客房皆附廚房、洗衣機與浴缸",
+    "ms": "Dapur, mesin basuh dan tab mandi di setiap bilik",
+    "th": "ทุกห้องมีครัว เครื่องซักผ้า และอ่างอาบน้ำ",
+    "id": "Dapur, mesin cuci, dan bathtub di setiap kamar",
+    "fil": "May kusina, washing machine at bathtub ang bawat kuwarto",
+    "ko": "전 객실 주방·세탁기·욕조 완비"
+  },
+  "Sakuragawa Station, about 1 minute on foot": {
+    "ja": "桜川駅から徒歩約1分",
+    "zh-Hant": "櫻川站步行約1分鐘",
+    "ms": "Stesen Sakuragawa, kira-kira 1 minit berjalan kaki",
+    "th": "สถานีซากุระกาวะ เดินประมาณ 1 นาที",
+    "id": "Stasiun Sakuragawa, sekitar 1 menit jalan kaki",
+    "fil": "Sakuragawa Station, mga 1 minutong lakad",
+    "ko": "사쿠라가와역 도보 약 1분"
+  },
+  "Namba Station, about 11 minutes on foot": {
+    "ja": "なんば駅から徒歩約11分",
+    "zh-Hant": "難波站步行約11分鐘",
+    "ms": "Stesen Namba, kira-kira 11 minit berjalan kaki",
+    "th": "สถานีนัมบะ เดินประมาณ 11 นาที",
+    "id": "Stasiun Namba, sekitar 11 menit jalan kaki",
+    "fil": "Namba Station, mga 11 minutong lakad",
+    "ko": "난바역 도보 약 11분"
+  },
+  "Kitchen in every room": {
+    "ja": "全室キッチン付き",
+    "zh-Hant": "每間客房皆附廚房",
+    "ms": "Dapur di setiap bilik",
+    "th": "ทุกห้องมีครัว",
+    "id": "Dapur di setiap kamar",
+    "fil": "May kusina ang bawat kuwarto",
+    "ko": "전 객실 주방 완비"
+  },
+  "Daikokucho Station, about 2 minutes on foot": {
+    "ja": "大国町駅から徒歩約2分",
+    "zh-Hant": "大國町站步行約2分鐘",
+    "ms": "Stesen Daikokucho, kira-kira 2 minit berjalan kaki",
+    "th": "สถานีไดโกกุโจ เดินประมาณ 2 นาที",
+    "id": "Stasiun Daikokucho, sekitar 2 menit jalan kaki",
+    "fil": "Daikokucho Station, mga 2 minutong lakad",
+    "ko": "다이코쿠초역 도보 약 2분"
+  },
+  "Daikokucho Station, about 5 minutes on foot": {
+    "ja": "大国町駅から徒歩約5分",
+    "zh-Hant": "大國町站步行約5分鐘",
+    "ms": "Stesen Daikokucho, kira-kira 5 minit berjalan kaki",
+    "th": "สถานีไดโกกุโจ เดินประมาณ 5 นาที",
+    "id": "Stasiun Daikokucho, sekitar 5 menit jalan kaki",
+    "fil": "Daikokucho Station, mga 5 minutong lakad",
+    "ko": "다이코쿠초역 도보 약 5분"
+  },
+  "Shin-Imamiya Station, about 3 minutes on foot": {
+    "ja": "新今宮駅から徒歩約3分",
+    "zh-Hant": "新今宮站步行約3分鐘",
+    "ms": "Stesen Shin-Imamiya, kira-kira 3 minit berjalan kaki",
+    "th": "สถานีชินอิมามิยะ เดินประมาณ 3 นาที",
+    "id": "Stasiun Shin-Imamiya, sekitar 3 menit jalan kaki",
+    "fil": "Shin-Imamiya Station, mga 3 minutong lakad",
+    "ko": "신이마미야역 도보 약 3분"
+  },
+  "Tsutenkaku, about 10 minutes on foot": {
+    "ja": "通天閣まで徒歩約10分",
+    "zh-Hant": "通天閣步行約10分鐘",
+    "ms": "Tsutenkaku, kira-kira 10 minit berjalan kaki",
+    "th": "สึเท็นคาคุ เดินประมาณ 10 นาที",
+    "id": "Tsutenkaku, sekitar 10 menit jalan kaki",
+    "fil": "Tsutenkaku, mga 10 minutong lakad",
+    "ko": "쓰텐카쿠 도보 약 10분"
+  },
+  "Shin-Imamiya Station, about 4 minutes on foot": {
+    "ja": "新今宮駅から徒歩約4分",
+    "zh-Hant": "新今宮站步行約4分鐘",
+    "ms": "Stesen Shin-Imamiya, kira-kira 4 minit berjalan kaki",
+    "th": "สถานีชินอิมามิยะ เดินประมาณ 4 นาที",
+    "id": "Stasiun Shin-Imamiya, sekitar 4 menit jalan kaki",
+    "fil": "Shin-Imamiya Station, mga 4 na minutong lakad",
+    "ko": "신이마미야역 도보 약 4분"
+  },
+  "Dobutsuen-mae Station, about 4 minutes on foot": {
+    "ja": "動物園前駅から徒歩約4分",
+    "zh-Hant": "動物園前站步行約4分鐘",
+    "ms": "Stesen Dobutsuen-mae, kira-kira 4 minit berjalan kaki",
+    "th": "สถานีโดบุตสึเอ็นมาเอะ เดินประมาณ 4 นาที",
+    "id": "Stasiun Dobutsuen-mae, sekitar 4 menit jalan kaki",
+    "fil": "Dobutsuen-mae Station, mga 4 na minutong lakad",
+    "ko": "도부쓰엔마에역 도보 약 4분"
+  },
+  "Kansai International Airport, about 15 minutes by car": {
+    "ja": "関西国際空港から車で約15分",
+    "zh-Hant": "關西國際機場車程約15分鐘",
+    "ms": "Lapangan Terbang Antarabangsa Kansai, kira-kira 15 minit memandu",
+    "th": "ท่าอากาศยานนานาชาติคันไซ ขับรถประมาณ 15 นาที",
+    "id": "Bandara Internasional Kansai, sekitar 15 menit berkendara",
+    "fil": "Kansai International Airport, mga 15 minuto sakay ng kotse",
+    "ko": "간사이 국제공항 차로 약 15분"
+  },
+  "Breakfast and a large car park": {
+    "ja": "朝食あり、広い駐車場",
+    "zh-Hant": "提供早餐，設有寬敞停車場",
+    "ms": "Sarapan dan tempat letak kereta yang luas",
+    "th": "มีอาหารเช้าและที่จอดรถกว้างขวาง",
+    "id": "Sarapan dan area parkir yang luas",
+    "fil": "May almusal at malawak na parking",
+    "ko": "조식 제공, 넓은 주차장"
+  },
+  "Airport transfers available on request": {
+    "ja": "空港送迎はご相談ください",
+    "zh-Hant": "機場接送歡迎洽詢",
+    "ms": "Pemindahan lapangan terbang boleh diatur atas permintaan",
+    "th": "สอบถามบริการรับส่งสนามบินได้",
+    "id": "Antar-jemput bandara tersedia sesuai permintaan",
+    "fil": "May airport transfer kapag hiniling",
+    "ko": "공항 픽업·샌딩 문의 가능"
+  },
+  "Looking for something else? We also have properties in Kyoto, Tokyo, Okinawa, Kobe and Nagoya, as well as larger suites. Ask us for options.": {
+    "ja": "ほかの条件をご希望の場合もお気軽にどうぞ。京都・東京・沖縄・神戸・名古屋にも施設があり、広めのスイートもご用意しています。",
+    "zh-Hant": "想找其他選擇嗎？我們在京都、東京、沖繩、神戶、名古屋也有物業，另有大坪數套房，歡迎洽詢。",
+    "ms": "Mencari pilihan lain? Kami juga mempunyai hartanah di Kyoto, Tokyo, Okinawa, Kobe dan Nagoya, serta suite yang lebih besar. Tanya kami untuk pilihan.",
+    "th": "ต้องการตัวเลือกอื่นไหม เรายังมีที่พักในเกียวโต โตเกียว โอกินาวา โกเบ และนาโกย่า รวมถึงห้องสวีทขนาดใหญ่ สอบถามได้เลย",
+    "id": "Mencari pilihan lain? Kami juga memiliki properti di Kyoto, Tokyo, Okinawa, Kobe, dan Nagoya, serta suite yang lebih luas. Tanyakan pilihan kepada kami.",
+    "fil": "Naghahanap ng iba? May properties din kami sa Kyoto, Tokyo, Okinawa, Kobe at Nagoya, pati mas malalaking suite. Magtanong lang para sa options.",
+    "ko": "다른 조건을 찾으시나요? 교토, 도쿄, 오키나와, 고베, 나고야에도 숙소가 있으며 더 넓은 스위트룸도 있습니다. 편하게 문의해 주세요."
+  },
+  "Stay conditions at a glance": {
+    "ja": "宿泊条件の概要",
+    "zh-Hant": "住宿條件一覽",
+    "ms": "Ringkasan syarat penginapan",
+    "th": "สรุปเงื่อนไขการเข้าพัก",
+    "id": "Ringkasan ketentuan menginap",
+    "fil": "Kondisyon ng stay sa isang tingin",
+    "ko": "숙박 조건 한눈에 보기"
+  },
+  "Check-in from 16:00": {
+    "ja": "チェックイン 16:00〜",
+    "zh-Hant": "16:00起入住",
+    "ms": "Daftar masuk dari 16:00",
+    "th": "เช็กอินตั้งแต่ 16:00 น.",
+    "id": "Check-in mulai 16.00",
+    "fil": "Check-in mula 4:00 PM",
+    "ko": "체크인 16:00부터"
+  },
+  "Check-out by 10:00": {
+    "ja": "チェックアウト 〜10:00",
+    "zh-Hant": "10:00前退房",
+    "ms": "Daftar keluar sebelum 10:00",
+    "th": "เช็กเอาต์ภายใน 10:00 น.",
+    "id": "Check-out paling lambat 10.00",
+    "fil": "Check-out bago mag-10:00 AM",
+    "ko": "체크아웃 10:00까지"
+  },
+  "Minimum stay of 2 nights": {
+    "ja": "2泊以上から",
+    "zh-Hant": "最少連住2晚",
+    "ms": "Minimum 2 malam",
+    "th": "พักขั้นต่ำ 2 คืน",
+    "id": "Minimal menginap 2 malam",
+    "fil": "Minimum na 2 gabi",
+    "ko": "최소 2박"
+  },
+  "Breakfast delivery included": {
+    "ja": "朝食デリバリー付き",
+    "zh-Hant": "含早餐配送",
+    "ms": "Termasuk penghantaran sarapan",
+    "th": "รวมบริการส่งอาหารเช้า",
+    "id": "Termasuk antar sarapan",
+    "fil": "Kasama ang breakfast delivery",
+    "ko": "조식 배달 포함"
+  },
+  "Full stay conditions and cancellation policy": {
+    "ja": "宿泊条件とキャンセルポリシーの詳細",
+    "zh-Hant": "完整住宿條件與取消政策",
+    "ms": "Syarat penuh dan polisi pembatalan",
+    "th": "เงื่อนไขทั้งหมดและนโยบายการยกเลิก",
+    "id": "Ketentuan lengkap dan kebijakan pembatalan",
+    "fil": "Buong kondisyon at cancellation policy",
+    "ko": "숙박 조건 및 취소 규정 자세히 보기"
+  },
+  "Apartment Hotel 11 Shinsaibashi 9 exterior": {
+    "ja": "Apartment Hotel 11 心斎橋9 外観",
+    "zh-Hant": "Apartment Hotel 11 心齋橋9 外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Shinsaibashi 9",
+    "th": "ภายนอกอาคาร Apartment Hotel 11 Shinsaibashi 9",
+    "id": "Eksterior Apartment Hotel 11 Shinsaibashi 9",
+    "fil": "Labas ng Apartment Hotel 11 Shinsaibashi 9",
+    "ko": "Apartment Hotel 11 신사이바시 9 외관"
+  },
+  "Apartment Hotel 11 Shinsaibashi 5 exterior": {
+    "ja": "Apartment Hotel 11 心斎橋5 外観",
+    "zh-Hant": "Apartment Hotel 11 心齋橋5 外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Shinsaibashi 5",
+    "th": "ภายนอกอาคาร Apartment Hotel 11 Shinsaibashi 5",
+    "id": "Eksterior Apartment Hotel 11 Shinsaibashi 5",
+    "fil": "Labas ng Apartment Hotel 11 Shinsaibashi 5",
+    "ko": "Apartment Hotel 11 신사이바시 5 외관"
+  },
+  "Apartment Hotel 11 Kuromon 4 exterior": {
+    "ja": "Apartment Hotel 11 黒門4 外観",
+    "zh-Hant": "Apartment Hotel 11 黑門4 外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Kuromon 4",
+    "th": "ภายนอกอาคาร Apartment Hotel 11 Kuromon 4",
+    "id": "Eksterior Apartment Hotel 11 Kuromon 4",
+    "fil": "Labas ng Apartment Hotel 11 Kuromon 4",
+    "ko": "Apartment Hotel 11 구로몬 4 외관"
+  },
+  "Apartment Hotel 11 Kuromon 8 exterior": {
+    "ja": "Apartment Hotel 11 黒門8 外観",
+    "zh-Hant": "Apartment Hotel 11 黑門8 外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Kuromon 8",
+    "th": "ภายนอกอาคาร Apartment Hotel 11 Kuromon 8",
+    "id": "Eksterior Apartment Hotel 11 Kuromon 8",
+    "fil": "Labas ng Apartment Hotel 11 Kuromon 8",
+    "ko": "Apartment Hotel 11 구로몬 8 외관"
+  },
+  "Apartment Hotel 11 Namba Minami 3 exterior": {
+    "ja": "Apartment Hotel 11 難波南3 外観",
+    "zh-Hant": "Apartment Hotel 11 難波南3 外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Namba Minami 3",
+    "th": "ภายนอกอาคาร Apartment Hotel 11 Namba Minami 3",
+    "id": "Eksterior Apartment Hotel 11 Namba Minami 3",
+    "fil": "Labas ng Apartment Hotel 11 Namba Minami 3",
+    "ko": "Apartment Hotel 11 난바미나미 3 외관"
+  },
+  "Apartment Hotel 11 Namba Minami 5 exterior": {
+    "ja": "Apartment Hotel 11 難波南5 外観",
+    "zh-Hant": "Apartment Hotel 11 難波南5 外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Namba Minami 5",
+    "th": "ภายนอกอาคาร Apartment Hotel 11 Namba Minami 5",
+    "id": "Eksterior Apartment Hotel 11 Namba Minami 5",
+    "fil": "Labas ng Apartment Hotel 11 Namba Minami 5",
+    "ko": "Apartment Hotel 11 난바미나미 5 외관"
+  },
+  "Apartment Hotel 11 Shin-Imamiya 1 exterior": {
+    "ja": "Apartment Hotel 11 新今宮1 外観",
+    "zh-Hant": "Apartment Hotel 11 新今宮1 外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Shin-Imamiya 1",
+    "th": "ภายนอกอาคาร Apartment Hotel 11 Shin-Imamiya 1",
+    "id": "Eksterior Apartment Hotel 11 Shin-Imamiya 1",
+    "fil": "Labas ng Apartment Hotel 11 Shin-Imamiya 1",
+    "ko": "Apartment Hotel 11 신이마미야 1 외관"
+  },
+  "Apartment Hotel 11 Kansai Airport exterior": {
+    "ja": "Apartment Hotel 11 関西空港 外観",
+    "zh-Hant": "Apartment Hotel 11 關西機場館 外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Kansai Airport",
+    "th": "ภายนอกอาคาร Apartment Hotel 11 Kansai Airport",
+    "id": "Eksterior Apartment Hotel 11 Kansai Airport",
+    "fil": "Labas ng Apartment Hotel 11 Kansai Airport",
+    "ko": "Apartment Hotel 11 간사이공항 외관"
+  },
+  "WHY PARTNER WITH US": {
+    "ja": "選ばれる理由",
+    "zh-Hant": "合作優勢",
+    "ms": "MENGAPA BEKERJASAMA DENGAN KAMI",
+    "th": "ทำไมต้องร่วมงานกับเรา",
+    "id": "MENGAPA BERMITRA DENGAN KAMI",
+    "fil": "BAKIT KAMI",
+    "ko": "제휴 장점"
+  },
+  "Why agencies work with us.": {
+    "ja": "旅行会社さまに選ばれる理由",
+    "zh-Hant": "旅行社選擇我們的理由",
+    "ms": "Mengapa agensi memilih kami.",
+    "th": "เหตุผลที่บริษัทนำเที่ยวเลือกเรา",
+    "id": "Mengapa agen memilih kami.",
+    "fil": "Bakit kami ang pinipili ng mga agency.",
+    "ko": "여행사가 저희를 선택하는 이유"
+  },
+  "HIWIN operates Apartment Hotel 11 from its base in Osaka, with 60 properties and around 3,000 guest rooms across Japan.": {
+    "ja": "HIWINは大阪を拠点にApartment Hotel 11を運営し、全国で60施設・約3,000室を展開しています。",
+    "zh-Hant": "HIWIN 以大阪為據點經營住一 Apartment Hotel 11，在日本各地共有60處物業、約3,000間客房。",
+    "ms": "HIWIN mengendalikan Apartment Hotel 11 dari pangkalannya di Osaka, dengan 60 hartanah dan kira-kira 3,000 bilik di seluruh Jepun.",
+    "th": "HIWIN บริหาร Apartment Hotel 11 โดยมีฐานอยู่ที่โอซาก้า มีที่พัก 60 แห่ง รวมประมาณ 3,000 ห้องทั่วญี่ปุ่น",
+    "id": "HIWIN mengelola Apartment Hotel 11 dari basisnya di Osaka, dengan 60 properti dan sekitar 3,000 kamar di seluruh Jepang.",
+    "fil": "Pinapatakbo ng HIWIN ang Apartment Hotel 11 mula sa Osaka, na may 60 properties at humigit-kumulang 3,000 kuwarto sa buong Japan.",
+    "ko": "HIWIN은 오사카를 거점으로 Apartment Hotel 11을 운영하며, 일본 전역에 60개 숙소, 약 3,000개 객실을 보유하고 있습니다."
+  },
+  "Partner rates": {
+    "ja": "取引料金",
+    "zh-Hant": "同業價格",
+    "ms": "Kadar rakan kongsi",
+    "th": "ราคาพาร์ทเนอร์",
+    "id": "Tarif mitra",
+    "fil": "Partner rates",
+    "ko": "제휴 요금"
+  },
+  "Rates for travel agencies include breakfast delivery. We send our rate sheet when you enquire.": {
+    "ja": "旅行会社さま向け料金には朝食デリバリーが含まれます。料金表はお問い合わせ時にお送りします。",
+    "zh-Hant": "旅行社同業價格已含早餐配送，洽詢時我們會提供價格表。",
+    "ms": "Kadar untuk agensi pelancongan termasuk penghantaran sarapan. Kami akan menghantar senarai kadar apabila anda bertanya.",
+    "th": "ราคาสำหรับบริษัทนำเที่ยวรวมบริการส่งอาหารเช้าแล้ว เราจะส่งตารางราคาให้เมื่อคุณสอบถาม",
+    "id": "Tarif untuk agen perjalanan sudah termasuk antar sarapan. Kami kirimkan daftar tarif saat Anda bertanya.",
+    "fil": "Kasama na ang breakfast delivery sa rates para sa travel agencies. Ipapadala namin ang rate sheet kapag nag-inquire kayo.",
+    "ko": "여행사 요금에는 조식 배달이 포함됩니다. 문의 주시면 요금표를 보내 드립니다."
+  },
+  "Room capacity for groups": {
+    "ja": "団体にも対応できる客室数",
+    "zh-Hant": "團體房量充足",
+    "ms": "Kapasiti bilik untuk kumpulan",
+    "th": "รองรับกรุ๊ปได้หลายห้อง",
+    "id": "Kapasitas kamar untuk rombongan",
+    "fil": "Sapat na kuwarto para sa grupo",
+    "ko": "단체 수용 가능한 객실 규모"
+  },
+  "Properties average around 50 to 70 rooms, and some have more than 100.": {
+    "ja": "1棟あたり平均50〜70室、100室を超える施設もあります。",
+    "zh-Hant": "每棟平均約50至70間客房，部分物業超過100間。",
+    "ms": "Setiap hartanah mempunyai purata 50 hingga 70 bilik, dan ada yang melebihi 100 bilik.",
+    "th": "ที่พักแต่ละแห่งมีเฉลี่ย 50–70 ห้อง บางแห่งมีมากกว่า 100 ห้อง",
+    "id": "Rata-rata properti memiliki 50 hingga 70 kamar, dan beberapa lebih dari 100 kamar.",
+    "fil": "Karaniwang may 50 hanggang 70 kuwarto ang bawat property, at may ilang lampas 100.",
+    "ko": "숙소당 평균 50~70실이며, 100실이 넘는 숙소도 있습니다."
+  },
+  "Space for families": {
+    "ja": "ご家族にもゆったり",
+    "zh-Hant": "家庭入住也寬敞",
+    "ms": "Ruang selesa untuk keluarga",
+    "th": "กว้างขวางสำหรับครอบครัว",
+    "id": "Lega untuk keluarga",
+    "fil": "Maluwag para sa pamilya",
+    "ko": "가족도 넉넉하게"
+  },
+  "Featured central Osaka rooms start from 25㎡, most sleep up to 4 guests, and all have a kitchen.": {
+    "ja": "大阪中心部のおすすめ客室は25㎡から。多くは最大4名まで宿泊でき、すべてキッチン付きです。",
+    "zh-Hant": "大阪市中心精選客房25㎡起，多數可住到4人，且都附廚房。",
+    "ms": "Bilik pilihan di tengah Osaka bermula dari 25㎡, kebanyakannya memuatkan sehingga 4 tetamu, dan semuanya mempunyai dapur.",
+    "th": "ห้องแนะนำใจกลางโอซาก้าเริ่มต้นที่ 25 ตร.ม. ส่วนใหญ่พักได้สูงสุด 4 ท่าน และทุกห้องมีครัว",
+    "id": "Kamar pilihan di pusat Osaka mulai 25㎡, sebagian besar muat hingga 4 tamu, dan semuanya memiliki dapur.",
+    "fil": "Mula 25㎡ ang featured rooms sa central Osaka, kasya ang hanggang 4 na bisita sa karamihan, at may kusina lahat.",
+    "ko": "오사카 중심부 추천 객실은 25㎡부터이며, 대부분 최대 4명까지 숙박할 수 있고 모두 주방이 있습니다."
+  },
+  "Central locations": {
+    "ja": "便利な中心部立地",
+    "zh-Hant": "市中心便利位置",
+    "ms": "Lokasi di tengah bandar",
+    "th": "ทำเลใจกลางเมือง",
+    "id": "Lokasi strategis di pusat kota",
+    "fil": "Nasa sentro ng lungsod",
+    "ko": "중심부 입지"
+  },
+  "Close to stations and attractions, with easy tour coach pick-up and drop-off.": {
+    "ja": "駅や観光地に近く、観光バスでの送迎もスムーズです。",
+    "zh-Hant": "鄰近車站與景點，遊覽車上下車也方便。",
+    "ms": "Berhampiran stesen dan tarikan, dengan kemudahan menurunkan dan mengambil penumpang bas persiaran.",
+    "th": "ใกล้สถานีและแหล่งท่องเที่ยว รถบัสนำเที่ยวรับส่งได้สะดวก",
+    "id": "Dekat stasiun dan tempat wisata, dengan akses mudah untuk naik-turun bus wisata.",
+    "fil": "Malapit sa stations at attractions, at madali ang pick-up at drop-off ng tour bus.",
+    "ko": "역과 관광지가 가깝고 관광버스 승하차도 편리합니다."
+  },
+  "STAY CONDITIONS": {
+    "ja": "宿泊条件",
+    "zh-Hant": "住宿條件",
+    "ms": "SYARAT PENGINAPAN",
+    "th": "เงื่อนไขการเข้าพัก",
+    "id": "KETENTUAN MENGINAP",
+    "fil": "KONDISYON NG STAY",
+    "ko": "숙박 조건"
+  },
+  "Stay conditions at a glance.": {
+    "ja": "宿泊条件のご案内",
+    "zh-Hant": "住宿條件一覽",
+    "ms": "Ringkasan syarat penginapan.",
+    "th": "สรุปเงื่อนไขการเข้าพัก",
+    "id": "Ringkasan ketentuan menginap.",
+    "fil": "Kondisyon ng stay sa isang tingin.",
+    "ko": "숙박 조건 한눈에 보기"
+  },
+  "Standard conditions for our featured Osaka properties. Details can vary by property and are confirmed when you book.": {
+    "ja": "大阪のおすすめ施設の基本条件です。施設により異なる場合があり、ご予約時に確認いたします。",
+    "zh-Hant": "以下為大阪精選物業的一般條件，各物業可能略有不同，訂房時會再次確認。",
+    "ms": "Syarat standard untuk hartanah pilihan kami di Osaka. Butiran mungkin berbeza mengikut hartanah dan disahkan semasa tempahan.",
+    "th": "เงื่อนไขมาตรฐานของที่พักแนะนำในโอซาก้า รายละเอียดอาจแตกต่างกันในแต่ละที่พักและจะยืนยันเมื่อจอง",
+    "id": "Ketentuan standar untuk properti pilihan kami di Osaka. Detail dapat berbeda per properti dan dikonfirmasi saat pemesanan.",
+    "fil": "Standard na kondisyon para sa featured properties namin sa Osaka. Maaaring mag-iba ang detalye bawat property at kinukumpirma sa booking.",
+    "ko": "오사카 추천 숙소의 기본 조건입니다. 숙소마다 다를 수 있으며 예약 시 확인해 드립니다."
+  },
+  "Breakfast": {
+    "ja": "朝食",
+    "zh-Hant": "早餐",
+    "ms": "Sarapan",
+    "th": "อาหารเช้า",
+    "id": "Sarapan",
+    "fil": "Almusal",
+    "ko": "조식"
+  },
+  "Check-in": {
+    "ja": "チェックイン",
+    "zh-Hant": "入住",
+    "ms": "Daftar masuk",
+    "th": "เช็กอิน",
+    "id": "Check-in",
+    "fil": "Check-in",
+    "ko": "체크인"
+  },
+  "From 16:00, self check-in or staffed check-in": {
+    "ja": "16:00〜（セルフチェックインまたはスタッフ対応）",
+    "zh-Hant": "16:00起，可自助入住或由專人辦理",
+    "ms": "Dari 16:00, daftar masuk sendiri atau dengan kakitangan",
+    "th": "ตั้งแต่ 16:00 น. เช็กอินด้วยตนเองหรือมีเจ้าหน้าที่ดูแล",
+    "id": "Mulai 16.00, check-in mandiri atau dibantu staf",
+    "fil": "Mula 4:00 PM, self check-in o may staff",
+    "ko": "16:00부터, 셀프 체크인 또는 직원 응대"
+  },
+  "Check-out": {
+    "ja": "チェックアウト",
+    "zh-Hant": "退房",
+    "ms": "Daftar keluar",
+    "th": "เช็กเอาต์",
+    "id": "Check-out",
+    "fil": "Check-out",
+    "ko": "체크아웃"
+  },
+  "By 10:00": {
+    "ja": "10:00まで",
+    "zh-Hant": "10:00前",
+    "ms": "Sebelum 10:00",
+    "th": "ภายใน 10:00 น.",
+    "id": "Paling lambat 10.00",
+    "fil": "Bago mag-10:00 AM",
+    "ko": "10:00까지"
+  },
+  "Minimum stay": {
+    "ja": "最低宿泊数",
+    "zh-Hant": "最少入住",
+    "ms": "Penginapan minimum",
+    "th": "พักขั้นต่ำ",
+    "id": "Minimal menginap",
+    "fil": "Minimum na stay",
+    "ko": "최소 숙박"
+  },
+  "2 nights": {
+    "ja": "2泊",
+    "zh-Hant": "2晚",
+    "ms": "2 malam",
+    "th": "2 คืน",
+    "id": "2 malam",
+    "fil": "2 gabi",
+    "ko": "2박"
+  },
+  "Occupancy": {
+    "ja": "宿泊人数",
+    "zh-Hant": "入住人數",
+    "ms": "Penghunian",
+    "th": "จำนวนผู้เข้าพัก",
+    "id": "Jumlah tamu",
+    "fil": "Bilang ng bisita",
+    "ko": "숙박 인원"
+  },
+  "Rates are based on 2 guests per room. Each additional guest is JPY 2,000 per night.": {
+    "ja": "料金は1室2名利用が基準です。追加1名につき1泊2,000円を申し受けます。",
+    "zh-Hant": "房價以每房2人入住計算，每加1人每晚加收2,000日圓。",
+    "ms": "Kadar berdasarkan 2 tetamu sebilik. Setiap tetamu tambahan dikenakan JPY 2,000 semalam.",
+    "th": "ราคาคิดตามการเข้าพัก 2 ท่านต่อห้อง เพิ่มผู้เข้าพัก 1 ท่าน คิดเพิ่ม 2,000 เยนต่อคืน",
+    "id": "Tarif berdasarkan 2 tamu per kamar. Setiap tambahan tamu dikenakan JPY 2,000 per malam.",
+    "fil": "Batay sa 2 bisita bawat kuwarto ang rates. JPY 2,000 kada gabi ang bawat dagdag na bisita.",
+    "ko": "요금은 객실당 2인 기준이며, 1인 추가 시 1박당 2,000엔이 추가됩니다."
+  },
+  "Taxes": {
+    "ja": "税金",
+    "zh-Hant": "稅費",
+    "ms": "Cukai",
+    "th": "ภาษี",
+    "id": "Pajak",
+    "fil": "Buwis",
+    "ko": "세금"
+  },
+  "Rates include tax. Accommodation tax is charged separately.": {
+    "ja": "料金は税込です。宿泊税は別途申し受けます。",
+    "zh-Hant": "價格已含稅，住宿稅另計。",
+    "ms": "Kadar termasuk cukai. Cukai penginapan dikenakan secara berasingan.",
+    "th": "ราคารวมภาษีแล้ว ภาษีที่พักเรียกเก็บแยกต่างหาก",
+    "id": "Tarif sudah termasuk pajak. Pajak penginapan dikenakan terpisah.",
+    "fil": "Kasama na ang buwis sa rates. Hiwalay na sinisingil ang accommodation tax.",
+    "ko": "요금은 세금 포함이며, 숙박세는 별도입니다."
+  },
+  "Cancellation policy": {
+    "ja": "キャンセルポリシー",
+    "zh-Hant": "取消政策",
+    "ms": "Polisi pembatalan",
+    "th": "นโยบายการยกเลิก",
+    "id": "Kebijakan pembatalan",
+    "fil": "Cancellation policy",
+    "ko": "취소 규정"
+  },
+  "When you cancel": {
+    "ja": "キャンセル日",
+    "zh-Hant": "取消時間",
+    "ms": "Masa pembatalan",
+    "th": "ช่วงเวลาที่ยกเลิก",
+    "id": "Waktu pembatalan",
+    "fil": "Kailan nag-cancel",
+    "ko": "취소 시점"
+  },
+  "Charge": {
+    "ja": "キャンセル料",
+    "zh-Hant": "收費",
+    "ms": "Caj",
+    "th": "ค่าธรรมเนียม",
+    "id": "Biaya",
+    "fil": "Singil",
+    "ko": "취소 수수료"
+  },
+  "14 or more days before check-in": {
+    "ja": "ご宿泊の14日前まで",
+    "zh-Hant": "入住14天前（含）以前",
+    "ms": "14 hari atau lebih sebelum daftar masuk",
+    "th": "ก่อนเช็กอิน 14 วันขึ้นไป",
+    "id": "14 hari atau lebih sebelum check-in",
+    "fil": "14 araw o higit pa bago ang check-in",
+    "ko": "체크인 14일 전까지"
+  },
+  "Free": {
+    "ja": "無料",
+    "zh-Hant": "免費",
+    "ms": "Percuma",
+    "th": "ไม่มีค่าธรรมเนียม",
+    "id": "Gratis",
+    "fil": "Libre",
+    "ko": "무료"
+  },
+  "13 to 7 days before": {
+    "ja": "13〜7日前",
+    "zh-Hant": "入住前13〜7天",
+    "ms": "13 hingga 7 hari sebelum",
+    "th": "ก่อนเช็กอิน 13–7 วัน",
+    "id": "13 hingga 7 hari sebelumnya",
+    "fil": "13 hanggang 7 araw bago",
+    "ko": "13~7일 전"
+  },
+  "6 to 2 days before": {
+    "ja": "6〜2日前",
+    "zh-Hant": "入住前6〜2天",
+    "ms": "6 hingga 2 hari sebelum",
+    "th": "ก่อนเช็กอิน 6–2 วัน",
+    "id": "6 hingga 2 hari sebelumnya",
+    "fil": "6 hanggang 2 araw bago",
+    "ko": "6~2일 전"
+  },
+  "On the day, or no-show": {
+    "ja": "当日・不泊",
+    "zh-Hant": "入住當天取消或未入住",
+    "ms": "Pada hari yang sama atau tidak hadir",
+    "th": "วันเข้าพักหรือไม่มาเข้าพัก",
+    "id": "Pada hari H atau tidak hadir",
+    "fil": "Mismong araw o no-show",
+    "ko": "당일 취소 또는 노쇼"
+  },
+  "HOW TO BOOK": {
+    "ja": "ご予約の流れ",
+    "zh-Hant": "訂房流程",
+    "ms": "CARA MEMBUAT TEMPAHAN",
+    "th": "ขั้นตอนการจอง",
+    "id": "CARA MEMESAN",
+    "fil": "PAANO MAG-BOOK",
+    "ko": "예약 방법"
+  },
+  "Last-minute or months ahead.": {
+    "ja": "直前のご予約も、数か月先のご予約も。",
+    "zh-Hant": "急單或提前數月，都能安排。",
+    "ms": "Saat akhir atau berbulan-bulan lebih awal.",
+    "th": "จองกระชั้นชิดหรือล่วงหน้าหลายเดือนก็ได้",
+    "id": "Mendadak atau berbulan-bulan sebelumnya.",
+    "fil": "Last-minute man o ilang buwan bago.",
+    "ko": "급한 예약도, 몇 달 앞선 예약도"
+  },
+  "For urgent requests, we check availability right away. For trips three or six months ahead, we plan rooms around your itinerary.": {
+    "ja": "お急ぎの場合はすぐに空室をお調べします。3か月・6か月先のご旅行は、行程に合わせて客室をご提案します。",
+    "zh-Hant": "急單可立即協助查詢房況；三個月或半年後的行程，我們會配合行程規劃房間。",
+    "ms": "Untuk permintaan segera, kami semak ketersediaan dengan serta-merta. Untuk perjalanan tiga atau enam bulan lagi, kami rancang bilik mengikut jadual perjalanan anda.",
+    "th": "หากเร่งด่วน เราจะเช็กห้องว่างให้ทันที สำหรับทริปล่วงหน้า 3 หรือ 6 เดือน เราจะวางแผนห้องพักตามแผนการเดินทางของคุณ",
+    "id": "Untuk permintaan mendesak, kami cek ketersediaan saat itu juga. Untuk perjalanan tiga atau enam bulan ke depan, kami rencanakan kamar sesuai itinerary Anda.",
+    "fil": "Para sa urgent requests, iche-check agad namin ang availability. Para sa trips na tatlo o anim na buwan pa, ipa-plano namin ang kuwarto ayon sa inyong itinerary.",
+    "ko": "급한 요청은 바로 객실 현황을 확인해 드립니다. 3개월 또는 6개월 뒤 일정은 여행 일정에 맞춰 객실을 계획해 드립니다."
+  },
+  "Send your request": {
+    "ja": "ご依頼",
+    "zh-Hant": "提出需求",
+    "ms": "Hantar permintaan",
+    "th": "ส่งคำขอ",
+    "id": "Kirim permintaan",
+    "fil": "Ipadala ang request",
+    "ko": "요청 보내기"
+  },
+  "Stay dates, number of guests and rooms.": {
+    "ja": "宿泊日程・人数・部屋数をお知らせください。",
+    "zh-Hant": "提供入住日期、人數與房間數。",
+    "ms": "Tarikh menginap, bilangan tetamu dan bilik.",
+    "th": "วันที่เข้าพัก จำนวนผู้เข้าพัก และจำนวนห้อง",
+    "id": "Tanggal menginap, jumlah tamu, dan kamar.",
+    "fil": "Petsa ng stay, bilang ng bisita at kuwarto.",
+    "ko": "숙박 일정, 인원, 객실 수"
+  },
+  "Receive a quotation": {
+    "ja": "お見積り",
+    "zh-Hant": "取得報價",
+    "ms": "Terima sebut harga",
+    "th": "รับใบเสนอราคา",
+    "id": "Terima penawaran harga",
+    "fil": "Tumanggap ng quotation",
+    "ko": "견적 받기"
+  },
+  "We check availability and send rates.": {
+    "ja": "空室を確認し、料金をご案内します。",
+    "zh-Hant": "我們查詢房況並提供報價。",
+    "ms": "Kami semak ketersediaan dan hantar kadar.",
+    "th": "เราเช็กห้องว่างและส่งราคาให้",
+    "id": "Kami cek ketersediaan dan kirimkan tarif.",
+    "fil": "Iche-check namin ang availability at ipapadala ang rates.",
+    "ko": "객실 현황을 확인하고 요금을 안내해 드립니다."
+  },
+  "Agree the property, rooms and terms.": {
+    "ja": "施設・客室・条件を確定します。",
+    "zh-Hant": "確認物業、房型與條件。",
+    "ms": "Sahkan hartanah, bilik dan terma.",
+    "th": "ยืนยันที่พัก ห้อง และเงื่อนไข",
+    "id": "Sepakati properti, kamar, dan ketentuan.",
+    "fil": "Pagkasunduan ang property, kuwarto at terms.",
+    "ko": "숙소, 객실, 조건을 확정합니다."
+  },
+  "Welcome your guests": {
+    "ja": "お客さまのご到着",
+    "zh-Hant": "迎接旅客",
+    "ms": "Sambut tetamu anda",
+    "th": "ต้อนรับลูกค้าของคุณ",
+    "id": "Sambut tamu Anda",
+    "fil": "Salubungin ang inyong guests",
+    "ko": "고객 맞이"
+  },
+  "We support their stay in Osaka.": {
+    "ja": "大阪でのご滞在をサポートします。",
+    "zh-Hant": "旅客在大阪住宿期間，我們全程協助。",
+    "ms": "Kami menyokong penginapan mereka di Osaka.",
+    "th": "เราดูแลการเข้าพักของลูกค้าในโอซาก้า",
+    "id": "Kami mendukung masa menginap mereka di Osaka.",
+    "fil": "Sinusuportahan namin ang kanilang stay sa Osaka.",
+    "ko": "오사카 체류 기간 동안 지원해 드립니다."
+  },
+  "Common questions": {
+    "ja": "よくあるご質問",
+    "zh-Hant": "常見問題",
+    "ms": "Soalan lazim",
+    "th": "คำถามที่พบบ่อย",
+    "id": "Pertanyaan umum",
+    "fil": "Mga madalas itanong",
+    "ko": "자주 묻는 질문"
+  },
+  "Why aren't rates shown on this site?": {
+    "ja": "料金がサイトに掲載されていないのはなぜですか？",
+    "zh-Hant": "為什麼網站上沒有公開價格？",
+    "ms": "Mengapa kadar tidak dipaparkan di laman ini?",
+    "th": "ทำไมไม่แสดงราคาบนเว็บไซต์",
+    "id": "Mengapa tarif tidak ditampilkan di situs ini?",
+    "fil": "Bakit walang rates sa site na ito?",
+    "ko": "왜 사이트에 요금이 없나요?"
+  },
+  "Partner rates depend on dates, property and group size. Send us your requirements and we will reply with a quotation and our rate sheet.": {
+    "ja": "取引料金は日程・施設・人数によって異なります。ご希望条件をお送りいただければ、お見積りと料金表をお返しします。",
+    "zh-Hant": "同業價格會依日期、物業與人數而不同。請告訴我們您的需求，我們會回覆報價並附上價格表。",
+    "ms": "Kadar rakan kongsi bergantung pada tarikh, hartanah dan saiz kumpulan. Hantar keperluan anda dan kami akan membalas dengan sebut harga serta senarai kadar.",
+    "th": "ราคาพาร์ทเนอร์ขึ้นอยู่กับวันที่ ที่พัก และขนาดกรุ๊ป ส่งความต้องการมาให้เรา แล้วเราจะตอบกลับพร้อมใบเสนอราคาและตารางราคา",
+    "id": "Tarif mitra bergantung pada tanggal, properti, dan jumlah rombongan. Kirimkan kebutuhan Anda dan kami akan membalas dengan penawaran harga serta daftar tarif.",
+    "fil": "Nakadepende ang partner rates sa petsa, property at laki ng grupo. Ipadala ang inyong requirements at sasagot kami ng quotation at rate sheet.",
+    "ko": "제휴 요금은 일정, 숙소, 인원에 따라 달라집니다. 조건을 보내 주시면 견적과 요금표를 함께 회신해 드립니다."
+  },
+  "Can you accommodate groups?": {
+    "ja": "団体の受け入れは可能ですか？",
+    "zh-Hant": "可以接待團體嗎？",
+    "ms": "Bolehkah anda menempatkan kumpulan?",
+    "th": "รองรับกรุ๊ปได้ไหม",
+    "id": "Apakah bisa menampung rombongan?",
+    "fil": "Kaya ba ninyo ang mga grupo?",
+    "ko": "단체 숙박이 가능한가요?"
+  },
+  "Yes. Properties average around 50 to 70 rooms and some have more than 100, so we can suggest one or more properties for your group.": {
+    "ja": "はい。1棟あたり平均50〜70室、100室を超える施設もあるため、人数に合わせて1棟または複数の施設をご提案できます。",
+    "zh-Hant": "可以。每棟平均約50至70間客房，部分超過100間，可依團體規模安排一棟或多棟物業。",
+    "ms": "Ya. Setiap hartanah mempunyai purata 50 hingga 70 bilik dan ada yang melebihi 100, jadi kami boleh mencadangkan satu atau lebih hartanah untuk kumpulan anda.",
+    "th": "ได้ ที่พักแต่ละแห่งมีเฉลี่ย 50–70 ห้อง บางแห่งมีมากกว่า 100 ห้อง เราจึงแนะนำที่พัก 1 แห่งหรือหลายแห่งให้เหมาะกับกรุ๊ปของคุณได้",
+    "id": "Ya. Rata-rata properti memiliki 50 hingga 70 kamar dan beberapa lebih dari 100, sehingga kami bisa menyarankan satu atau beberapa properti untuk rombongan Anda.",
+    "fil": "Oo. Karaniwang may 50 hanggang 70 kuwarto ang bawat property at may ilang lampas 100, kaya makakapagmungkahi kami ng isa o higit pang property para sa inyong grupo.",
+    "ko": "네. 숙소당 평균 50~70실이고 100실이 넘는 곳도 있어, 단체 규모에 맞춰 한 곳 또는 여러 숙소를 제안해 드립니다."
+  },
+  "Do the rooms suit families?": {
+    "ja": "ファミリーでの利用に向いていますか？",
+    "zh-Hant": "客房適合家庭入住嗎？",
+    "ms": "Adakah bilik sesuai untuk keluarga?",
+    "th": "ห้องเหมาะกับครอบครัวไหม",
+    "id": "Apakah kamar cocok untuk keluarga?",
+    "fil": "Bagay ba ang mga kuwarto sa pamilya?",
+    "ko": "가족 여행에도 적합한가요?"
+  },
+  "Most featured room types sleep up to 4 guests and have a kitchen. Larger suites are available on request.": {
+    "ja": "おすすめ客室の多くは最大4名まで宿泊でき、キッチン付きです。より広いスイートもご相談ください。",
+    "zh-Hant": "多數精選房型可住到4人並附廚房，另有更大的套房可洽詢。",
+    "ms": "Kebanyakan jenis bilik pilihan memuatkan sehingga 4 tetamu dan mempunyai dapur. Suite yang lebih besar tersedia atas permintaan.",
+    "th": "ห้องแนะนำส่วนใหญ่พักได้สูงสุด 4 ท่านและมีครัว หากต้องการห้องสวีทที่ใหญ่กว่าสอบถามได้",
+    "id": "Sebagian besar tipe kamar pilihan muat hingga 4 tamu dan memiliki dapur. Suite yang lebih luas tersedia sesuai permintaan.",
+    "fil": "Kasya ang hanggang 4 na bisita sa karamihan ng featured room types at may kusina. May mas malalaking suite kapag hiniling.",
+    "ko": "추천 객실 대부분은 최대 4명까지 숙박할 수 있고 주방이 있습니다. 더 넓은 스위트룸도 문의 가능합니다."
+  },
+  "Can we book at short notice?": {
+    "ja": "直前の予約もできますか？",
+    "zh-Hant": "可以臨時訂房嗎？",
+    "ms": "Bolehkah kami menempah pada saat akhir?",
+    "th": "จองกระชั้นชิดได้ไหม",
+    "id": "Bisakah memesan secara mendadak?",
+    "fil": "Puwede bang mag-book nang biglaan?",
+    "ko": "급하게 예약할 수 있나요?"
+  },
+  "Yes. For urgent requests, contact us by phone, WhatsApp or LINE and we will check availability right away.": {
+    "ja": "はい。お急ぎの場合は電話・WhatsApp・LINEでご連絡ください。すぐに空室をお調べします。",
+    "zh-Hant": "可以。急單請直接透過電話、WhatsApp 或 LINE 聯絡，我們會立即查詢房況。",
+    "ms": "Ya. Untuk permintaan segera, hubungi kami melalui telefon, WhatsApp atau LINE dan kami akan semak ketersediaan dengan serta-merta.",
+    "th": "ได้ หากเร่งด่วน ติดต่อเราทางโทรศัพท์ WhatsApp หรือ LINE แล้วเราจะเช็กห้องว่างให้ทันที",
+    "id": "Bisa. Untuk permintaan mendesak, hubungi kami lewat telepon, WhatsApp, atau LINE dan kami akan langsung cek ketersediaan.",
+    "fil": "Oo. Para sa urgent requests, tawagan o i-message kami sa WhatsApp o LINE at iche-check agad namin ang availability.",
+    "ko": "네. 급한 경우 전화, WhatsApp, LINE으로 연락 주시면 바로 객실 현황을 확인해 드립니다."
+  },
+  "Do you have properties outside Osaka?": {
+    "ja": "大阪以外にも施設はありますか？",
+    "zh-Hant": "大阪以外也有物業嗎？",
+    "ms": "Adakah anda mempunyai hartanah di luar Osaka?",
+    "th": "มีที่พักนอกโอซาก้าไหม",
+    "id": "Apakah ada properti di luar Osaka?",
+    "fil": "May properties ba kayo sa labas ng Osaka?",
+    "ko": "오사카 외 지역에도 숙소가 있나요?"
+  },
+  "Yes. We also have properties in Kyoto, Tokyo, Okinawa, Kobe and Nagoya. Tell us your itinerary and we will suggest options.": {
+    "ja": "はい。京都・東京・沖縄・神戸・名古屋にも施設があります。行程をお知らせいただければご提案します。",
+    "zh-Hant": "有。我們在京都、東京、沖繩、神戶、名古屋也有物業，告訴我們行程，我們會為您推薦。",
+    "ms": "Ya. Kami juga mempunyai hartanah di Kyoto, Tokyo, Okinawa, Kobe dan Nagoya. Beritahu kami jadual perjalanan anda dan kami akan mencadangkan pilihan.",
+    "th": "มี เรายังมีที่พักในเกียวโต โตเกียว โอกินาวา โกเบ และนาโกย่า แจ้งแผนการเดินทางมา แล้วเราจะแนะนำตัวเลือกให้",
+    "id": "Ada. Kami juga memiliki properti di Kyoto, Tokyo, Okinawa, Kobe, dan Nagoya. Beri tahu itinerary Anda dan kami akan menyarankan pilihan.",
+    "fil": "Oo. May properties din kami sa Kyoto, Tokyo, Okinawa, Kobe at Nagoya. Sabihin lang ang inyong itinerary at magmumungkahi kami.",
+    "ko": "네. 교토, 도쿄, 오키나와, 고베, 나고야에도 숙소가 있습니다. 일정을 알려 주시면 추천해 드립니다."
+  }
+}

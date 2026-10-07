@@ -65,10 +65,16 @@ Search and share metadata use three brand names together: parent company **HIWIN
 
 After deployment, validate with Google's Rich Results Test and the Facebook Sharing Debugger (which also refreshes cached previews).
 
-## Osaka accommodation page · October 7, 2026
+## Agency pages · October 7, 2026
 
-`/en/osaka-accommodation/` and `/tw/osaka-accommodation/` target travel-agency searches for Osaka apartment hotels. They are built from `osaka.html` (English source) and `osaka.localization.json` (Traditional Chinese only). Shared strings such as navigation and contact labels come from `localization.json`; the build rejects an Osaka key that duplicates one there. The page uses `page.js` instead of `script.js`.
+Two inner pages target travel-agency searches, in all 8 languages:
 
-- Published in English and Traditional Chinese only. Other languages' menus link to their homepage, and the homepage links to the page (nav "Osaka stays" and a portfolio link, wrapped in `<!--osaka:start-->…<!--osaka:end-->`) only in these two languages.
-- Content rules: every property is labelled as a featured selection with one featured room type, and the page says more properties and room types are available on request. Partner rates are not published; the rate sheet is sent on enquiry. Room data follows the 2027 rate sheet; access and facilities follow the property brochures (Google Drive, October 2026).
-- Both pages are in `sitemap.xml` with `hreflang` en / zh-Hant (x-default: English).
+| Path | Purpose |
+| --- | --- |
+| `/<lang>/osaka-accommodation/` | Featured Osaka properties, one featured room type each, with photos |
+| `/<lang>/travel-agency-partnership/` | Why partner, stay conditions, cancellation policy, booking steps, FAQ |
+
+- Source: `pages/<slug>.html` (English body; first lines hold `<!--title:…-->` and `<!--description:…-->`) plus shared `pages/_head.html`, `_header.html`, `_contact.html`. `build.py` builds every `pages/*.html` not starting with `_`, adds canonical, `hreflang`, Open Graph and JSON-LD, and lists them in `sitemap.xml`. Inner pages use `page.js` instead of `script.js`.
+- Strings: `pages/localization.json`, all seven languages required. Strings already in `localization.json` (navigation, contact labels, property names) are reused from there; the build rejects duplicates so each string has one translation site-wide. English is the base; translations are localized, not literal.
+- Homepage links to the pages (`href="osaka-accommodation/"` / `href="travel-agency-partnership/"`) are rewritten per language by the build.
+- Content rules: every property is labelled as a featured selection, and the page says more properties and room types are available on request. Partner rates are never published; the rate sheet is sent on enquiry. Room data follows the 2027 rate sheet; access and facilities follow the property brochures and apartmenthotel11.com. Property photos in `assets/stays/` are 640×800 crops of the main photos on apartmenthotel11.com.
