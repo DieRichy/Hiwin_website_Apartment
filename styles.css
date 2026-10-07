@@ -1202,12 +1202,15 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
 .op-card>img{aspect-ratio:4/3}
 @media(max-width:1100px){.op-buildings{grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:170px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:14px;scrollbar-width:thin;scrollbar-color:var(--gold) transparent}.op-buildings figure{scroll-snap-align:start}}
 @media(max-width:760px){.op-buildings{grid-auto-columns:42%;gap:12px;margin-top:28px}}
-/* Three-item navigation fits on tablets: show it inline instead of behind the menu button. */
-@media(min-width:761px) and (max-width:1280px){.site-header nav{display:flex;position:static;width:auto;margin-left:auto;padding:0;background:none;color:inherit;border:0;flex-direction:row;align-items:center;gap:22px;max-height:none;overflow:visible}.site-header nav a{padding:0;border:0;font-size:14px;white-space:nowrap}.site-header nav a:after{display:block}.site-header nav .nav-contact{color:inherit;padding:10px 16px;border:1px solid var(--ink)}.site-header nav .nav-contact:after{display:none}.site-header nav .nav-contact:hover{background:var(--ink);color:#fff}.header-controls{margin-left:8px}.menu-toggle{display:none}}
-/* Apartment Hotel 11 logo in the header, between HIWIN and the trade label. */
-.brand-sub{display:flex;align-items:center;flex-shrink:0;padding-left:25px;border-left:1px solid var(--line);height:40px}.brand-sub img{width:auto;height:34px}
-@media(max-width:1280px){.brand-sub{padding-left:16px;height:34px}.brand-sub img{height:30px}}
-@media(max-width:760px){.brand-sub{padding-left:10px;height:26px}.brand-sub img{height:22px}}
-@media(max-width:360px){.brand-sub{padding-left:8px}.brand-sub img{height:19px}}
-@media(min-width:761px) and (max-width:900px){.site-header{padding:0 4%}.brand img{width:128px}.site-header nav{gap:14px}.site-header nav .nav-contact{padding:8px 12px}.brand-sub{padding-left:12px}.brand-sub img{height:26px}}
-@media(max-width:760px){.menu-toggle .menu-label,.language-trigger span{white-space:nowrap}}
+/* From 1100px the three-item navigation fits next to both logos in every language (Filipino needs about 1080px), so show it inline; narrower tablets keep the menu button. */
+@media(min-width:1100px) and (max-width:1280px){.site-header nav{display:flex;position:static;width:auto;margin-left:auto;padding:0;background:none;color:inherit;border:0;flex-direction:row;align-items:center;gap:22px;max-height:none;overflow:visible}.site-header nav a{padding:0;border:0;font-size:14px;white-space:nowrap}.site-header nav a:after{display:block}.site-header nav .nav-contact{color:inherit;padding:10px 16px;border:1px solid var(--ink)}.site-header nav .nav-contact:after{display:none}.site-header nav .nav-contact:hover{background:var(--ink);color:#fff}.header-controls{margin-left:8px}.menu-toggle{display:none}}
+@media(min-width:761px) and (max-width:900px){.site-header{padding:0 4%}.brand img{width:128px}.site-header nav{gap:14px}.site-header nav .nav-contact{padding:8px 12px}}
+/* Apartment Hotel 11 logo in the header, between HIWIN and the trade label. It matches the HIWIN logo height at every width
+   (HIWIN is 283.6x61.5, so its height is width x 0.217). */
+.brand-sub{display:flex;align-items:center;flex-shrink:0;padding-left:24px;border-left:1px solid var(--line);height:42px}.brand-sub img{width:auto;height:36px}
+@media(min-width:761px) and (max-width:900px){.brand-sub{padding-left:12px;height:32px}.brand-sub img{height:28px}}
+@media(max-width:760px){.brand-sub{padding-left:10px;height:31px}.brand-sub img{height:27px}
+.menu-toggle .menu-label,.language-trigger span{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}.language-trigger{min-width:0}}
+@media(max-width:360px){.brand-sub{padding-left:8px;height:28px}.brand-sub img{height:24px}}
+.brand{flex-shrink:0}.brand img{max-width:none}
+@media(max-width:360px){html[lang=th] .brand img{width:104px}html[lang=th] .brand-sub img{height:22.5px}}
