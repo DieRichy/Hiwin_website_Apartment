@@ -1429,5 +1429,86 @@
     "id": "Tarif mitra sesuai permintaan, ketentuan menginap, kebijakan pembatalan, dan langkah pemesanan.",
     "fil": "Partner rates kapag nag-inquire, kondisyon ng stay, cancellation policy at booking steps.",
     "ko": "제휴 요금 문의, 숙박 조건, 취소 규정, 예약 절차."
+  },
+  "Featured here: 11 of our 60+ properties": {
+    "ja": "ここで紹介しているのは、60以上ある施設のうち11施設です",
+    "zh-Hant": "這裡僅展示 60 多處物業中的 11 處",
+    "ms": "Dipaparkan di sini: 11 daripada lebih 60 hartanah kami",
+    "th": "แสดงที่นี่เพียง 11 จากที่พักกว่า 60 แห่งของเรา",
+    "id": "Ditampilkan di sini: 11 dari 60+ properti kami",
+    "fil": "Nakalista rito: 11 sa mahigit 60 naming property",
+    "ko": "60개 이상 숙소 중 11곳만 소개합니다"
+  },
+  "Ask for more options": {
+    "ja": "ほかの施設を問い合わせる",
+    "zh-Hant": "詢問更多物業",
+    "ms": "Tanya pilihan lain",
+    "th": "สอบถามตัวเลือกเพิ่มเติม",
+    "id": "Tanyakan pilihan lain",
+    "fil": "Magtanong ng iba pang options",
+    "ko": "더 많은 숙소 문의하기"
+  },
+  "more properties in this area": {
+    "ja": "このエリアのその他の施設",
+    "zh-Hant": "此區其他物業",
+    "ms": "lagi hartanah di kawasan ini",
+    "th": "ที่พักอื่นในย่านนี้",
+    "id": "properti lain di area ini",
+    "fil": "pang property sa lugar na ito",
+    "ko": "이 지역의 다른 숙소"
+  },
+  "More Osaka areas": {
+    "ja": "大阪のその他のエリア",
+    "zh-Hant": "大阪其他區域",
+    "ms": "Kawasan lain di Osaka",
+    "th": "ย่านอื่นในโอซาก้า",
+    "id": "Area lain di Osaka",
+    "fil": "Iba pang lugar sa Osaka",
+    "ko": "오사카의 다른 지역"
+  },
+  "Dotonbori": {
+    "ja": "道頓堀",
+    "zh-Hant": "道頓堀",
+    "ms": "Dotonbori",
+    "th": "โดทงโบริ",
+    "id": "Dotonbori",
+    "fil": "Dotonbori",
+    "ko": "도톤보리"
+  },
+  "Umeda & Osaka Dome": {
+    "ja": "梅田・大阪ドーム",
+    "zh-Hant": "梅田・大阪巨蛋",
+    "ms": "Umeda & Osaka Dome",
+    "th": "อุเมดะ & โอซาก้าโดม",
+    "id": "Umeda & Osaka Dome",
+    "fil": "Umeda at Osaka Dome",
+    "ko": "우메다 · 오사카 돔"
+  },
+  "Number of properties in each area, not featured above. Ask us for options.": {
+    "ja": "各エリアの施設数です（上記では紹介していません）。お気軽にお問い合わせください。",
+    "zh-Hant": "數字為各區物業數，以上未列出，歡迎洽詢。",
+    "ms": "Bilangan hartanah di setiap kawasan, tidak dipaparkan di atas. Tanya kami untuk pilihan.",
+    "th": "ตัวเลขคือจำนวนที่พักในแต่ละย่าน ซึ่งไม่ได้แสดงด้านบน สอบถามได้เลย",
+    "id": "Jumlah properti di setiap area, tidak ditampilkan di atas. Tanyakan pilihan kepada kami.",
+    "fil": "Bilang ng property sa bawat lugar na hindi nakalista sa itaas. Magtanong lang para sa options.",
+    "ko": "지역별 숙소 수이며, 위에는 소개되지 않았습니다. 문의해 주세요."
+  },
+  "Other cities in Japan": {
+    "ja": "日本のその他の都市",
+    "zh-Hant": "日本其他城市",
+    "ms": "Bandar lain di Jepun",
+    "th": "เมืองอื่นในญี่ปุ่น",
+    "id": "Kota lain di Jepang",
+    "fil": "Iba pang lungsod sa Japan",
+    "ko": "일본의 다른 도시"
+  },
+  "Number of properties in each city. Larger suites are also available. Ask us for options.": {
+    "ja": "各都市の施設数です。広めのスイートもございます。お気軽にお問い合わせください。",
+    "zh-Hant": "數字為各城市的物業數，另有大坪數套房，歡迎洽詢。",
+    "ms": "Bilangan hartanah di setiap bandar. Suite yang lebih besar juga tersedia. Tanya kami untuk pilihan.",
+    "th": "ตัวเลขคือจำนวนที่พักในแต่ละเมือง มีห้องสวีทขนาดใหญ่ด้วย สอบถามได้เลย",
+    "id": "Jumlah properti di setiap kota. Suite yang lebih luas juga tersedia. Tanyakan pilihan kepada kami.",
+    "fil": "Bilang ng property sa bawat lungsod. May mas malalaking suite din. Magtanong lang para sa options.",
+    "ko": "도시별 숙소 수입니다. 더 넓은 스위트룸도 있습니다. 문의해 주세요."
   }
 }
