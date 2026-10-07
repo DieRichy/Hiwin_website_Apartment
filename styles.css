@@ -1198,7 +1198,7 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
 .op-hero-logo{width:190px;height:auto;margin-bottom:26px}
 .op-glance{margin-top:56px;padding:30px 32px;background:#fff;border-left:3px solid var(--gold)}.op-glance h3{font-size:22px}.op-glance ul{list-style:none;margin:16px 0 20px;padding:0;display:flex;flex-wrap:wrap;gap:10px 28px}.op-glance li{font-size:15px;font-weight:600}.op-glance li:before{content:"·";color:var(--gold);margin-right:8px}
 @media(max-width:760px){.op-hero-logo{width:150px;margin-bottom:20px}.op-glance{margin-top:40px;padding:24px 20px}.op-glance ul{display:block}.op-glance li+li{margin-top:8px}}
-.op-buildings{display:grid;grid-template-columns:repeat(6,1fr);gap:16px;margin-top:40px}.op-buildings img{width:100%;height:auto;aspect-ratio:4/5}.op-buildings figcaption{font-size:13px;margin-top:8px;color:var(--muted)}
+.op-buildings{display:grid;grid-template-columns:repeat(8,1fr);gap:16px;margin-top:40px}.op-buildings img{width:100%;height:auto;aspect-ratio:4/5}.op-buildings figcaption{font-size:13px;margin-top:8px;color:var(--muted)}
 .op-card>img{aspect-ratio:4/3}
 @media(max-width:1100px){.op-buildings{grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:170px;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:14px;scrollbar-width:thin;scrollbar-color:var(--gold) transparent}.op-buildings figure{scroll-snap-align:start}}
 @media(max-width:760px){.op-buildings{grid-auto-columns:42%;gap:12px;margin-top:28px}}
