@@ -206,15 +206,6 @@
     "fil": "Featured stays sa central Osaka.",
     "ko": "오사카 중심부 추천 숙소"
   },
-  "Each card shows one featured room type. All central Osaka properties below have in-room kitchens.": {
-    "ja": "各施設のおすすめ客室タイプを1つずつご紹介しています。以下の大阪中心部の施設は、全室キッチン付きです。",
-    "zh-Hant": "每處物業列出一種精選房型。以下大阪市中心物業，客房皆附廚房。",
-    "ms": "Setiap kad menunjukkan satu jenis bilik pilihan. Semua hartanah di tengah Osaka di bawah mempunyai dapur dalam bilik.",
-    "th": "แต่ละการ์ดแสดงห้องแนะนำ 1 ประเภท ที่พักใจกลางโอซาก้าด้านล่างทุกแห่งมีครัวในห้อง",
-    "id": "Setiap kartu menampilkan satu tipe kamar pilihan. Semua properti di pusat Osaka di bawah ini memiliki dapur di kamar.",
-    "fil": "Isang featured room type ang nasa bawat card. May kusina sa kuwarto ang lahat ng properties sa central Osaka sa ibaba.",
-    "ko": "숙소마다 추천 객실 타입 1개를 소개합니다. 아래 오사카 중심부 숙소는 모든 객실에 주방이 있습니다."
-  },
   "FEATURED SELECTION": {
     "ja": "厳選紹介",
     "zh-Hant": "精選房型",
@@ -1312,5 +1303,113 @@
     "id": "Ada. Kami juga memiliki properti di Kyoto, Tokyo, Okinawa, Kobe, dan Nagoya. Beri tahu itinerary Anda dan kami akan menyarankan pilihan.",
     "fil": "Oo. May properties din kami sa Kyoto, Tokyo, Okinawa, Kobe at Nagoya. Sabihin lang ang inyong itinerary at magmumungkahi kami.",
     "ko": "네. 교토, 도쿄, 오키나와, 고베, 나고야에도 숙소가 있습니다. 일정을 알려 주시면 추천해 드립니다."
+  },
+  "Shinsaibashi 9 featured room": {
+    "ja": "心斎橋9のおすすめ客室",
+    "zh-Hant": "心齋橋9 精選房型",
+    "ms": "Bilik pilihan di Shinsaibashi 9",
+    "th": "ห้องแนะนำที่ Shinsaibashi 9",
+    "id": "Kamar pilihan di Shinsaibashi 9",
+    "fil": "Featured room sa Shinsaibashi 9",
+    "ko": "신사이바시 9 추천 객실"
+  },
+  "Shinsaibashi 5 featured room": {
+    "ja": "心斎橋5のおすすめ客室",
+    "zh-Hant": "心齋橋5 精選房型",
+    "ms": "Bilik pilihan di Shinsaibashi 5",
+    "th": "ห้องแนะนำที่ Shinsaibashi 5",
+    "id": "Kamar pilihan di Shinsaibashi 5",
+    "fil": "Featured room sa Shinsaibashi 5",
+    "ko": "신사이바시 5 추천 객실"
+  },
+  "Kuromon 4 featured room": {
+    "ja": "黒門4のおすすめ客室",
+    "zh-Hant": "黑門4 精選房型",
+    "ms": "Bilik pilihan di Kuromon 4",
+    "th": "ห้องแนะนำที่ Kuromon 4",
+    "id": "Kamar pilihan di Kuromon 4",
+    "fil": "Featured room sa Kuromon 4",
+    "ko": "구로몬 4 추천 객실"
+  },
+  "Kuromon 8 featured room": {
+    "ja": "黒門8のおすすめ客室",
+    "zh-Hant": "黑門8 精選房型",
+    "ms": "Bilik pilihan di Kuromon 8",
+    "th": "ห้องแนะนำที่ Kuromon 8",
+    "id": "Kamar pilihan di Kuromon 8",
+    "fil": "Featured room sa Kuromon 8",
+    "ko": "구로몬 8 추천 객실"
+  },
+  "Namba 2 featured room": {
+    "ja": "難波2のおすすめ客室",
+    "zh-Hant": "難波2 精選房型",
+    "ms": "Bilik pilihan di Namba 2",
+    "th": "ห้องแนะนำที่ Namba 2",
+    "id": "Kamar pilihan di Namba 2",
+    "fil": "Featured room sa Namba 2",
+    "ko": "난바 2 추천 객실"
+  },
+  "Namba Minami 3 featured room": {
+    "ja": "難波南3のおすすめ客室",
+    "zh-Hant": "難波南3 精選房型",
+    "ms": "Bilik pilihan di Namba Minami 3",
+    "th": "ห้องแนะนำที่ Namba Minami 3",
+    "id": "Kamar pilihan di Namba Minami 3",
+    "fil": "Featured room sa Namba Minami 3",
+    "ko": "난바미나미 3 추천 객실"
+  },
+  "Namba Minami 5 featured room": {
+    "ja": "難波南5のおすすめ客室",
+    "zh-Hant": "難波南5 精選房型",
+    "ms": "Bilik pilihan di Namba Minami 5",
+    "th": "ห้องแนะนำที่ Namba Minami 5",
+    "id": "Kamar pilihan di Namba Minami 5",
+    "fil": "Featured room sa Namba Minami 5",
+    "ko": "난바미나미 5 추천 객실"
+  },
+  "Shin-Imamiya 1 featured room": {
+    "ja": "新今宮1のおすすめ客室",
+    "zh-Hant": "新今宮1 精選房型",
+    "ms": "Bilik pilihan di Shin-Imamiya 1",
+    "th": "ห้องแนะนำที่ Shin-Imamiya 1",
+    "id": "Kamar pilihan di Shin-Imamiya 1",
+    "fil": "Featured room sa Shin-Imamiya 1",
+    "ko": "신이마미야 1 추천 객실"
+  },
+  "Shin-Imamiya 3 featured room": {
+    "ja": "新今宮3のおすすめ客室",
+    "zh-Hant": "新今宮3 精選房型",
+    "ms": "Bilik pilihan di Shin-Imamiya 3",
+    "th": "ห้องแนะนำที่ Shin-Imamiya 3",
+    "id": "Kamar pilihan di Shin-Imamiya 3",
+    "fil": "Featured room sa Shin-Imamiya 3",
+    "ko": "신이마미야 3 추천 객실"
+  },
+  "Tsutenkaku featured room": {
+    "ja": "通天閣のおすすめ客室",
+    "zh-Hant": "通天閣 精選房型",
+    "ms": "Bilik pilihan di Tsutenkaku",
+    "th": "ห้องแนะนำที่ Tsutenkaku",
+    "id": "Kamar pilihan di Tsutenkaku",
+    "fil": "Featured room sa Tsutenkaku",
+    "ko": "쓰텐카쿠 추천 객실"
+  },
+  "Kansai Airport featured room": {
+    "ja": "関西空港のおすすめ客室",
+    "zh-Hant": "關西機場館 精選房型",
+    "ms": "Bilik pilihan di Kansai Airport",
+    "th": "ห้องแนะนำที่ Kansai Airport",
+    "id": "Kamar pilihan di Kansai Airport",
+    "fil": "Featured room sa Kansai Airport",
+    "ko": "간사이공항 추천 객실"
+  },
+  "Each card shows one featured room type with a photo of that room. All central Osaka properties below have in-room kitchens.": {
+    "ja": "各施設のおすすめ客室タイプを1つずつ、実際の客室写真とともにご紹介しています。以下の大阪中心部の施設は、全室キッチン付きです。",
+    "zh-Hant": "每處物業列出一種精選房型，並附上該房型的實際照片。以下大阪市中心物業，客房皆附廚房。",
+    "ms": "Setiap kad menunjukkan satu jenis bilik pilihan beserta gambar bilik tersebut. Semua hartanah di tengah Osaka di bawah mempunyai dapur dalam bilik.",
+    "th": "แต่ละการ์ดแสดงห้องแนะนำ 1 ประเภท พร้อมภาพจริงของห้องนั้น ที่พักใจกลางโอซาก้าด้านล่างทุกแห่งมีครัวในห้อง",
+    "id": "Setiap kartu menampilkan satu tipe kamar pilihan beserta foto kamar tersebut. Semua properti di pusat Osaka di bawah ini memiliki dapur di kamar.",
+    "fil": "Isang featured room type ang nasa bawat card, kasama ang litrato ng kuwartong iyon. May kusina sa kuwarto ang lahat ng properties sa central Osaka sa ibaba.",
+    "ko": "숙소마다 추천 객실 타입 1개를 실제 객실 사진과 함께 소개합니다. 아래 오사카 중심부 숙소는 모든 객실에 주방이 있습니다."
   }
 }
