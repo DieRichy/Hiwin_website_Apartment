@@ -53,15 +53,6 @@
     "fil": "Ang impormasyon ay as of Oktubre 2026 at maaaring magbago nang walang abiso. Maaaring magkakaiba ang layout at gamit ng bawat kuwarto. Kinukumpirma ang final na availability at rates ayon sa petsa, property at pangangailangan ng grupo.",
     "ko": "2026년 10월 기준 정보이며 사전 공지 없이 변경될 수 있습니다. 객실 구조와 비품은 객실마다 다를 수 있습니다. 최종 객실 현황과 요금은 숙박 일정, 숙소, 단체 조건에 따라 확정됩니다."
   },
-  "See featured Osaka properties for travel agencies": {
-    "ja": "旅行会社さま向け｜大阪のおすすめ施設を見る",
-    "zh-Hant": "旅行社專區：查看大阪精選物業",
-    "ms": "Lihat hartanah pilihan di Osaka untuk agensi pelancongan",
-    "th": "ดูที่พักแนะนำในโอซาก้าสำหรับบริษัทนำเที่ยว",
-    "id": "Lihat properti pilihan di Osaka untuk agen perjalanan",
-    "fil": "Tingnan ang featured properties sa Osaka para sa travel agencies",
-    "ko": "여행사용 오사카 추천 숙소 보기"
-  },
   "Partner rates, stay conditions and booking steps": {
     "ja": "取引料金・宿泊条件・ご予約の流れ",
     "zh-Hant": "同業價格、住宿條件與訂房流程",
@@ -1411,5 +1402,32 @@
     "id": "Setiap kartu menampilkan satu tipe kamar pilihan beserta foto kamar tersebut. Semua properti di pusat Osaka di bawah ini memiliki dapur di kamar.",
     "fil": "Isang featured room type ang nasa bawat card, kasama ang litrato ng kuwartong iyon. May kusina sa kuwarto ang lahat ng properties sa central Osaka sa ibaba.",
     "ko": "숙소마다 추천 객실 타입 1개를 실제 객실 사진과 함께 소개합니다. 아래 오사카 중심부 숙소는 모든 객실에 주방이 있습니다."
+  },
+  "Everything your agency needs for Osaka.": {
+    "ja": "大阪での手配に必要な情報を、ここに。",
+    "zh-Hant": "旅行社需要的大阪住宿資訊，都在這裡。",
+    "ms": "Semua yang agensi anda perlukan untuk Osaka.",
+    "th": "ทุกอย่างที่บริษัทนำเที่ยวต้องการสำหรับโอซาก้า",
+    "id": "Semua yang dibutuhkan agen Anda untuk Osaka.",
+    "fil": "Lahat ng kailangan ng inyong agency para sa Osaka.",
+    "ko": "오사카 숙박, 여행사에 필요한 모든 정보"
+  },
+  "Featured properties and room types, with real room photos, room sizes and guest capacity.": {
+    "ja": "おすすめ施設と客室タイプを、実際の客室写真・広さ・定員とあわせてご紹介します。",
+    "zh-Hant": "精選物業與房型，附實際客房照片、面積與可住人數。",
+    "ms": "Hartanah dan jenis bilik pilihan, dengan gambar bilik sebenar, keluasan dan kapasiti tetamu.",
+    "th": "ที่พักและประเภทห้องแนะนำ พร้อมภาพห้องจริง ขนาดห้อง และจำนวนผู้เข้าพัก",
+    "id": "Properti dan tipe kamar pilihan, lengkap dengan foto kamar asli, luas, dan kapasitas tamu.",
+    "fil": "Featured properties at room types, may totoong litrato ng kuwarto, laki at bilang ng bisita.",
+    "ko": "추천 숙소와 객실 타입을 실제 객실 사진, 면적, 인원과 함께 소개합니다."
+  },
+  "Partner rates on request, stay conditions, cancellation policy and booking steps.": {
+    "ja": "取引料金のご案内、宿泊条件、キャンセルポリシー、ご予約の流れ。",
+    "zh-Hant": "同業價格洽詢、住宿條件、取消政策與訂房流程。",
+    "ms": "Kadar rakan kongsi atas permintaan, syarat penginapan, polisi pembatalan dan langkah tempahan.",
+    "th": "ราคาเอเจนต์ตามคำขอ เงื่อนไขการเข้าพัก นโยบายการยกเลิก และขั้นตอนการจอง",
+    "id": "Tarif mitra sesuai permintaan, ketentuan menginap, kebijakan pembatalan, dan langkah pemesanan.",
+    "fil": "Partner rates kapag nag-inquire, kondisyon ng stay, cancellation policy at booking steps.",
+    "ko": "제휴 요금 문의, 숙박 조건, 취소 규정, 예약 절차."
   }
 }
