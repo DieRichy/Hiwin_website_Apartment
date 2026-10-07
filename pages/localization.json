@@ -26,24 +26,6 @@
     "fil": "Home ng HIWIN travel agency partnerships",
     "ko": "HIWIN 여행사 제휴 홈"
   },
-  "Send an accommodation enquiry.": {
-    "ja": "宿泊のご相談はこちら",
-    "zh-Hant": "住宿需求，歡迎洽詢",
-    "ms": "Hantar pertanyaan penginapan",
-    "th": "สอบถามเรื่องที่พัก",
-    "id": "Kirim pertanyaan akomodasi",
-    "fil": "Magpadala ng accommodation inquiry",
-    "ko": "숙박 문의하기"
-  },
-  "Please include stay dates, number of guests and rooms.": {
-    "ja": "ご宿泊日程・人数・部屋数をお知らせください。",
-    "zh-Hant": "詢價時請提供入住日期、人數與房間數。",
-    "ms": "Sila nyatakan tarikh menginap, bilangan tetamu dan bilik.",
-    "th": "กรุณาระบุวันที่เข้าพัก จำนวนผู้เข้าพัก และจำนวนห้อง",
-    "id": "Mohon sertakan tanggal menginap, jumlah tamu, dan jumlah kamar.",
-    "fil": "Pakisama ang petsa ng stay, bilang ng bisita at kuwarto.",
-    "ko": "숙박 일정, 인원, 객실 수를 함께 알려 주세요."
-  },
   "Information as of October 2026 and may change without notice. Room layouts and furnishings may vary. Final availability and rates are confirmed according to stay dates, property and group requirements.": {
     "ja": "掲載情報は2026年10月時点のもので、予告なく変更する場合があります。客室の間取りや備品は部屋により異なる場合があります。空室状況と料金は、ご宿泊日・施設・人数に応じて確定いたします。",
     "zh-Hant": "以上資訊為2026年10月資料，如有異動恕不另行通知。各房間格局與擺設可能略有不同。實際房況與價格，將依入住日期、物業與人數需求確認。",
@@ -1582,5 +1564,23 @@
     "id": "Tsutenkaku 3",
     "fil": "Tsutenkaku 3",
     "ko": "쓰텐카쿠 3"
+  },
+  "Talk to us anytime.": {
+    "ja": "お気軽にご連絡ください。",
+    "zh-Hant": "歡迎隨時與我們聯繫。",
+    "ms": "Hubungi kami bila-bila masa.",
+    "th": "ติดต่อเราได้ทุกเมื่อ",
+    "id": "Hubungi kami kapan saja.",
+    "fil": "Makipag-ugnayan sa amin anumang oras.",
+    "ko": "언제든지 문의해 주세요."
+  },
+  "Whether you have a group coming up, want to discuss a long-term partnership, or simply want to get to know us first, we'd be glad to hear from you.": {
+    "ja": "団体のご予定がある場合はもちろん、長期的なお取引のご相談や、まずは情報交換だけでも歓迎です。",
+    "zh-Hant": "不論是已有團體需求、想洽談長期合作，或只是想先認識我們，都歡迎聯繫。",
+    "ms": "Sama ada anda ada kumpulan yang akan datang, ingin membincangkan kerjasama jangka panjang, atau sekadar mahu mengenali kami dahulu, kami sedia mendengar.",
+    "th": "ไม่ว่าคุณจะมีกรุ๊ปที่กำลังจะมา อยากคุยเรื่องความร่วมมือระยะยาว หรือแค่อยากรู้จักเราก่อน เรายินดีรับฟังเสมอ",
+    "id": "Baik Anda sudah punya rombongan, ingin membahas kemitraan jangka panjang, atau sekadar ingin mengenal kami terlebih dahulu, kami senang mendengar dari Anda.",
+    "fil": "May grupo man kayong paparating, gusto ninyong pag-usapan ang pangmatagalang partnership, o gusto lang muna ninyong makilala kami, ikinagagalak naming makarinig mula sa inyo.",
+    "ko": "단체 일정이 있으시거나 장기 제휴를 논의하고 싶으실 때, 또는 먼저 인사만 나누고 싶으실 때도 언제든 환영합니다."
   }
 }
