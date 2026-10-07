@@ -1246,3 +1246,5 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
 @media(max-width:760px){.op-more-card .op-more-logo{height:38px}}
 .op-chips-solid .op-chip{border:1px solid #c9ac74}.op-chips-solid .op-chip-more span,.op-chip-more{color:var(--gold)}.op-chip-more{font-size:18px;font-weight:700}.op-chip-more:after{content:" …"}
 @media(max-width:760px){.op-chip-more{font-size:16px}}
+/* Keep the two logos together on the left at every width; only the controls go right. */
+@media(max-width:1280px){.site-header>.header-controls{margin-left:auto}}
