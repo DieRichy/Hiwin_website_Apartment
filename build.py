@@ -93,7 +93,7 @@ for locale in labels:
     page = page.replace('data-video-src="assets/', 'data-video-src="../assets/').replace('poster="assets/', 'poster="../assets/')
     page = page.replace('href="styles.css"', 'href="../styles.css"').replace('src="script.js"', 'src="../script.js"').replace('src="analytics.js"', 'src="../analytics.js"')
     if locale == 'id':
-        page = page.replace('>2,986<', '>2.986<').replace('>2,640<', '>2.640<')
+        page = page.replace('>3,000+<', '>3.000+<').replace('>2,640<', '>2.640<')
     for code in labels:
         old = './' if code == 'en' else code+'/'
         new = '/'+routes[code]+'/'
