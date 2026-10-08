@@ -1256,3 +1256,5 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
 @media(max-width:760px){.op-buildings{margin-top:28px}.op-buildings-track{gap:12px}.op-buildings figure{flex-basis:132px}}
 /* FEATURED SELECTION badge in the page's dark brown */
 .op-badge{background:#44382e}
+/* Contact rows list two people: stack the values in each row. */
+.contact-channels dd{display:flex;flex-direction:column;align-items:flex-start;gap:6px}.contact-channels dd>span{color:#c1ac8b}
