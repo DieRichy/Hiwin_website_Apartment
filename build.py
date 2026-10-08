@@ -103,7 +103,7 @@ for locale in labels:
     for code in labels:
         url = origin + '/'+routes[code]+'/'
         seo += '<link rel="alternate" hreflang="'+code+'" href="'+url+'">'
-    seo += '<link rel="alternate" hreflang="x-default" href="'+origin+'/">'
+    seo += '<link rel="alternate" hreflang="x-default" href="'+origin+'/en/">'
     # Share previews (WhatsApp, LINE, Facebook) need absolute URLs and a locale.
     seo += '<meta property="og:url" content="'+origin+path+'">'
     seo += '<meta property="og:image" content="'+origin+'/assets/og-image.jpg">'
@@ -117,9 +117,6 @@ for locale in labels:
     target = output / routes[locale]
     target.mkdir(exist_ok=True)
     (target / 'index.html').write_text(page)
-    if locale == 'en':
-        # Keep the homepage in English while /en remains directly shareable.
-        (output / 'index.html').write_text(page.replace('../assets/', 'assets/').replace('../styles.css', 'styles.css').replace('../script.js', 'script.js').replace('../analytics.js', 'analytics.js'))
 names = {'en': 'English', 'ja': '日本語', 'zh-Hant': '繁體中文', 'ms': 'Bahasa Melayu', 'th': 'ไทย', 'id': 'Bahasa Indonesia', 'fil': 'Filipino', 'ko': '한국어'}
 for slug in inner_pages:
     source = (pages_dir / (slug+'.html')).read_text()
@@ -162,13 +159,15 @@ for slug in inner_pages:
 for name in ('styles.css', 'script.js', 'page.js', 'analytics.js'):
     shutil.copy2(root / name, output / name)
 shutil.copytree(root / 'assets', output / 'assets', dirs_exist_ok=True)
-redirects = []
+# The root permanently redirects to /en/. A copy of the English page at / made Google pick / as the
+# canonical and leave /en/ unindexed ("Duplicate, Google chose different canonical than user").
+redirects = ['/ /en/ 301']
 for locale, route in routes.items():
     if locale != route:
         for old_path in ('/'+locale, '/'+locale+'/', '/'+locale+'/index.html'):
             redirects.append(f'{old_path} /{route}/ 301')
 (output / '_redirects').write_text('\n'.join(redirects)+'\n')
-# Publish only canonical language URLs; the root English alias points to /en/.
+# Publish only canonical language URLs; the root redirects to /en/.
 namespace = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 # Cache busting: Cloudflare lets browsers keep CSS/JS for 4 hours, so a new page could load with an old
 # stylesheet. Tag every CSS/JS reference with a hash of the file content; a changed file gets a new URL.

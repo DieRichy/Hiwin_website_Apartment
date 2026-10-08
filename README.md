@@ -33,23 +33,23 @@ No backend, database or runtime secret is required. Do not upload internal resea
 | `/ph/` | Filipino | `fil` |
 | `/ko/` | Korean | `ko` |
 
-The root homepage also displays English. Existing `/ja/`, `/zh-Hant/`, `/ms/`, and `/fil/` links permanently redirect to their new paths, including their forms without a trailing slash. The language menu, canonical URLs, and hreflang links use the new paths. Translation keys remain language codes, separate from URL paths.
+The root `/` permanently redirects to `/en/`. Existing `/ja/`, `/zh-Hant/`, `/ms/`, and `/fil/` links permanently redirect to their new paths, including their forms without a trailing slash. The language menu, canonical URLs, and hreflang links use the new paths. Translation keys remain language codes, separate from URL paths.
 
 ## Current maintenance context · October 3, 2026
 
 The production website is https://hiwin-partners.com on Cloudflare Pages (project `hiwin-partners`), backed by the private GitHub repository `DieRichy/Hiwin_website_Apartment`. This `agency-cloudflare` directory is the source checkout to edit. Push verified changes to `main` to trigger production deployment. The previous Sites hostname and sibling `agency` checkout are legacy; use this Cloudflare project for future website updates.
 
-Korean uses locally hosted Noto Sans KR variable WOFF2 subsets with the included SIL OFL license, whole-word wrapping and responsive heading/spacing rules. All 187 copy entries, metadata and accessibility/media labels are localized. Root and `/en/` remain English; language codes and public route names stay separate.
+Korean uses locally hosted Noto Sans KR variable WOFF2 subsets with the included SIL OFL license, whole-word wrapping and responsive heading/spacing rules. All 187 copy entries, metadata and accessibility/media labels are localized. `/` redirects to `/en/`; language codes and public route names stay separate.
 
 ## SEO crawl files
 
-The build generates `sitemap.xml` with the eight canonical language homepages and `robots.txt` with the sitemap URL. Both use the configured HTTPS site origin. The root English homepage stays accessible and canonicalizes to `/en/`, so it is not duplicated in the sitemap. Language alternatives remain in the HTML `hreflang` links.
+The build generates `sitemap.xml` with the eight canonical language homepages and `robots.txt` with the sitemap URL. Both use the configured HTTPS site origin. The root `/` 301-redirects to `/en/` (an English copy at `/` made Google index `/` instead of `/en/`), and `x-default` hreflang points to `/en/`. Language alternatives remain in the HTML `hreflang` links.
 
 Submit `https://hiwin-partners.com/sitemap.xml` to the domain property in Google Search Console after deployment. Submission does not guarantee indexing.
 
 ## GA4 measurement
 
-The production hostname `hiwin-partners.com` uses GA4 measurement ID `G-TNJQEP3WWM` (web stream `hp main site`). The Google tag appears once on the root and all eight language pages. Other hostnames, including local and Cloudflare preview addresses, do not initialize this property.
+The production hostname `hiwin-partners.com` uses GA4 measurement ID `G-TNJQEP3WWM` (web stream `hp main site`). The Google tag appears once on every language page. Other hostnames, including local and Cloudflare preview addresses, do not initialize this property.
 
 `analytics.js` sends one `contact_click` event for an Email, phone, WhatsApp or LINE link click. Parameters are `contact_channel` and `site_language`; the custom event does not include destination contact details or link text. A contact click is not a confirmed enquiry. Enhanced measurement remains managed in GA4.
 
