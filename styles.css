@@ -1362,6 +1362,9 @@ html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th]
 .contact-panel{display:block}
 @media(min-width:761px){.contact-photo img{height:260px;min-height:0;object-position:50% 45%}.contact-info{padding:44px 48px 48px}}
 @media(min-width:900px){.contact-info{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);column-gap:64px;align-items:start;padding:48px 56px 52px}.contact-info>*{grid-column:1}.contact-info>.phone{justify-self:start}
-.contact-info>.contact-qr{grid-column:2;grid-row:1/span 8;margin-top:0;padding:0 0 0 48px;border-top:0;border-left:1px solid #ffffff30}}
+.contact-info>.contact-qr{grid-column:2;grid-row:1/span 9;margin-top:0;padding:0 0 0 48px;border-top:0;border-left:1px solid #ffffff30}}
 .contact-qr-grid>*>span,.contact-qr-grid small{font-family:Arial,"Helvetica Neue",sans-serif}
 @media(max-width:360px){.contact-qr-grid{gap:16px 8px}.contact-qr-grid small{font-size:11px}.home-contact .contact-qr-grid>a{column-gap:8px;padding:8px 10px}}
+/* Enquiry notes (what to send, reply time): in the contact panel and under the contact page summary. */
+.contact-notes{list-style:none;margin:14px 0 0;padding:0;font-size:15px;line-height:1.6;color:#e8dcc6}.contact-notes li{position:relative;padding-left:14px}.contact-notes li+li{margin-top:4px}.contact-notes li:before{content:"";position:absolute;left:0;top:.65em;width:5px;height:5px;border-radius:50%;background:#dbc396}
+.cp-notes{margin-top:18px;font-size:16px;color:var(--ink)}.cp-notes li:before{background:var(--gold)}

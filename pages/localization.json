@@ -28,7 +28,7 @@
   },
   "Information as of October 2026 and may change without notice. Room layouts and furnishings may vary. Final availability and rates are confirmed according to stay dates, property and group requirements.": {
     "ja": "掲載情報は2026年10月時点のもので、予告なく変更する場合があります。客室の間取りや備品は部屋により異なる場合があります。空室状況と料金は、ご宿泊日・施設・人数に応じて確定いたします。",
-    "zh-Hant": "以上資訊為2026年10月資料，如有異動恕不另行通知。各房間格局與擺設可能略有不同。實際房況與價格，將依入住日期、物業與人數需求確認。",
+    "zh-Hant": "以上資訊為2026年10月資料，如有異動恕不另行通知。各房間格局與擺設可能略有不同。實際房況與價格，將依入住日期、館別與人數需求確認。",
     "ms": "Maklumat setakat Oktober 2026 dan boleh berubah tanpa notis. Susun atur dan perabot bilik mungkin berbeza. Ketersediaan dan kadar muktamad disahkan mengikut tarikh menginap, hartanah dan keperluan kumpulan.",
     "th": "ข้อมูล ณ เดือนตุลาคม 2026 และอาจเปลี่ยนแปลงโดยไม่ต้องแจ้งให้ทราบล่วงหน้า ผังห้องและเฟอร์นิเจอร์อาจแตกต่างกันในแต่ละห้อง ห้องว่างและราคาจะยืนยันตามวันที่เข้าพัก ที่พัก และความต้องการของกรุ๊ป",
     "id": "Informasi per Oktober 2026 dan dapat berubah tanpa pemberitahuan. Tata letak dan perabot kamar dapat berbeda. Ketersediaan dan tarif final dikonfirmasi sesuai tanggal menginap, properti, dan kebutuhan rombongan.",
@@ -55,7 +55,7 @@
   },
   "Featured Apartment Hotel 11 properties in central Osaka for travel agencies: family and group rooms from 25㎡ with kitchens, breakfast delivery and partner rates on request.": {
     "ja": "旅行会社さま向けに、大阪中心部のApartment Hotel 11おすすめ施設をご紹介。キッチン付き25㎡〜のファミリー・団体向け客室、朝食デリバリー付き。取引料金はお問い合わせください。",
-    "zh-Hant": "住一 Apartment Hotel 11 大阪市中心精選物業，專為旅行社提供：25㎡起、附廚房的家庭與團體客房，含早餐配送，同業價格歡迎洽詢。",
+    "zh-Hant": "住一 Apartment Hotel 11 大阪市中心精選住宿，專為旅行社提供：25㎡起、附廚房的家庭與團體客房，含早餐配送，同業價格歡迎洽詢。",
     "ms": "Hartanah pilihan Apartment Hotel 11 di tengah Osaka untuk agensi pelancongan: bilik keluarga dan kumpulan dari 25㎡ dengan dapur, penghantaran sarapan dan kadar rakan kongsi atas permintaan.",
     "th": "ที่พักแนะนำของ Apartment Hotel 11 ใจกลางโอซาก้าสำหรับบริษัทนำเที่ยว ห้องสำหรับครอบครัวและกรุ๊ปตั้งแต่ 25 ตร.ม. พร้อมครัว มีบริการส่งอาหารเช้า สอบถามราคาเอเจนต์ได้",
     "id": "Properti pilihan Apartment Hotel 11 di pusat Osaka untuk agen perjalanan: kamar keluarga dan rombongan mulai 25㎡ dengan dapur, antar sarapan, dan tarif mitra sesuai permintaan.",
@@ -100,7 +100,7 @@
   },
   "Featured Apartment Hotel 11 properties in central Osaka, for independent travellers, families and groups. Partner rates are available on request.": {
     "ja": "個人旅行・ご家族・団体のお客さまに向けた、大阪中心部のApartment Hotel 11おすすめ施設です。取引料金はお問い合わせください。",
-    "zh-Hant": "住一 Apartment Hotel 11 位於大阪市中心的精選物業，自由行、家庭與團體旅客都適合。同業價格歡迎洽詢。",
+    "zh-Hant": "住一 Apartment Hotel 11 位於大阪市中心的精選住宿，自由行、家庭與團體旅客都適合。同業價格歡迎洽詢。",
     "ms": "Hartanah pilihan Apartment Hotel 11 di tengah Osaka untuk pelancong individu, keluarga dan kumpulan. Kadar rakan kongsi boleh didapati atas permintaan.",
     "th": "ที่พักแนะนำของ Apartment Hotel 11 ใจกลางโอซาก้า เหมาะสำหรับนักท่องเที่ยวอิสระ ครอบครัว และกรุ๊ปทัวร์ สอบถามราคาเอเจนต์ได้",
     "id": "Properti pilihan Apartment Hotel 11 di pusat Osaka untuk wisatawan mandiri, keluarga, dan rombongan. Tarif mitra tersedia sesuai permintaan.",
@@ -154,7 +154,7 @@
   },
   "See featured Osaka properties": {
     "ja": "大阪のおすすめ施設を見る",
-    "zh-Hant": "查看大阪精選物業",
+    "zh-Hant": "查看大阪精選住宿",
     "ms": "Lihat hartanah pilihan di Osaka",
     "th": "ดูที่พักแนะนำในโอซาก้า",
     "id": "Lihat properti pilihan di Osaka",
@@ -163,7 +163,7 @@
   },
   "FEATURED PROPERTIES": {
     "ja": "おすすめ施設",
-    "zh-Hant": "精選物業",
+    "zh-Hant": "精選住宿",
     "ms": "HARTANAH PILIHAN",
     "th": "ที่พักแนะนำ",
     "id": "PROPERTI PILIHAN",
@@ -190,7 +190,7 @@
   },
   "This is a selection, not our full portfolio. Share your itinerary, budget and group size, and we will recommend other properties and room types.": {
     "ja": "ここでご紹介しているのは一部の施設です。行程・ご予算・人数をお知らせいただければ、ほかの施設や客室タイプもご提案いたします。",
-    "zh-Hant": "以下僅為部分精選，並非全部物業。歡迎告訴我們行程、預算與人數，我們會推薦其他合適的物業與房型。",
+    "zh-Hant": "以下僅為部分精選，並非全部館別。歡迎告訴我們行程、預算與人數，我們會推薦其他合適的館別與房型。",
     "ms": "Ini hanya sebahagian pilihan, bukan keseluruhan portfolio kami. Kongsikan jadual perjalanan, bajet dan saiz kumpulan anda, dan kami akan mencadangkan hartanah serta jenis bilik lain.",
     "th": "นี่เป็นเพียงส่วนหนึ่งของที่พักทั้งหมด แจ้งแผนการเดินทาง งบประมาณ และจำนวนคนให้เราทราบ เราจะแนะนำที่พักและประเภทห้องอื่นที่เหมาะสมให้",
     "id": "Ini hanya sebagian pilihan, bukan seluruh portofolio kami. Bagikan itinerary, anggaran, dan jumlah rombongan Anda, dan kami akan merekomendasikan properti serta tipe kamar lainnya.",
@@ -658,7 +658,7 @@
   },
   "Looking for something else? We also have properties in Kyoto, Tokyo, Okinawa, Kobe and Nagoya, as well as larger suites. Ask us for options.": {
     "ja": "ほかの条件をご希望の場合もお気軽にどうぞ。京都・東京・沖縄・神戸・名古屋にも施設があり、広めのスイートもご用意しています。",
-    "zh-Hant": "想找其他選擇嗎？我們在京都、東京、沖繩、神戶、名古屋也有物業，另有大坪數套房，歡迎洽詢。",
+    "zh-Hant": "想找其他選擇嗎？我們在京都、東京、沖繩、神戶、名古屋也有住宿據點，另有大坪數套房，歡迎洽詢。",
     "ms": "Mencari pilihan lain? Kami juga mempunyai hartanah di Kyoto, Tokyo, Okinawa, Kobe dan Nagoya, serta suite yang lebih besar. Tanya kami untuk pilihan.",
     "th": "ต้องการตัวเลือกอื่นไหม เรายังมีที่พักในเกียวโต โตเกียว โอกินาวา โกเบ และนาโกย่า รวมถึงห้องสวีทขนาดใหญ่ สอบถามได้เลย",
     "id": "Mencari pilihan lain? Kami juga memiliki properti di Kyoto, Tokyo, Okinawa, Kobe, dan Nagoya, serta suite yang lebih luas. Tanyakan pilihan kepada kami.",
@@ -802,7 +802,7 @@
   },
   "HIWIN operates Apartment Hotel 11 from its base in Osaka, with 60 properties and around 3,000 guest rooms across Japan.": {
     "ja": "HIWINは大阪を拠点にApartment Hotel 11を運営し、全国で60施設・約3,000室を展開しています。",
-    "zh-Hant": "HIWIN 以大阪為據點經營住一 Apartment Hotel 11，在日本各地共有60處物業、約3,000間客房。",
+    "zh-Hant": "HIWIN 以大阪為據點經營住一 Apartment Hotel 11，在日本各地共有60館、約3,000間客房。",
     "ms": "HIWIN mengendalikan Apartment Hotel 11 dari pangkalannya di Osaka, dengan 60 hartanah dan kira-kira 3,000 bilik di seluruh Jepun.",
     "th": "HIWIN บริหาร Apartment Hotel 11 โดยมีฐานอยู่ที่โอซาก้า มีที่พัก 60 แห่ง รวมประมาณ 3,000 ห้องทั่วญี่ปุ่น",
     "id": "HIWIN mengelola Apartment Hotel 11 dari basisnya di Osaka, dengan 60 properti dan sekitar 3,000 kamar di seluruh Jepang.",
@@ -838,7 +838,7 @@
   },
   "Properties average around 50 to 70 rooms, and some have more than 100.": {
     "ja": "1棟あたり平均50〜70室、100室を超える施設もあります。",
-    "zh-Hant": "每棟平均約50至70間客房，部分物業超過100間。",
+    "zh-Hant": "每館平均約50至70間客房，部分超過100間。",
     "ms": "Setiap hartanah mempunyai purata 50 hingga 70 bilik, dan ada yang melebihi 100 bilik.",
     "th": "ที่พักแต่ละแห่งมีเฉลี่ย 50–70 ห้อง บางแห่งมีมากกว่า 100 ห้อง",
     "id": "Rata-rata properti memiliki 50 hingga 70 kamar, dan beberapa lebih dari 100 kamar.",
@@ -901,7 +901,7 @@
   },
   "Standard conditions for our featured Osaka properties. Details can vary by property and are confirmed when you book.": {
     "ja": "大阪のおすすめ施設の基本条件です。施設により異なる場合があり、ご予約時に確認いたします。",
-    "zh-Hant": "以下為大阪精選物業的一般條件，各物業可能略有不同，訂房時會再次確認。",
+    "zh-Hant": "以下為大阪精選住宿的一般條件，各館可能略有不同，訂房時會再次確認。",
     "ms": "Syarat standard untuk hartanah pilihan kami di Osaka. Butiran mungkin berbeza mengikut hartanah dan disahkan semasa tempahan.",
     "th": "เงื่อนไขมาตรฐานของที่พักแนะนำในโอซาก้า รายละเอียดอาจแตกต่างกันในแต่ละที่พักและจะยืนยันเมื่อจอง",
     "id": "Ketentuan standar untuk properti pilihan kami di Osaka. Detail dapat berbeda per properti dan dikonfirmasi saat pemesanan.",
@@ -1081,7 +1081,7 @@
   },
   "Agree the property, rooms and terms.": {
     "ja": "施設・客室・条件を確定します。",
-    "zh-Hant": "確認物業、房型與條件。",
+    "zh-Hant": "確認館別、房型與條件。",
     "ms": "Sahkan hartanah, bilik dan terma.",
     "th": "ยืนยันที่พัก ห้อง และเงื่อนไข",
     "id": "Sepakati properti, kamar, dan ketentuan.",
@@ -1126,7 +1126,7 @@
   },
   "Partner rates depend on dates, property and group size. Send us your requirements and we will reply with a quotation and our rate sheet.": {
     "ja": "取引料金は日程・施設・人数によって異なります。ご希望条件をお送りいただければ、お見積りと料金表をお返しします。",
-    "zh-Hant": "同業價格會依日期、物業與人數而不同。請告訴我們您的需求，我們會回覆報價並附上價格表。",
+    "zh-Hant": "同業價格會依日期、館別與人數而不同。請告訴我們您的需求，我們會回覆報價並附上價格表。",
     "ms": "Kadar rakan kongsi bergantung pada tarikh, hartanah dan saiz kumpulan. Hantar keperluan anda dan kami akan membalas dengan sebut harga serta senarai kadar.",
     "th": "ราคาเอเจนต์ขึ้นอยู่กับวันที่ ที่พัก และขนาดกรุ๊ป ส่งความต้องการมาให้เรา แล้วเราจะตอบกลับพร้อมใบเสนอราคาและตารางราคา",
     "id": "Tarif mitra bergantung pada tanggal, properti, dan jumlah rombongan. Kirimkan kebutuhan Anda dan kami akan membalas dengan penawaran harga serta daftar tarif.",
@@ -1144,7 +1144,7 @@
   },
   "Yes. Properties average around 50 to 70 rooms and some have more than 100, so we can suggest one or more properties for your group.": {
     "ja": "はい。1棟あたり平均50〜70室、100室を超える施設もあるため、人数に合わせて1棟または複数の施設をご提案できます。",
-    "zh-Hant": "可以。每棟平均約50至70間客房，部分超過100間，可依團體規模安排一棟或多棟物業。",
+    "zh-Hant": "可以。每館平均約50至70間客房，部分超過100間，可依團體規模安排一館或多館入住。",
     "ms": "Ya. Setiap hartanah mempunyai purata 50 hingga 70 bilik dan ada yang melebihi 100, jadi kami boleh mencadangkan satu atau lebih hartanah untuk kumpulan anda.",
     "th": "ได้ ที่พักแต่ละแห่งมีเฉลี่ย 50–70 ห้อง บางแห่งมีมากกว่า 100 ห้อง เราจึงแนะนำที่พัก 1 แห่งหรือหลายแห่งให้เหมาะกับกรุ๊ปของคุณได้",
     "id": "Ya. Rata-rata properti memiliki 50 hingga 70 kamar dan beberapa lebih dari 100, sehingga kami bisa menyarankan satu atau beberapa properti untuk rombongan Anda.",
@@ -1288,7 +1288,7 @@
   },
   "Each card shows one featured room type with a photo of that room. All central Osaka properties below have in-room kitchens.": {
     "ja": "各施設のおすすめ客室タイプを1つずつ、実際の客室写真とともにご紹介しています。以下の大阪中心部の施設は、全室キッチン付きです。",
-    "zh-Hant": "每處物業列出一種精選房型，並附上該房型的實際照片。以下大阪市中心物業，客房皆附廚房。",
+    "zh-Hant": "每館列出一種精選房型，並附上該房型的實際照片。以下大阪市中心各館，客房皆附廚房。",
     "ms": "Setiap kad menunjukkan satu jenis bilik pilihan beserta gambar bilik tersebut. Semua hartanah di tengah Osaka di bawah mempunyai dapur dalam bilik.",
     "th": "แต่ละการ์ดแสดงห้องแนะนำ 1 ประเภท พร้อมภาพจริงของห้องนั้น ที่พักใจกลางโอซาก้าด้านล่างทุกแห่งมีครัวในห้อง",
     "id": "Setiap kartu menampilkan satu tipe kamar pilihan beserta foto kamar tersebut. Semua properti di pusat Osaka di bawah ini memiliki dapur di kamar.",
@@ -1306,7 +1306,7 @@
   },
   "Featured properties and room types, with real room photos, room sizes and guest capacity.": {
     "ja": "おすすめ施設と客室タイプを、実際の客室写真・広さ・定員とあわせてご紹介します。",
-    "zh-Hant": "精選物業與房型，附實際客房照片、面積與可住人數。",
+    "zh-Hant": "精選住宿與房型，附實際客房照片、面積與可住人數。",
     "ms": "Hartanah dan jenis bilik pilihan, dengan gambar bilik sebenar, keluasan dan kapasiti tetamu.",
     "th": "ที่พักและประเภทห้องแนะนำ พร้อมภาพห้องจริง ขนาดห้อง และจำนวนผู้เข้าพัก",
     "id": "Properti dan tipe kamar pilihan, lengkap dengan foto kamar asli, luas, dan kapasitas tamu.",
@@ -1324,7 +1324,7 @@
   },
   "Featured here: 11 of our 60+ properties": {
     "ja": "ここで紹介しているのは、60以上ある施設のうち11施設です",
-    "zh-Hant": "這裡僅展示 60 多處物業中的 11 處",
+    "zh-Hant": "這裡僅展示 60 多館中的 11 館",
     "ms": "Dipaparkan di sini: 11 daripada lebih 60 hartanah kami",
     "th": "แสดงที่นี่เพียง 11 จากที่พักกว่า 60 แห่งของเรา",
     "id": "Ditampilkan di sini: 11 dari 60+ properti kami",
@@ -1333,7 +1333,7 @@
   },
   "Ask for more options": {
     "ja": "ほかの施設を問い合わせる",
-    "zh-Hant": "詢問更多物業",
+    "zh-Hant": "詢問更多選擇",
     "ms": "Tanya pilihan lain",
     "th": "สอบถามตัวเลือกเพิ่มเติม",
     "id": "Tanyakan pilihan lain",
@@ -1378,7 +1378,7 @@
   },
   "Number of properties in each city. Larger suites are also available. Ask us for options.": {
     "ja": "各都市の施設数です。広めのスイートもございます。お気軽にお問い合わせください。",
-    "zh-Hant": "數字為各城市的物業數，另有大坪數套房，歡迎洽詢。",
+    "zh-Hant": "數字為各城市的館數，另有大坪數套房，歡迎洽詢。",
     "ms": "Bilangan hartanah di setiap bandar. Suite yang lebih besar juga tersedia. Tanya kami untuk pilihan.",
     "th": "ตัวเลขคือจำนวนที่พักในแต่ละเมือง มีห้องสวีทขนาดใหญ่ด้วย สอบถามได้เลย",
     "id": "Jumlah properti di setiap kota. Suite yang lebih luas juga tersedia. Tanyakan pilihan kepada kami.",
@@ -1387,7 +1387,7 @@
   },
   "More properties in this area": {
     "ja": "このエリアには、ほかにも施設があります",
-    "zh-Hant": "此區還有更多物業",
+    "zh-Hant": "此區還有更多住宿",
     "ms": "Lebih banyak hartanah di kawasan ini",
     "th": "ยังมีที่พักอื่นในย่านนี้อีก",
     "id": "Masih ada properti lain di area ini",
@@ -1396,7 +1396,7 @@
   },
   "Also available, not featured above. Ask us for options.": {
     "ja": "上記で紹介していないエリアにも施設があります。お気軽にお問い合わせください。",
-    "zh-Hant": "以上未列出的區域也有物業，歡迎洽詢。",
+    "zh-Hant": "以上未列出的區域也有住宿，歡迎洽詢。",
     "ms": "Turut tersedia, tidak dipaparkan di atas. Tanya kami untuk pilihan.",
     "th": "มีที่พักในย่านเหล่านี้ด้วย ซึ่งไม่ได้แสดงด้านบน สอบถามได้เลย",
     "id": "Juga tersedia, tidak ditampilkan di atas. Tanyakan pilihan kepada kami.",
@@ -1414,7 +1414,7 @@
   },
   "Apartment Hotel 11 buildings in Osaka": {
     "ja": "大阪のApartment Hotel 11の建物",
-    "zh-Hant": "住一 Apartment Hotel 11 大阪物業外觀",
+    "zh-Hant": "住一 Apartment Hotel 11 大阪各館外觀",
     "ms": "Bangunan Apartment Hotel 11 di Osaka",
     "th": "อาคาร Apartment Hotel 11 ในโอซาก้า",
     "id": "Gedung Apartment Hotel 11 di Osaka",
