@@ -1079,15 +1079,6 @@
     "fil": "Para sa quotation, ibigay ang petsa ng stay, bilang ng bisita at bilang ng kuwarto.",
     "ko": "견적 문의 시 숙박 일정, 인원, 객실 수를 알려 주세요."
   },
-  "During business hours, we usually reply within 2 hours.": {
-    "ja": "営業時間内は、通常2時間以内にご返信します。",
-    "zh-Hant": "工作時間內，通常 2 小時內回覆。",
-    "ms": "Pada waktu pejabat, kami biasanya membalas dalam masa 2 jam.",
-    "th": "ในเวลาทำการ เรามักตอบกลับภายใน 2 ชั่วโมง",
-    "id": "Pada jam kerja, kami biasanya membalas dalam 2 jam.",
-    "fil": "Sa oras ng trabaho, karaniwan kaming sumasagot sa loob ng 2 oras.",
-    "ko": "업무 시간에는 보통 2시간 이내에 답변드립니다."
-  },
   "Back to top": {
     "ja": "ページの先頭へ",
     "zh-Hant": "回到頁首",
@@ -1123,15 +1114,6 @@
     "id": "Tarif mitra atas permintaan",
     "fil": "Partner rates kapag hiniling",
     "ko": "제휴 요금 문의"
-  },
-  "We can assist in Japanese, Chinese, English and Korean.": {
-    "ja": "日本語・中国語・英語・韓国語で対応いたします。",
-    "zh-Hant": "可使用日文、中文、英文、韓文聯絡。",
-    "ms": "Kami boleh dihubungi dalam bahasa Jepun, Cina, Inggeris dan Korea.",
-    "th": "ติดต่อได้ทั้งภาษาญี่ปุ่น จีน อังกฤษ และเกาหลี",
-    "id": "Kami melayani dalam bahasa Jepang, Mandarin, Inggris, dan Korea.",
-    "fil": "Maaari kaming kausapin sa Japanese, Chinese, English at Korean.",
-    "ko": "일본어, 중국어, 영어, 한국어로 상담 가능합니다."
   },
   "04 / TOKYO": {
     "ja": "04 / 東京",
@@ -1312,5 +1294,14 @@
     "ms": "Tunjukkan pemandangan bandar Osaka",
     "id": "Tampilkan pemandangan kota Osaka",
     "fil": "Ipakita ang tanawin ng Osaka"
+  },
+  "During business hours we usually reply within 2 hours, in Japanese, Chinese, English or Korean.": {
+    "ja": "営業時間内は通常2時間以内にご返信します（日本語・中国語・英語・韓国語に対応）。",
+    "zh-Hant": "工作時間內通常 2 小時內回覆，可使用日文、中文、英文、韓文。",
+    "ms": "Pada waktu pejabat, kami biasanya membalas dalam masa 2 jam, dalam bahasa Jepun, Cina, Inggeris atau Korea.",
+    "th": "ในเวลาทำการ เรามักตอบกลับภายใน 2 ชั่วโมง ติดต่อได้ทั้งภาษาญี่ปุ่น จีน อังกฤษ และเกาหลี",
+    "id": "Pada jam kerja, kami biasanya membalas dalam 2 jam, dalam bahasa Jepang, Mandarin, Inggris, atau Korea.",
+    "fil": "Sa oras ng trabaho, karaniwan kaming sumasagot sa loob ng 2 oras, sa Japanese, Chinese, English o Korean.",
+    "ko": "업무 시간에는 보통 2시간 이내에 답변드리며, 일본어·중국어·영어·한국어로 상담 가능합니다."
   }
 }

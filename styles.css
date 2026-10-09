@@ -1314,7 +1314,7 @@ html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th]
 .cp-list div{grid-template-columns:96px minmax(0,1fr)}.cp-list dd{font-size:15px}.cp-more footer{margin-top:40px}}
 @media(max-width:374px){.cp-tabs .ch{display:none}}
 /* Homepage as a hub (October 9, 2026): hero, agency entry with the portfolio figures, properties, about Apartment Hotel 11,
-   services (small thumbnails), contact. */
+   services (thumbnails 168x126, 140x105 on tablets, 104x78 on phones), contact. */
 .hero-direct{border-bottom:1px solid #ffffff80;padding-bottom:2px;letter-spacing:.3px;color:#f2f0e9}.hero-direct:after{content:" ↗"}.hero-direct:hover,.hero-direct:focus-visible{color:#fff;border-color:#fff}
 .agency-head{display:flex;justify-content:space-between;align-items:flex-end;gap:32px 60px}.agency-head>div:first-child{min-width:0;max-width:680px}
 .agency-stats{display:grid;grid-template-columns:repeat(3,auto);flex-shrink:0}.agency-stats div{display:flex;flex-direction:column;padding:0 34px;border-left:1px solid var(--line)}.agency-stats div:first-child{padding-left:0;border-left:0}.agency-stats div:last-child{padding-right:0}
@@ -1324,14 +1324,14 @@ html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th]
 .city-strip+.gallery-heading{margin-top:56px}
 .gallery-link{font-size:15px;font-weight:600;white-space:nowrap}.gallery-link:after{content:" →";color:var(--gold)}.gallery-link:hover{color:var(--gold)}
 .property-grid figure>a{display:block}.property-grid figure>a:hover h4{color:var(--gold)}
-.services .extras-four{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 48px;margin-top:48px}.services .extras-four article{display:grid;grid-template-columns:112px minmax(0,1fr);gap:20px;align-items:start;min-width:0}.services .extras-four img{width:112px;height:84px;aspect-ratio:auto;object-fit:cover;margin:0}.services .extras-four h4{font-size:19px;line-height:1.35;margin:6px 0 8px}.services .extras-four p{font-size:15px}
+.services .extras-four{grid-template-columns:repeat(2,minmax(0,1fr));gap:24px 48px;margin-top:48px}.services .extras-four article{display:grid;grid-template-columns:168px minmax(0,1fr);gap:22px;align-items:start;min-width:0}.services .extras-four img{width:168px;height:126px;aspect-ratio:auto;object-fit:cover;margin:0}.services .extras-four h4{font-size:19px;line-height:1.35;margin:6px 0 8px}.services .extras-four p{font-size:15px}
 .about-operator{font-size:15px}.services .extras-grid .dining-genres{display:flex;flex-wrap:wrap;gap:4px 12px;margin-top:14px;font-size:12px;letter-spacing:1px;line-height:1.6;color:#dbc396}
 .contact-qr-grid .ch{display:none}
-@media(max-width:1100px){.agency-head{display:block}.agency-stats{margin-top:28px}.city-strip .op-chips{grid-template-columns:repeat(3,minmax(0,1fr))}.services .extras-four{gap:24px 28px}}
+@media(max-width:1100px){.agency-head{display:block}.agency-stats{margin-top:28px}.city-strip .op-chips{grid-template-columns:repeat(3,minmax(0,1fr))}.services .extras-four{gap:24px 28px}.services .extras-four article{grid-template-columns:140px minmax(0,1fr);gap:18px}.services .extras-four img{width:140px;height:105px}}
 @media(max-width:760px){.agency-stats{grid-template-columns:.85fr 1.3fr .85fr;margin-top:24px;padding:16px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}.agency-stats div{min-width:0;padding:0 10px}.agency-stats strong{font-size:clamp(26px,7.5vw,40px)}
 .city-strip{margin-top:32px}.city-strip .op-chips{gap:8px}.city-strip .op-chip{flex-direction:column;align-items:flex-start;gap:2px;padding:10px 12px}.city-strip .op-chip span{font-size:14px}.city-strip .op-chip strong{margin-left:0;font-size:24px}.city-strip+.gallery-heading{margin-top:36px}
 .gallery-link{display:inline-block;margin-top:10px;white-space:normal}
-.services .extras-four{display:grid;grid-template-columns:minmax(0,1fr);gap:0;margin-top:28px;overflow:visible;padding-bottom:0}.services .extras-four article{display:grid;grid-template-columns:72px minmax(0,1fr);gap:14px;align-items:center;flex:none;margin:0;padding:12px 0}.services .extras-four img{width:72px;height:72px;margin:0}.services .extras-four h4{font-size:16px;line-height:1.4;margin:2px 0 0}.services .extras-four p,.services .extras-grid .dining-genres{display:none}
+.services .extras-four{display:grid;grid-template-columns:minmax(0,1fr);gap:0;margin-top:28px;overflow:visible;padding-bottom:0}.services .extras-four article{display:grid;grid-template-columns:104px minmax(0,1fr);gap:14px;align-items:center;flex:none;margin:0;padding:12px 0}.services .extras-four img{width:104px;height:78px;margin:0}.services .extras-four h4{font-size:16px;line-height:1.4;margin:2px 0 0}.services .extras-four p,.services .extras-grid .dining-genres{display:none}
 /* Phones: the homepage contact panel shows chat buttons; the QR codes stay on the contact page. */
 .home-contact .contact-qr-title span{display:none}.home-contact .contact-qr-grid{grid-template-columns:minmax(0,1fr);gap:8px}.home-contact .contact-qr-grid img{display:none}
 .home-contact .contact-qr-grid>a{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;column-gap:12px;min-height:48px;padding:8px 14px;border:1px solid #ffffff45}.home-contact .contact-qr-grid>a:nth-child(3){order:1}
@@ -1389,3 +1389,5 @@ html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th]
 .op-facilities .op-footnote{margin-top:10px}
 @media(max-width:1100px){.op-facility-list{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:760px){.op-facilities{margin-top:40px}.op-facility-list{gap:14px 8px}.op-facility-list figcaption{margin-top:6px;font-size:13px;line-height:1.4;overflow-wrap:anywhere}}
+/* Contact panel: one line under the heading, reply time and the languages staff use. */
+.contact-reply{margin-top:14px;font-size:15px;line-height:1.6;color:#e8dcc6}
