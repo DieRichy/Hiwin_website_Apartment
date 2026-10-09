@@ -71,24 +71,6 @@
     "fil": "Makipagtulungan",
     "ko": "제휴 문의"
   },
-  "Your guests.": {
-    "ja": "日本の旅を、",
-    "zh-Hant": "您規劃旅程，",
-    "ms": "Anda merancang.",
-    "th": "คุณวางแผนการเดินทาง",
-    "id": "Anda merancang perjalanan.",
-    "fil": "Kayo ang magplano.",
-    "ko": "일본 여행을,"
-  },
-  "Our Japan.": {
-    "ja": "ともにつくる。",
-    "zh-Hant": "我們用心接待。",
-    "ms": "Kami menyambut.",
-    "th": "เราพร้อมต้อนรับ",
-    "id": "Kami siap menyambut.",
-    "fil": "Kami ang bahala.",
-    "ko": "함께 만듭니다."
-  },
   "Apartment hotels, dining and local experiences.": {
     "ja": "宿泊、食事、街を楽しむ体験。",
     "zh-Hant": "公寓式飯店、餐飲與在地體驗。",
@@ -100,7 +82,7 @@
   },
   "A connected stay for the journeys you create.": {
     "ja": "旅程に合わせて、宿泊と地域サービスをご提案します。",
-    "zh-Hant": "為您規劃的旅程，整合住宿與在地服務。",
+    "zh-Hant": "配合您規劃的行程，整合住宿與在地服務。",
     "ms": "Penginapan dan perkhidmatan tempatan untuk perjalanan yang anda atur.",
     "th": "เชื่อมต่อทุกช่วงของการเดินทางที่คุณออกแบบ",
     "id": "Layanan yang terhubung untuk perjalanan yang Anda rancang.",
@@ -164,7 +146,7 @@
   "Properties": {
     "ja": "施設",
     "zh-Hant": "住宿據點",
-    "ms": "Lokasi penginapan",
+    "ms": "Penginapan",
     "th": "ที่พัก",
     "id": "Properti",
     "fil": "Mga property",
@@ -178,15 +160,6 @@
     "id": "Kamar",
     "fil": "Mga kuwarto",
     "ko": "객실"
-  },
-  "City destinations": {
-    "ja": "エリア",
-    "zh-Hant": "目的地",
-    "ms": "Destinasi",
-    "th": "จุดหมายปลายทาง",
-    "id": "Destinasi",
-    "fil": "Mga destinasyon",
-    "ko": "지역"
   },
   "PORTFOLIO FIGURES · JULY 2026": {
     "ja": "施設データ · 2026年7月時点",
@@ -1303,5 +1276,32 @@
     "id": "Pada jam kerja, kami biasanya membalas dalam 2 jam, dalam bahasa Jepang, Mandarin, Inggris, atau Korea.",
     "fil": "Sa oras ng trabaho, karaniwan kaming sumasagot sa loob ng 2 oras, sa Japanese, Chinese, English o Korean.",
     "ko": "업무 시간에는 보통 2시간 이내에 답변드리며, 일본어·중국어·영어·한국어로 상담 가능합니다."
+  },
+  "Cities": {
+    "ja": "都市",
+    "zh-Hant": "城市",
+    "ms": "Bandar",
+    "th": "เมือง",
+    "id": "Kota",
+    "fil": "Lungsod",
+    "ko": "도시"
+  },
+  "Your trips.": {
+    "ja": "企画は御社に、",
+    "zh-Hant": "您規劃旅程，",
+    "ko": "여행 기획은 귀사가,",
+    "th": "คุณวางแผนการเดินทาง",
+    "ms": "Anda rancang perjalanan.",
+    "id": "Anda rancang perjalanannya.",
+    "fil": "Kayo ang magplano."
+  },
+  "Our stays.": {
+    "ja": "滞在は私たちに。",
+    "zh-Hant": "住宿交給我們。",
+    "ko": "숙박은 저희가 맡습니다.",
+    "th": "เรื่องที่พักให้เราดูแล",
+    "ms": "Kami uruskan penginapan.",
+    "id": "Kami urus penginapannya.",
+    "fil": "Kami ang bahala."
   }
 }

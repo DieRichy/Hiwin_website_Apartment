@@ -121,3 +121,11 @@ Source: `/Users/frankdzzz/Documents/HIWIN/` (饮食部, 车队, 房间细节). E
 - Phone hero slideshow: Osaka city view at dusk (`mobile-city.jpg`, the first frame of `hiwin-hero.m4v`, 960×540), then the Shinsaibashi 9 exterior and the 鉄板焼 煌 dish; no guest-room interiors. The desktop hero is unchanged.
 - Osaka page "In-room facilities": three across on tablets and phones so all five photos show without swiping.
 - Beyond accommodation thumbnails are 168×126 (140×105 on tablets, 104×78 on phones). The relax and nightlife photos (`service-spa.jpg`, `service-nightlife.jpg`; new file names so browsers do not show cached old images) are recropped from the brochure page image (`HIWIN_Brochure_TW_Taiwan_Optimized.pptx`, ppt/media/image4.png) at about twice the old resolution, without the brochure text.
+
+## Readability · October 10, 2026
+
+- Text sizes from 11px to 17px were raised by 1px across `styles.css` (headings 18px and up unchanged).
+- Small gold text (eyebrows, "Featured room type", room-type counts, ※ marks, arrows) uses `--gold-text: #86642a` (5.4:1 on white, 4.9:1 on cream). The brand gold `#a47c38` (3.8:1) stays for lines, borders and large numbers.
+- Hero key facts keep the original layout (small square before each, no background box), all in white bold text with a soft shadow: 17px on computers, 15px on phones.
+- Stats labels are short so they fit narrow phones: "Cities" (was "City destinations"); Malay "Properties" is "Penginapan".
+- Hero heading is localized per market rather than translated word for word: EN "Your trips. Our stays.", zh-Hant 您規劃旅程，住宿交給我們。, ja 企画は御社に、滞在は私たちに。, ko 여행 기획은 귀사가, 숙박은 저희가 맡습니다., th "…เรื่องที่พักให้เราดูแล", ms/id "you plan the trip, we handle the stay", fil "Kayo ang magplano. Kami ang bahala." (kept). The zh-Hant subtitle reads 配合您規劃的行程… so it does not read as "the trip we plan for you".
