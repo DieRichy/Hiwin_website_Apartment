@@ -1291,22 +1291,21 @@ html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th]
 .contact-qr-grid>*>span{margin-top:10px;font-size:14px;font-weight:600;line-height:1.4;color:#fff}.contact-qr-grid small span{white-space:nowrap}.contact-qr-grid small{font-size:12px;line-height:1.5;color:#c1ac8b}
 .contact-qr-grid a:hover span{text-decoration:underline;text-underline-offset:4px}
 @media(max-width:760px){.contact-qr-title span{display:block;margin-top:2px}.contact-qr-title span:before{display:none}.contact-qr-grid{gap:18px 12px}.contact-qr-grid>*>span{margin-top:8px}}
-/* Contact page (pages/contact.html): QR cards grouped by app. Wide screens show the three groups side by side;
+/* Contact page (pages/contact.html): one QR card per app (+81 70-3205-9967 for WhatsApp and LINE, plus WeChat). Wide screens show the three groups side by side;
    phones show one group at a time under WhatsApp / LINE / WeChat tabs (page.js adds .cp-tabbed). */
 .cp-hero{background:var(--cream);padding:76px 0 64px}.cp-hero h1{font-size:clamp(40px,4.4vw,66px);line-height:1.06;letter-spacing:-.04em;margin:22px 0}.cp-summary{max-width:640px;color:var(--muted);font-size:17px;line-height:1.7}
 .cp-section{padding-top:72px}.cp-more footer{margin-top:56px}
 .cp-head{margin-bottom:28px}.cp-section .cp-head h2{margin:0;font-size:32px;line-height:1.25;letter-spacing:-1px}
-.cp-groups{display:grid;grid-template-columns:2fr 2fr 1fr;gap:32px 36px}.cp-tabs{display:none}
+.cp-groups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:32px 36px}.cp-tabs{display:none}
 .cp-group-title{display:flex;align-items:center;gap:12px;margin-bottom:16px;padding-bottom:14px;border-bottom:1px solid var(--line);font-size:20px;font-weight:600;line-height:1.3}
-.cp-tiles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.cp-group-wechat .cp-tiles{grid-template-columns:minmax(0,1fr)}
+.cp-tiles{display:grid;grid-template-columns:minmax(0,1fr);gap:16px}
 .cp-card{display:flex;flex-direction:column;align-items:flex-start;padding:20px 20px 22px;border:1px solid var(--line);border-top:2px solid var(--gold);background:#fff;transition:border-color .2s}a.cp-card:hover{border-color:var(--gold)}
 .cp-card img{align-self:center;width:100%;max-width:180px;height:auto;aspect-ratio:1}
 .cp-number{margin-top:16px;font-size:16px;font-variant-numeric:tabular-nums}.cp-card:not(a) .cp-number{color:var(--muted);font-size:15px}
 .cp-action{margin-top:8px;font-size:15px;font-weight:600;border-bottom:1px solid var(--gold);padding-bottom:3px}.cp-action:after{content:" →";color:var(--gold)}
 .cp-list dd{display:flex;flex-direction:column;align-items:flex-start;gap:4px}.cp-list dd a{color:var(--ink);border-bottom:1px solid var(--line)}.cp-list dd a:hover{border-color:var(--gold)}.cp-list dd a span{display:block}
-@media(max-width:1100px){.cp-groups{grid-template-columns:repeat(2,minmax(0,1fr))}.cp-group-wechat{grid-column:1/-1}.cp-group-wechat .cp-tiles{grid-template-columns:repeat(4,minmax(0,1fr))}}
 @media(max-width:760px){.cp-hero{padding:44px 0 40px}.cp-hero h1{font-size:38px;margin:18px 0}.cp-summary{font-size:16px}.cp-section{padding-top:48px}.cp-head{margin-bottom:20px}.cp-section .cp-head h2{font-size:26px}
-.cp-groups{grid-template-columns:1fr;gap:28px}.cp-group-wechat .cp-tiles{grid-template-columns:repeat(2,minmax(0,1fr))}.cp-tiles{gap:12px}
+.cp-groups{grid-template-columns:1fr;gap:28px}.cp-tiles{gap:12px}
 .cp-card{padding:14px 14px 16px}.cp-number{margin-top:12px;font-size:14px}.cp-card:not(a) .cp-number{font-size:14px}.cp-action{font-size:14px;margin-top:6px}
 .cp-tabbed{gap:0}.cp-tabbed .cp-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));margin-bottom:16px;border:1px solid var(--ink)}
 .cp-tabs button{display:flex;align-items:center;justify-content:center;gap:6px;min-width:0;min-height:48px;padding:8px 4px;border:0;background:#fff;color:var(--ink);font-size:14px;font-weight:600;cursor:pointer}.cp-tabs button+button{border-left:1px solid var(--ink)}.cp-tabs button[aria-selected=true]{background:var(--ink);color:#fff}.cp-tabs .ch{font-size:16px;flex-shrink:0}.cp-tabs button:focus-visible{outline-offset:-5px}
