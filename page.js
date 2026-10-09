@@ -77,3 +77,28 @@ if (strip) {
   };
   requestAnimationFrame(tick);
 }
+// Contact page on phones: WhatsApp / LINE / WeChat tabs show one group of QR cards at a time (CSS shows all
+// groups on wider screens). LINE opens first for Japanese, Traditional Chinese and Thai, where it is the main chat app.
+const chatGroups = document.querySelector('.cp-groups');
+if (chatGroups) {
+  const tabs = [...chatGroups.querySelectorAll('[role=tab]')];
+  const select = (tab, focus) => {
+    for (const t of tabs) {
+      const on = t === tab;
+      t.setAttribute('aria-selected', String(on));
+      t.tabIndex = on ? 0 : -1;
+      document.getElementById(t.getAttribute('aria-controls')).classList.toggle('is-active', on);
+    }
+    if (focus) tab.focus();
+  };
+  tabs.forEach((tab, i) => {
+    tab.addEventListener('click', () => select(tab));
+    tab.addEventListener('keydown', e => {
+      const step = {ArrowRight: 1, ArrowLeft: -1}[e.key];
+      if (step) { e.preventDefault(); select(tabs[(i + step + tabs.length) % tabs.length], true); }
+    });
+  });
+  const preferred = ['ja', 'zh-Hant', 'th'].includes(document.documentElement.lang) ? 'cp-tab-line' : 'cp-tab-whatsapp';
+  select(document.getElementById(preferred));
+  chatGroups.classList.add('cp-tabbed');
+}

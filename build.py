@@ -12,8 +12,9 @@ for key, values in translations.items():
     for code in ('ja', 'zh-Hant', 'ms', 'th', 'id', 'fil', 'ko'):
         if not values.get(code): raise ValueError(f'Missing {code} translation: {key}')
 # Inner pages (pages/*.html): shared head, header and contact parts; strings in pages/localization.json.
+# The support part (floating one-stop support dock) goes on every page except the contact page it links to.
 pages_dir = root / 'pages'
-part = {name: (pages_dir / ('_'+name+'.html')).read_text() for name in ('head', 'header', 'contact')}
+part = {name: (pages_dir / ('_'+name+'.html')).read_text() for name in ('head', 'header', 'contact', 'support')}
 inner_pages = sorted(p.stem for p in pages_dir.glob('*.html') if not p.stem.startswith('_'))
 page_translations = json.loads((pages_dir / 'localization.json').read_text())
 for key, values in page_translations.items():
@@ -80,7 +81,7 @@ def localize(page, locale, table):
     page = re.sub(r'((?:alt|aria-label|content)=")([^"]*)"', attr, page)
     return page.replace('<html lang="en">', '<html lang="'+locale+'">').replace('<span>EN</span>', '<span>'+labels[locale]+'</span>')
 for locale in labels:
-    page = template
+    page = template.replace('</body>', part['support'].replace('{home}', '/'+routes[locale]+'/')+'</body>')
     for slug in inner_pages:
         page = page.replace('href="'+slug+'/"', 'href="/'+routes[locale]+'/'+slug+'/"')
     if locale in ('th', 'id', 'fil'):
@@ -127,7 +128,9 @@ for slug in inner_pages:
         route = routes[locale]
         path = '/'+route+'/'+slug+'/'
         head = part['head'].replace('{title}', html.escape(title, quote=False), 1).replace('{title}', html.escape(title)).replace('{description}', html.escape(description))
-        page = head+'<body class="inner-page">\n'+part['header']+'  <main id="main">\n'+body+part['contact']+'  </main>\n</body>\n</html>\n'
+        # The contact page lists every channel itself, so it skips the contact panel and the dock.
+        extras = ('', '') if slug == 'contact' else (part['contact'], part['support'])
+        page = head+'<body class="inner-page">\n'+part['header']+'  <main id="main">\n'+body+extras[0]+'  </main>\n'+extras[1]+'</body>\n</html>\n'
         page = page.replace('{home}', '/'+route+'/')
         menu = ''.join('<a href="/'+routes[code]+'/'+slug+'/" lang="'+code+'" hreflang="'+code+'">'+names[code]+'</a>' for code in labels)
         page = page.replace('<!--languages-->', menu)
@@ -156,7 +159,7 @@ for slug in inner_pages:
         target = output / route / slug
         target.mkdir(parents=True, exist_ok=True)
         (target / 'index.html').write_text(page)
-for name in ('styles.css', 'script.js', 'page.js', 'analytics.js'):
+for name in ('styles.css', 'script.js', 'page.js', 'analytics.js', 'support.js'):
     shutil.copy2(root / name, output / name)
 shutil.copytree(root / 'assets', output / 'assets', dirs_exist_ok=True)
 # The root permanently redirects to /en/. A copy of the English page at / made Google pick / as the
@@ -172,10 +175,10 @@ namespace = 'http://www.sitemaps.org/schemas/sitemap/0.9'
 # Cache busting: Cloudflare lets browsers keep CSS/JS for 4 hours, so a new page could load with an old
 # stylesheet. Tag every CSS/JS reference with a hash of the file content; a changed file gets a new URL.
 import hashlib
-versions = {name: hashlib.sha1((root / name).read_bytes()).hexdigest()[:10] for name in ('styles.css', 'script.js', 'page.js', 'analytics.js')}
+versions = {name: hashlib.sha1((root / name).read_bytes()).hexdigest()[:10] for name in ('styles.css', 'script.js', 'page.js', 'analytics.js', 'support.js')}
 for page_path in output.rglob('*.html'):
     text = page_path.read_text()
-    text = re.sub(r'((?:href|src)="[^"]*?(styles\.css|script\.js|page\.js|analytics\.js))"', lambda m: m.group(1)+'?v='+versions[m.group(2)]+'"', text)
+    text = re.sub(r'((?:href|src)="[^"]*?(styles\.css|script\.js|page\.js|analytics\.js|support\.js))"', lambda m: m.group(1)+'?v='+versions[m.group(2)]+'"', text)
     page_path.write_text(text)
 ET.register_namespace('', namespace)
 sitemap = ET.Element('{'+namespace+'}urlset')

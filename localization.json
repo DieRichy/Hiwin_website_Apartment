@@ -1061,15 +1061,6 @@
     "fil": "Mga property at kuwarto ayon sa destinasyon",
     "ko": "지역별 숙박시설 및 객실 수"
   },
-  "Contact HIWIN on LINE": {
-    "ja": "LINEでHIWINに連絡",
-    "zh-Hant": "透過 LINE 聯繫 HIWIN",
-    "ms": "Hubungi HIWIN melalui LINE",
-    "th": "ติดต่อ HIWIN ผ่าน LINE",
-    "id": "Hubungi HIWIN melalui LINE",
-    "fil": "Makipag-ugnayan sa HIWIN sa LINE",
-    "ko": "LINE으로 HIWIN에 문의"
-  },
   "Light-filled Apartment Hotel 11 interior with a kitchen and dining area": {
     "ja": "キッチンとダイニングを備えたApartment Hotel 11の明るい客室",
     "zh-Hant": "Apartment Hotel 11 明亮客房，設有廚房與用餐空間",
@@ -1681,5 +1672,86 @@
     "id": "Bermitra dengan Apartment Hotel 11 oleh HIWIN: lebih dari 60 hotel apartemen dan 3.000 kamar di Osaka, Kyoto, Tokyo, dan tiga kota lain di Jepang, untuk perjalanan individu maupun rombongan.",
     "fil": "Makipag-partner sa Apartment Hotel 11 ng HIWIN: mahigit 60 apartment hotel at 3,000 kuwarto sa Osaka, Kyoto, Tokyo at tatlo pang lungsod sa Japan, para sa individual at group travel.",
     "ko": "HIWIN이 운영하는 Apartment Hotel 11과 함께하세요. 오사카·교토·도쿄 등 일본 6개 도시의 60개 이상 시설, 3,000개 이상 객실로 개별 여행과 단체 여행 숙박을 제안합니다."
+  },
+  "ONE-STOP SUPPORT": {
+    "ja": "ワンストップサポート",
+    "zh-Hant": "一站式服務窗口",
+    "ms": "SOKONGAN SEHENTI",
+    "th": "ติดต่อได้ในที่เดียว",
+    "id": "LAYANAN SATU PINTU",
+    "fil": "ONE-STOP NA SUPORTA",
+    "ko": "원스톱 상담"
+  },
+  "One-stop support": {
+    "ja": "ワンストップサポート",
+    "zh-Hant": "一站式服務窗口",
+    "ms": "Sokongan sehenti",
+    "th": "ติดต่อได้ในที่เดียว",
+    "id": "Layanan satu pintu",
+    "fil": "One-stop na suporta",
+    "ko": "원스톱 상담"
+  },
+  "Show one-stop support": {
+    "ja": "ワンストップサポートを表示",
+    "zh-Hant": "展開一站式服務窗口",
+    "ms": "Tunjukkan sokongan sehenti",
+    "th": "แสดงช่องทางติดต่อ",
+    "id": "Tampilkan layanan satu pintu",
+    "fil": "Ipakita ang one-stop na suporta",
+    "ko": "원스톱 상담 펼치기"
+  },
+  "Hide one-stop support": {
+    "ja": "ワンストップサポートを最小化",
+    "zh-Hant": "收起一站式服務窗口",
+    "ms": "Sembunyikan sokongan sehenti",
+    "th": "ซ่อนช่องทางติดต่อ",
+    "id": "Sembunyikan layanan satu pintu",
+    "fil": "Itago ang one-stop na suporta",
+    "ko": "원스톱 상담 접기"
+  },
+  "Scan to chat": {
+    "ja": "QRコードで連絡",
+    "zh-Hant": "掃描 QR Code 聯絡",
+    "ms": "Imbas untuk berbual",
+    "th": "สแกนคิวอาร์โค้ดเพื่อติดต่อ",
+    "id": "Pindai untuk chat",
+    "fil": "I-scan para mag-chat",
+    "ko": "QR 코드로 채팅"
+  },
+  "WeChat": {
+    "ja": "WeChat",
+    "zh-Hant": "微信",
+    "ms": "WeChat",
+    "th": "WeChat",
+    "id": "WeChat",
+    "fil": "WeChat",
+    "ko": "WeChat"
+  },
+  "WeChat QR code": {
+    "ja": "WeChat QRコード",
+    "zh-Hant": "微信 QR Code",
+    "ms": "Kod QR WeChat",
+    "th": "คิวอาร์โค้ด WeChat",
+    "id": "Kode QR WeChat",
+    "fil": "QR code ng WeChat",
+    "ko": "WeChat QR 코드"
+  },
+  "Scan in WeChat": {
+    "ja": "WeChatでスキャン",
+    "zh-Hant": "用微信掃一掃",
+    "ms": "Imbas dalam WeChat",
+    "th": "สแกนใน WeChat",
+    "id": "Pindai di WeChat",
+    "fil": "I-scan sa WeChat",
+    "ko": "WeChat으로 스캔"
+  },
+  "Messaging apps": {
+    "ja": "メッセージアプリ",
+    "zh-Hant": "通訊軟體",
+    "ms": "Aplikasi pemesejan",
+    "th": "แอปแชท",
+    "id": "Aplikasi pesan instan",
+    "fil": "Messaging apps",
+    "ko": "메신저"
   }
 }

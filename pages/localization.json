@@ -1582,5 +1582,77 @@
     "id": "Kami menerima pertanyaan terkait pemesanan rombongan, kemitraan jangka panjang, maupun informasi umum mengenai properti kami.",
     "fil": "Malugod naming tinatanggap ang mga katanungan tungkol sa group booking, pangmatagalang partnership, o pangkalahatang impormasyon tungkol sa aming mga property.",
     "ko": "단체 예약, 장기 제휴 상담, 당사 숙소에 관한 일반 문의 등 언제든지 연락 주시기 바랍니다."
+  },
+  "Contact the Travel Agency Team | Apartment Hotel 11": {
+    "ja": "旅行会社さま向けお問い合わせ窓口｜Apartment Hotel 11",
+    "zh-Hant": "旅行社合作聯絡窗口｜住一 Apartment Hotel 11",
+    "ms": "Hubungi Pasukan Agensi Pelancongan | Apartment Hotel 11",
+    "th": "ติดต่อทีมดูแลบริษัทนำเที่ยว | Apartment Hotel 11",
+    "id": "Hubungi Tim Agen Perjalanan | Apartment Hotel 11",
+    "fil": "Makipag-ugnayan sa Travel Agency Team | Apartment Hotel 11",
+    "ko": "여행사 전용 문의 창구 | Apartment Hotel 11"
+  },
+  "Contact HIWIN's travel agency team for Apartment Hotel 11 in Japan on WhatsApp, LINE, WeChat, email or phone. Scan a QR code or tap to start a chat.": {
+    "ja": "Apartment Hotel 11（HIWIN）の旅行会社さま向け窓口へ、WhatsApp・LINE・WeChat・メール・電話でお問い合わせいただけます。QRコードを読み取るか、タップしてチャットを始められます。",
+    "zh-Hant": "透過 WhatsApp、LINE、微信、電子郵件或電話，聯絡 HIWIN 住一 Apartment Hotel 11 的旅行社合作窗口。掃描 QR Code 或點一下即可開始聊天。",
+    "ms": "Hubungi pasukan agensi pelancongan HIWIN untuk Apartment Hotel 11 di Jepun melalui WhatsApp, LINE, WeChat, e-mel atau telefon. Imbas kod QR atau ketik untuk mula berbual.",
+    "th": "ติดต่อทีมดูแลบริษัทนำเที่ยวของ HIWIN สำหรับ Apartment Hotel 11 ในญี่ปุ่น ผ่าน WhatsApp, LINE, WeChat, อีเมล หรือโทรศัพท์ สแกนคิวอาร์โค้ดหรือแตะเพื่อเริ่มแชท",
+    "id": "Hubungi tim agen perjalanan HIWIN untuk Apartment Hotel 11 di Jepang melalui WhatsApp, LINE, WeChat, email, atau telepon. Pindai kode QR atau ketuk untuk mulai chat.",
+    "fil": "Makipag-ugnayan sa travel agency team ng HIWIN para sa Apartment Hotel 11 sa Japan sa WhatsApp, LINE, WeChat, email o telepono. I-scan ang QR code o i-tap para magsimulang mag-chat.",
+    "ko": "WhatsApp, LINE, WeChat, 이메일 또는 전화로 일본 Apartment Hotel 11을 운영하는 HIWIN의 여행사 담당팀에 문의하세요. QR 코드를 스캔하거나 탭하면 바로 채팅을 시작할 수 있습니다."
+  },
+  "Choose the app you already use. On a phone, tap to start a chat. On a computer, scan a QR code with your phone.": {
+    "ja": "普段お使いのアプリをお選びください。スマートフォンではタップするとチャットが始まります。パソコンでは、スマートフォンでQRコードを読み取ってください。",
+    "zh-Hant": "選擇您慣用的通訊軟體即可。在手機上點一下就能開始聊天；在電腦上，請用手機掃描 QR Code。",
+    "ms": "Pilih aplikasi yang biasa anda gunakan. Di telefon, ketik untuk mula berbual. Di komputer, imbas kod QR dengan telefon anda.",
+    "th": "เลือกแอปที่คุณใช้อยู่แล้ว บนมือถือ แตะเพื่อเริ่มแชทได้ทันที บนคอมพิวเตอร์ ใช้มือถือสแกนคิวอาร์โค้ด",
+    "id": "Pilih aplikasi yang biasa Anda gunakan. Di ponsel, ketuk untuk mulai chat. Di komputer, pindai kode QR dengan ponsel Anda.",
+    "fil": "Piliin ang app na gamit mo na. Sa phone, i-tap para magsimulang mag-chat. Sa computer, i-scan ang QR code gamit ang iyong phone.",
+    "ko": "평소 사용하는 앱을 선택하세요. 휴대폰에서는 탭하면 바로 채팅이 시작되고, 컴퓨터에서는 휴대폰으로 QR 코드를 스캔하면 됩니다."
+  },
+  "Scan or tap to chat": {
+    "ja": "QRコードまたはタップでチャット",
+    "zh-Hant": "掃描或點一下即可聊天",
+    "ms": "Imbas atau ketik untuk berbual",
+    "th": "สแกนหรือแตะเพื่อแชท",
+    "id": "Pindai atau ketuk untuk chat",
+    "fil": "I-scan o i-tap para mag-chat",
+    "ko": "스캔 또는 탭으로 채팅"
+  },
+  "Open WhatsApp": {
+    "ja": "WhatsAppを開く",
+    "zh-Hant": "開啟 WhatsApp",
+    "ms": "Buka WhatsApp",
+    "th": "เปิด WhatsApp",
+    "id": "Buka WhatsApp",
+    "fil": "Buksan ang WhatsApp",
+    "ko": "WhatsApp 열기"
+  },
+  "Add on LINE": {
+    "ja": "LINEで友だち追加",
+    "zh-Hant": "加入 LINE 好友",
+    "ms": "Tambah di LINE",
+    "th": "เพิ่มเพื่อนใน LINE",
+    "id": "Tambahkan di LINE",
+    "fil": "I-add sa LINE",
+    "ko": "LINE 친구 추가"
+  },
+  "Email, phone and office": {
+    "ja": "メール・電話・所在地",
+    "zh-Hant": "電子郵件、電話與公司地址",
+    "ms": "E-mel, telefon dan pejabat",
+    "th": "อีเมล โทรศัพท์ และที่อยู่สำนักงาน",
+    "id": "Email, telepon, dan kantor",
+    "fil": "Email, telepono at opisina",
+    "ko": "이메일, 전화, 사무실"
+  },
+  "Phone": {
+    "ja": "電話",
+    "zh-Hant": "電話",
+    "ms": "Telefon",
+    "th": "โทรศัพท์",
+    "id": "Telepon",
+    "fil": "Telepono",
+    "ko": "전화"
   }
 }
