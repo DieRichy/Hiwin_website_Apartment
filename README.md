@@ -108,3 +108,15 @@ Once the agency pages existed, the homepage still carried the whole one-page bro
 - Back-to-top button (`pages/_support.html`, `support.js`): bottom right on every page except the short contact page (on wide screens just above the dock), in the dock's ink-and-gold style. It appears after the first screen and scrolls smoothly to the top (instantly when the visitor prefers reduced motion).
 - Hero key facts (`.hero-points`): 52 properties in Osaka, rooms for 2–8 guests, breakfast delivery, partner rates on request. The header's "Partner with us" is a filled gold button on wide screens. The enquiry notes also list the languages staff can use: Japanese, Chinese, English and Korean.
 - Both header logos go to the homepage. The Apartment Hotel 11 logo is a mouse/touch shortcut (`tabindex="-1"`, `aria-hidden`), so keyboard and screen-reader users get one home link, the HIWIN logo.
+
+## Photos from the HIWIN folder · October 10, 2026
+
+Source: `/Users/frankdzzz/Documents/HIWIN/` (饮食部, 车队, 房间细节). Exported with `ImageOps.fit` to web sizes, JPEG quality 70–80, no EXIF (location data removed). Rule: each photo appears once on the site; photos that match ones already on the site are not added.
+
+- Homepage carousel (`assets/property-*.jpg`, 640×960): straight-on, grand, newer buildings only (user rules). Namba Minami 4 (night), Kobe Motomachi, Shin-Imamiya 3, Tokyo Asakusa 2, Namba Minami 5, Nagoya Sakae, Shinsekai, Dotonbori 4. Shin-Imamiya 3, Namba Minami 5 and Dotonbori 4 were taken out of the Osaka page building strip (now 15 buildings) so no photo appears twice. Angled or small buildings (Kyoto Yasaka and Gion, Shinsaibashi 3, Ebisu, Abeno, Miyakojima) are not used. Other-city photos link to `osaka-accommodation/#other-cities`.
+- Beyond accommodation thumbnails: `service-fleet.jpg` (company minivan) and `dining-crab.jpg` (448×336). The 鉄板焼 煌 photo stays only in the phone hero slideshow.
+- Contact panel photo: stays the handshake photo (`partnership.jpg`). The Shinsaibashi 9 sign, the chauffeur line-up, the Kansai Airport entrance and the restaurant counter were tried and rejected (crop or topic).
+- Osaka page "In-room facilities" row (`assets/facilities/`, 800×600): kitchen, washing machine and washbasin, bathroom, toilet, suite dining area for 8, with "Facilities vary by property".
+- Unused photos were deleted from `assets/` (they remain in git history).
+- Phone hero slideshow: Osaka city view at dusk (`mobile-city.jpg`, the first frame of `hiwin-hero.m4v`, 960×540), then the Shinsaibashi 9 exterior and the 鉄板焼 煌 dish; no guest-room interiors. The desktop hero is unchanged.
+- Osaka page "In-room facilities": three across on tablets and phones so all five photos show without swiping.

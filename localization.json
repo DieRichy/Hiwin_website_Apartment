@@ -278,15 +278,6 @@
     "fil": "01 / OSAKA",
     "ko": "01 / 오사카"
   },
-  "02 / OSAKA": {
-    "ja": "02 / 大阪",
-    "zh-Hant": "02 / 大阪",
-    "ms": "02 / OSAKA",
-    "th": "02 / โอซาก้า",
-    "id": "02 / OSAKA",
-    "fil": "02 / OSAKA",
-    "ko": "02 / 오사카"
-  },
   "03 / OSAKA": {
     "ja": "03 / 大阪",
     "zh-Hant": "03 / 大阪",
@@ -296,15 +287,6 @@
     "fil": "03 / OSAKA",
     "ko": "03 / 오사카"
   },
-  "04 / OSAKA": {
-    "ja": "04 / 大阪",
-    "zh-Hant": "04 / 大阪",
-    "ms": "04 / OSAKA",
-    "th": "04 / โอซาก้า",
-    "id": "04 / OSAKA",
-    "fil": "04 / OSAKA",
-    "ko": "04 / 오사카"
-  },
   "05 / OSAKA": {
     "ja": "05 / 大阪",
     "zh-Hant": "05 / 大阪",
@@ -313,15 +295,6 @@
     "id": "05 / OSAKA",
     "fil": "05 / OSAKA",
     "ko": "05 / 오사카"
-  },
-  "06 / TOKYO": {
-    "ja": "06 / 東京",
-    "zh-Hant": "06 / 東京",
-    "ms": "06 / TOKYO",
-    "th": "06 / โตเกียว",
-    "id": "06 / TOKYO",
-    "fil": "06 / TOKYO",
-    "ko": "06 / 도쿄"
   },
   "Shinsaibashi 9": {
     "ja": "心斎橋9",
@@ -358,24 +331,6 @@
     "id": "Tsutenkaku",
     "fil": "Tsutenkaku",
     "ko": "쓰텐카쿠"
-  },
-  "Umeda": {
-    "ja": "梅田",
-    "zh-Hant": "梅田",
-    "ms": "Umeda",
-    "th": "Umeda",
-    "id": "Umeda",
-    "fil": "Umeda",
-    "ko": "우메다"
-  },
-  "Asakusa": {
-    "ja": "浅草",
-    "zh-Hant": "淺草",
-    "ms": "Asakusa",
-    "th": "Asakusa",
-    "id": "Asakusa",
-    "fil": "Asakusa",
-    "ko": "아사쿠사"
   },
   "BEYOND ACCOMMODATION": {
     "ja": "宿泊以外のサービス",
@@ -665,78 +620,6 @@
     "fil": "Maliwanag na interior ng Apartment Hotel 11 na may kusina at dining area",
     "ko": "주방과 식사 공간을 갖춘 밝은 Apartment Hotel 11 내부"
   },
-  "Apartment Hotel 11 Shinsaibashi 9 exterior at sunset": {
-    "ja": "夕暮れのApartment Hotel 11 心斎橋9の外観",
-    "zh-Hant": "黃昏時的 Apartment Hotel 11 心齋橋9外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Shinsaibashi 9 pada waktu senja",
-    "th": "ภายนอก Apartment Hotel 11 Shinsaibashi 9",
-    "id": "Eksterior Apartment Hotel 11 Shinsaibashi 9",
-    "fil": "Labas ng Apartment Hotel 11 Shinsaibashi 9",
-    "ko": "Apartment Hotel 11 신사이바시 9 외관"
-  },
-  "Apartment Hotel 11 Hanazono 1 exterior at night": {
-    "ja": "夜のApartment Hotel 11 花園1の外観",
-    "zh-Hant": "夜間的 Apartment Hotel 11 花園1外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Hanazono 1 pada waktu malam",
-    "th": "ภายนอก Apartment Hotel 11 Hanazono 1",
-    "id": "Eksterior Apartment Hotel 11 Hanazono 1",
-    "fil": "Labas ng Apartment Hotel 11 Hanazono 1",
-    "ko": "Apartment Hotel 11 하나조노 1 외관"
-  },
-  "Apartment Hotel 11 Shin-Imamiya 3 exterior": {
-    "ja": "Apartment Hotel 11 新今宮3の外観",
-    "zh-Hant": "Apartment Hotel 11 新今宮3外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Shin-Imamiya 3",
-    "th": "ภายนอก Apartment Hotel 11 Shin-Imamiya 3",
-    "id": "Eksterior Apartment Hotel 11 Shin-Imamiya 3",
-    "fil": "Labas ng Apartment Hotel 11 Shin-Imamiya 3",
-    "ko": "Apartment Hotel 11 신이마미야 3 외관"
-  },
-  "Apartment Hotel 11 Tsutenkaku exterior": {
-    "ja": "Apartment Hotel 11 通天閣の外観",
-    "zh-Hant": "Apartment Hotel 11 通天閣外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Tsutenkaku",
-    "th": "ภายนอก Apartment Hotel 11 Tsutenkaku",
-    "id": "Eksterior Apartment Hotel 11 Tsutenkaku",
-    "fil": "Labas ng Apartment Hotel 11 Tsutenkaku",
-    "ko": "Apartment Hotel 11 쓰텐카쿠 외관"
-  },
-  "Apartment Hotel 11 Umeda exterior with illuminated balconies": {
-    "ja": "バルコニーがライトアップされたApartment Hotel 11 梅田の外観",
-    "zh-Hant": "Apartment Hotel 11 梅田外觀，陽台燈光亮起",
-    "ms": "Bahagian luar Apartment Hotel 11 Umeda dengan balkoni bercahaya",
-    "th": "ภายนอก Apartment Hotel 11 Umeda",
-    "id": "Eksterior Apartment Hotel 11 Umeda",
-    "fil": "Labas ng Apartment Hotel 11 Umeda",
-    "ko": "Apartment Hotel 11 우메다 외관"
-  },
-  "Apartment Hotel 11 Asakusa exterior": {
-    "ja": "Apartment Hotel 11 浅草の外観",
-    "zh-Hant": "Apartment Hotel 11 淺草外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Asakusa",
-    "th": "ภายนอก Apartment Hotel 11 Asakusa",
-    "id": "Eksterior Apartment Hotel 11 Asakusa",
-    "fil": "Labas ng Apartment Hotel 11 Asakusa",
-    "ko": "Apartment Hotel 11 아사쿠사 외관"
-  },
-  "Teppanyaki Kirameki restaurant interior": {
-    "ja": "鉄板焼 煌の店内",
-    "zh-Hant": "鐵板燒「煌」餐廳內部",
-    "ms": "Ruang dalaman restoran Teppanyaki Kirameki",
-    "th": "ภายในร้านเทปปันยากิ Kirameki",
-    "id": "Interior restoran Teppanyaki Kirameki",
-    "fil": "Interior ng Teppanyaki Kirameki",
-    "ko": "철판요리 레스토랑 Kirameki 내부"
-  },
-  "Transfer service imagery from the HIWIN brochure": {
-    "ja": "HIWINパンフレット掲載の送迎サービスイメージ",
-    "zh-Hant": "HIWIN 簡介中的接送服務示意",
-    "ms": "Imej perkhidmatan jemputan daripada brosur HIWIN",
-    "th": "ภาพบริการรับส่งจากโบรชัวร์ HIWIN",
-    "id": "Foto layanan antar-jemput dari brosur HIWIN",
-    "fil": "Larawan ng transfer service mula sa brochure ng HIWIN",
-    "ko": "HIWIN 브로슈어의 차량 이동 서비스 사진"
-  },
   "Relaxation service imagery from the HIWIN brochure": {
     "ja": "HIWINパンフレット掲載のリラクゼーションサービスイメージ",
     "zh-Hant": "HIWIN 簡介中的舒壓服務示意",
@@ -791,15 +674,6 @@
     "fil": "Mga larawan sa pangunahing banner",
     "ko": "대표 사진"
   },
-  "Show guest room": {
-    "ja": "客室の写真を表示",
-    "zh-Hant": "顯示客房照片",
-    "ms": "Tunjukkan bilik tetamu",
-    "th": "แสดงภาพห้องพัก",
-    "id": "Tampilkan kamar tamu",
-    "fil": "Ipakita ang kuwarto",
-    "ko": "객실 사진 보기"
-  },
   "Show property exterior": {
     "ja": "施設外観の写真を表示",
     "zh-Hant": "顯示建築外觀",
@@ -836,15 +710,6 @@
     "fil": "Labas ng Apartment Hotel 11 Umeda Kamiyama",
     "ko": "Apartment Hotel 11 우메다 가미야마 외관"
   },
-  "07 / OSAKA": {
-    "ja": "07 / 大阪",
-    "zh-Hant": "07 / 大阪",
-    "ms": "07 / OSAKA",
-    "th": "07 / โอซาก้า",
-    "id": "07 / OSAKA",
-    "fil": "07 / OSAKA",
-    "ko": "07 / 오사카"
-  },
   "Higashi-Umeda": {
     "ja": "東梅田",
     "zh-Hant": "東梅田",
@@ -863,15 +728,6 @@
     "fil": "Labas ng Apartment Hotel 11 Higashi-Umeda",
     "ko": "Apartment Hotel 11 히가시우메다 외관"
   },
-  "08 / OSAKA": {
-    "ja": "08 / 大阪",
-    "zh-Hant": "08 / 大阪",
-    "ms": "08 / OSAKA",
-    "th": "08 / โอซาก้า",
-    "id": "08 / OSAKA",
-    "fil": "08 / OSAKA",
-    "ko": "08 / 오사카"
-  },
   "Osaka Dome": {
     "ja": "大阪ドーム",
     "zh-Hant": "大阪巨蛋",
@@ -880,24 +736,6 @@
     "id": "Osaka Dome",
     "fil": "Osaka Dome",
     "ko": "오사카 돔"
-  },
-  "Apartment Hotel 11 Osaka Dome exterior": {
-    "ja": "Apartment Hotel 11 大阪ドームの外観",
-    "zh-Hant": "Apartment Hotel 11 大阪巨蛋外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Osaka Dome",
-    "th": "ภายนอก Apartment Hotel 11 Osaka Dome",
-    "id": "Eksterior Apartment Hotel 11 Osaka Dome",
-    "fil": "Labas ng Apartment Hotel 11 Osaka Dome",
-    "ko": "Apartment Hotel 11 오사카 돔 외관"
-  },
-  "09 / OSAKA": {
-    "ja": "09 / 大阪",
-    "zh-Hant": "09 / 大阪",
-    "ms": "09 / OSAKA",
-    "th": "09 / โอซาก้า",
-    "id": "09 / OSAKA",
-    "fil": "09 / OSAKA",
-    "ko": "09 / 오사카"
   },
   "Shinsaibashi 2": {
     "ja": "心斎橋2",
@@ -917,42 +755,6 @@
     "fil": "Labas ng Apartment Hotel 11 Shinsaibashi 2",
     "ko": "Apartment Hotel 11 신사이바시 2 외관"
   },
-  "10 / OSAKA": {
-    "ja": "10 / 大阪",
-    "zh-Hant": "10 / 大阪",
-    "ms": "10 / OSAKA",
-    "th": "10 / โอซาก้า",
-    "id": "10 / OSAKA",
-    "fil": "10 / OSAKA",
-    "ko": "10 / 오사카"
-  },
-  "Dotonbori 2": {
-    "ja": "道頓堀2",
-    "zh-Hant": "道頓堀2",
-    "ms": "Dotonbori 2",
-    "th": "Dotonbori 2",
-    "id": "Dotonbori 2",
-    "fil": "Dotonbori 2",
-    "ko": "도톤보리 2"
-  },
-  "Apartment Hotel 11 Dotonbori 2 exterior": {
-    "ja": "Apartment Hotel 11 道頓堀2の外観",
-    "zh-Hant": "Apartment Hotel 11 道頓堀2外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Dotonbori 2",
-    "th": "ภายนอก Apartment Hotel 11 Dotonbori 2",
-    "id": "Eksterior Apartment Hotel 11 Dotonbori 2",
-    "fil": "Labas ng Apartment Hotel 11 Dotonbori 2",
-    "ko": "Apartment Hotel 11 도톤보리 2 외관"
-  },
-  "11 / OSAKA": {
-    "ja": "11 / 大阪",
-    "zh-Hant": "11 / 大阪",
-    "ms": "11 / OSAKA",
-    "th": "11 / โอซาก้า",
-    "id": "11 / OSAKA",
-    "fil": "11 / OSAKA",
-    "ko": "11 / 오사카"
-  },
   "Kuromon 9": {
     "ja": "黒門9",
     "zh-Hant": "黑門9",
@@ -961,24 +763,6 @@
     "id": "Kuromon 9",
     "fil": "Kuromon 9",
     "ko": "구로몬 9"
-  },
-  "Apartment Hotel 11 Kuromon 9 exterior": {
-    "ja": "Apartment Hotel 11 黒門9の外観",
-    "zh-Hant": "Apartment Hotel 11 黑門9外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Kuromon 9",
-    "th": "ภายนอก Apartment Hotel 11 Kuromon 9",
-    "id": "Eksterior Apartment Hotel 11 Kuromon 9",
-    "fil": "Labas ng Apartment Hotel 11 Kuromon 9",
-    "ko": "Apartment Hotel 11 구로몬 9 외관"
-  },
-  "12 / OSAKA": {
-    "ja": "12 / 大阪",
-    "zh-Hant": "12 / 大阪",
-    "ms": "12 / OSAKA",
-    "th": "12 / โอซาก้า",
-    "id": "12 / OSAKA",
-    "fil": "12 / OSAKA",
-    "ko": "12 / 오사카"
   },
   "Space to settle in": {
     "ja": "ゆとりある空間",
@@ -1052,15 +836,6 @@
     "fil": "Namba Minami 7",
     "ko": "난바 미나미 7"
   },
-  "Apartment Hotel 11 Namba Minami 7 exterior": {
-    "ja": "Apartment Hotel 11 難波南7の外観",
-    "zh-Hant": "Apartment Hotel 11 難波南7外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Namba Minami 7",
-    "th": "ภายนอก Apartment Hotel 11 Namba Minami 7",
-    "id": "Eksterior Apartment Hotel 11 Namba Minami 7",
-    "fil": "Labas ng Apartment Hotel 11 Namba Minami 7",
-    "ko": "Apartment Hotel 11 난바 미나미 7 외관"
-  },
   "Namba 2": {
     "ja": "難波2",
     "zh-Hant": "難波2",
@@ -1078,24 +853,6 @@
     "id": "Eksterior Apartment Hotel 11 Namba 2",
     "fil": "Labas ng Apartment Hotel 11 Namba 2",
     "ko": "Apartment Hotel 11 난바 2 외관"
-  },
-  "Shinsaibashi 6": {
-    "ja": "心斎橋6",
-    "zh-Hant": "心齋橋6",
-    "ms": "Shinsaibashi 6",
-    "th": "Shinsaibashi 6",
-    "id": "Shinsaibashi 6",
-    "fil": "Shinsaibashi 6",
-    "ko": "신사이바시 6"
-  },
-  "Apartment Hotel 11 Shinsaibashi 6 exterior": {
-    "ja": "Apartment Hotel 11 心斎橋6の外観",
-    "zh-Hant": "Apartment Hotel 11 心齋橋6外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Shinsaibashi 6",
-    "th": "ภายนอก Apartment Hotel 11 Shinsaibashi 6",
-    "id": "Eksterior Apartment Hotel 11 Shinsaibashi 6",
-    "fil": "Labas ng Apartment Hotel 11 Shinsaibashi 6",
-    "ko": "Apartment Hotel 11 신사이바시 6 외관"
   },
   "TEMPURA": {
     "ja": "天ぷら",
@@ -1132,15 +889,6 @@
     "id": "Namba Minami 6",
     "fil": "Namba Minami 6",
     "ko": "난바 미나미 6"
-  },
-  "Apartment Hotel 11 Namba Minami 6 exterior": {
-    "ja": "Apartment Hotel 11 難波南6の外観",
-    "zh-Hant": "Apartment Hotel 11 難波南6外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Namba Minami 6",
-    "th": "ภายนอก Apartment Hotel 11 Namba Minami 6",
-    "id": "Eksterior Apartment Hotel 11 Namba Minami 6",
-    "fil": "Labas ng Apartment Hotel 11 Namba Minami 6",
-    "ko": "Apartment Hotel 11 난바 미나미 6 외관"
   },
   "Company address": {
     "ja": "所在地",
@@ -1384,5 +1132,185 @@
     "id": "Kami melayani dalam bahasa Jepang, Mandarin, Inggris, dan Korea.",
     "fil": "Maaari kaming kausapin sa Japanese, Chinese, English at Korean.",
     "ko": "일본어, 중국어, 영어, 한국어로 상담 가능합니다."
+  },
+  "04 / TOKYO": {
+    "ja": "04 / 東京",
+    "zh-Hant": "04 / 東京",
+    "ms": "04 / TOKYO",
+    "th": "04 / โตเกียว",
+    "id": "04 / TOKYO",
+    "fil": "04 / TOKYO",
+    "ko": "04 / 도쿄"
+  },
+  "Shinsekai": {
+    "ja": "新世界",
+    "zh-Hant": "新世界",
+    "ms": "Shinsekai",
+    "th": "Shinsekai",
+    "id": "Shinsekai",
+    "fil": "Shinsekai",
+    "ko": "신세카이"
+  },
+  "Asakusa 2": {
+    "ja": "浅草2",
+    "zh-Hant": "淺草2",
+    "ms": "Asakusa 2",
+    "th": "Asakusa 2",
+    "id": "Asakusa 2",
+    "fil": "Asakusa 2",
+    "ko": "아사쿠사 2"
+  },
+  "Motomachi": {
+    "ja": "元町",
+    "zh-Hant": "元町",
+    "ms": "Motomachi",
+    "th": "Motomachi",
+    "id": "Motomachi",
+    "fil": "Motomachi",
+    "ko": "모토마치"
+  },
+  "Namba Minami 4": {
+    "ja": "難波南4",
+    "zh-Hant": "難波南4",
+    "ms": "Namba Minami 4",
+    "th": "Namba Minami 4",
+    "id": "Namba Minami 4",
+    "fil": "Namba Minami 4",
+    "ko": "난바미나미 4"
+  },
+  "Sakae": {
+    "ja": "栄",
+    "zh-Hant": "榮",
+    "ms": "Sakae",
+    "th": "Sakae",
+    "id": "Sakae",
+    "fil": "Sakae",
+    "ko": "사카에"
+  },
+  "Apartment Hotel 11 Shinsekai exterior": {
+    "ja": "Apartment Hotel 11 新世界の外観",
+    "zh-Hant": "Apartment Hotel 11 新世界外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Shinsekai",
+    "th": "ภายนอก Apartment Hotel 11 Shinsekai",
+    "id": "Eksterior Apartment Hotel 11 Shinsekai",
+    "fil": "Labas ng Apartment Hotel 11 Shinsekai",
+    "ko": "Apartment Hotel 11 신세카이 외관"
+  },
+  "Apartment Hotel 11 Asakusa 2 exterior": {
+    "ja": "Apartment Hotel 11 浅草2の外観",
+    "zh-Hant": "Apartment Hotel 11 淺草2外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Asakusa 2",
+    "th": "ภายนอก Apartment Hotel 11 Asakusa 2",
+    "id": "Eksterior Apartment Hotel 11 Asakusa 2",
+    "fil": "Labas ng Apartment Hotel 11 Asakusa 2",
+    "ko": "Apartment Hotel 11 아사쿠사 2 외관"
+  },
+  "Apartment Hotel 11 Kobe Motomachi exterior": {
+    "ja": "Apartment Hotel 11 神戸元町の外観",
+    "zh-Hant": "Apartment Hotel 11 神戶元町外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Kobe Motomachi",
+    "th": "ภายนอก Apartment Hotel 11 Kobe Motomachi",
+    "id": "Eksterior Apartment Hotel 11 Kobe Motomachi",
+    "fil": "Labas ng Apartment Hotel 11 Kobe Motomachi",
+    "ko": "Apartment Hotel 11 고베 모토마치 외관"
+  },
+  "Apartment Hotel 11 Namba Minami 4 exterior": {
+    "ja": "Apartment Hotel 11 難波南4の外観",
+    "zh-Hant": "Apartment Hotel 11 難波南4外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Namba Minami 4",
+    "th": "ภายนอก Apartment Hotel 11 Namba Minami 4",
+    "id": "Eksterior Apartment Hotel 11 Namba Minami 4",
+    "fil": "Labas ng Apartment Hotel 11 Namba Minami 4",
+    "ko": "Apartment Hotel 11 난바미나미 4 외관"
+  },
+  "Apartment Hotel 11 Nagoya Sakae exterior": {
+    "ja": "Apartment Hotel 11 名古屋栄の外観",
+    "zh-Hant": "Apartment Hotel 11 名古屋榮外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Nagoya Sakae",
+    "th": "ภายนอก Apartment Hotel 11 Nagoya Sakae",
+    "id": "Eksterior Apartment Hotel 11 Nagoya Sakae",
+    "fil": "Labas ng Apartment Hotel 11 Nagoya Sakae",
+    "ko": "Apartment Hotel 11 나고야 사카에 외관"
+  },
+  "HIWIN transfer vehicle": {
+    "ja": "HIWINの送迎車両",
+    "zh-Hant": "HIWIN 接送車輛",
+    "ms": "Kenderaan pemindahan HIWIN",
+    "th": "รถรับส่งของ HIWIN",
+    "id": "Kendaraan antar-jemput HIWIN",
+    "fil": "Sasakyang pang-transfer ng HIWIN",
+    "ko": "HIWIN 송영 차량"
+  },
+  "Crab cuisine from HIWIN's restaurant network": {
+    "ja": "HIWINグループの蟹料理",
+    "zh-Hant": "HIWIN 餐飲網絡的螃蟹料理",
+    "ms": "Hidangan ketam daripada rangkaian restoran HIWIN",
+    "th": "อาหารปูจากเครือข่ายร้านอาหารของ HIWIN",
+    "id": "Hidangan kepiting dari jaringan restoran HIWIN",
+    "fil": "Crab dish mula sa restaurant network ng HIWIN",
+    "ko": "HIWIN 레스토랑 네트워크의 게 요리"
+  },
+  "07 / OSAKA": {
+    "ja": "07 / 大阪",
+    "zh-Hant": "07 / 大阪",
+    "ms": "07 / OSAKA",
+    "th": "07 / โอซาก้า",
+    "id": "07 / OSAKA",
+    "fil": "07 / OSAKA",
+    "ko": "07 / 오사카"
+  },
+  "08 / OSAKA": {
+    "ja": "08 / 大阪",
+    "zh-Hant": "08 / 大阪",
+    "ms": "08 / OSAKA",
+    "th": "08 / โอซาก้า",
+    "id": "08 / OSAKA",
+    "fil": "08 / OSAKA",
+    "ko": "08 / 오사카"
+  },
+  "02 / KOBE": {
+    "ja": "02 / 神戸",
+    "zh-Hant": "02 / 神戶",
+    "ms": "02 / KOBE",
+    "th": "02 / โกเบ",
+    "id": "02 / KOBE",
+    "fil": "02 / KOBE",
+    "ko": "02 / 고베"
+  },
+  "06 / NAGOYA": {
+    "ja": "06 / 名古屋",
+    "zh-Hant": "06 / 名古屋",
+    "ms": "06 / NAGOYA",
+    "th": "06 / นาโกย่า",
+    "id": "06 / NAGOYA",
+    "fil": "06 / NAGOYA",
+    "ko": "06 / 나고야"
+  },
+  "Apartment Hotel 11 Shin-Imamiya 3 exterior": {
+    "ja": "Apartment Hotel 11 新今宮3の外観",
+    "zh-Hant": "Apartment Hotel 11 新今宮3外觀",
+    "ms": "Bahagian luar Apartment Hotel 11 Shin-Imamiya 3",
+    "th": "ภายนอก Apartment Hotel 11 Shin-Imamiya 3",
+    "id": "Eksterior Apartment Hotel 11 Shin-Imamiya 3",
+    "fil": "Labas ng Apartment Hotel 11 Shin-Imamiya 3",
+    "ko": "Apartment Hotel 11 신이마미야 3 외관"
+  },
+  "Apartment Hotel 11 Dotonbori 4 exterior": {
+    "ja": "Apartment Hotel 11 道頓堀4の外観",
+    "zh-Hant": "Apartment Hotel 11 道頓堀4外觀",
+    "ko": "Apartment Hotel 11 도톤보리 4 외관",
+    "th": "ภายนอก Apartment Hotel 11 Dotonbori 4",
+    "ms": "Bahagian luar Apartment Hotel 11 Dotonbori 4",
+    "id": "Eksterior Apartment Hotel 11 Dotonbori 4",
+    "fil": "Labas ng Apartment Hotel 11 Dotonbori 4"
+  },
+  "Show Osaka city view": {
+    "ja": "大阪の街並みを表示",
+    "zh-Hant": "顯示大阪城市景色",
+    "ko": "오사카 도시 풍경 보기",
+    "th": "แสดงวิวเมืองโอซาก้า",
+    "ms": "Tunjukkan pemandangan bandar Osaka",
+    "id": "Tampilkan pemandangan kota Osaka",
+    "fil": "Ipakita ang tanawin ng Osaka"
   }
 }

@@ -1852,5 +1852,68 @@
     "id": "Tarif berdasarkan 2 tamu per kamar. Setiap tambahan tamu dikenakan JPY 2,800 per malam, termasuk sarapan dan pajak penginapan, hingga kapasitas maksimum kamar. Anak di bawah 6 tahun menginap gratis jika tidak menggunakan tempat tidur.",
     "fil": "Batay sa 2 bisita bawat kuwarto ang rates. JPY 2,800 kada gabi ang bawat dagdag na bisita, kasama ang almusal at accommodation tax, hanggang sa maximum na bilang ng bisita ng kuwarto. Libre ang mga batang wala pang 6 na taon kung hindi gagamit ng kama.",
     "ko": "요금은 객실당 2인 기준이며, 1인 추가 시 1박당 2,800엔(조식·숙박세 포함)이 추가됩니다. 객실별 최대 인원까지 추가할 수 있으며, 6세 미만 어린이는 침대를 사용하지 않으면 무료입니다."
+  },
+  "In-room facilities": {
+    "ja": "客室設備",
+    "zh-Hant": "客房設備",
+    "ms": "Kemudahan bilik",
+    "th": "สิ่งอำนวยความสะดวกในห้องพัก",
+    "id": "Fasilitas kamar",
+    "fil": "Mga pasilidad sa kuwarto",
+    "ko": "객실 설비"
+  },
+  "In-room kitchen": {
+    "ja": "客室キッチン",
+    "zh-Hant": "客房廚房",
+    "ms": "Dapur dalam bilik",
+    "th": "ครัวในห้องพัก",
+    "id": "Dapur di kamar",
+    "fil": "Kusina sa kuwarto",
+    "ko": "객실 주방"
+  },
+  "Washing machine and washbasin": {
+    "ja": "洗濯機・洗面台",
+    "zh-Hant": "洗衣機與洗手台",
+    "ms": "Mesin basuh dan sinki",
+    "th": "เครื่องซักผ้าและอ่างล้างหน้า",
+    "id": "Mesin cuci dan wastafel",
+    "fil": "Washing machine at lababo",
+    "ko": "세탁기와 세면대"
+  },
+  "Bathroom": {
+    "ja": "バスルーム",
+    "zh-Hant": "浴室",
+    "ms": "Bilik mandi",
+    "th": "ห้องน้ำ",
+    "id": "Kamar mandi",
+    "fil": "Banyo",
+    "ko": "욕실"
+  },
+  "Toilet with bidet": {
+    "ja": "温水洗浄便座付きトイレ",
+    "zh-Hant": "免治馬桶",
+    "ms": "Tandas dengan bidet",
+    "th": "ห้องสุขาพร้อมระบบฉีดชำระ",
+    "id": "Toilet dengan bidet",
+    "fil": "Toilet na may bidet",
+    "ko": "비데 화장실"
+  },
+  "Suite dining area for 8": {
+    "ja": "スイート：8名様のダイニング",
+    "zh-Hant": "套房：8人用餐空間",
+    "ms": "Suite: ruang makan untuk 8 orang",
+    "th": "ห้องสวีท: พื้นที่รับประทานอาหาร 8 ท่าน",
+    "id": "Suite: ruang makan untuk 8 orang",
+    "fil": "Suite: dining area para sa 8",
+    "ko": "스위트룸: 8인 다이닝 공간"
+  },
+  "* Facilities vary by property.": {
+    "ja": "※設備は施設により異なります。",
+    "zh-Hant": "※ 設備依館別而異。",
+    "ms": "* Kemudahan berbeza mengikut hartanah.",
+    "th": "* สิ่งอำนวยความสะดวกแตกต่างกันในแต่ละที่พัก",
+    "id": "* Fasilitas berbeda di setiap properti.",
+    "fil": "* Nag-iiba ang mga pasilidad depende sa property.",
+    "ko": "※ 설비는 숙소에 따라 다릅니다."
   }
 }
