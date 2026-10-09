@@ -37,8 +37,12 @@ if (dock) {
       dock.classList.toggle('is-away', covering.size > 0);
     };
     // The hero counts until its bottom edge rises above 40% of the screen height.
+    // It starts hidden there, so it does not flash over the hero's bottom strip before the first check.
     const hero = document.querySelector('.hero');
-    if (hero) new IntersectionObserver(update, {rootMargin: '-40% 0px -59% 0px'}).observe(hero);
+    if (hero) {
+      dock.classList.add('is-away');
+      new IntersectionObserver(update, {rootMargin: '-40% 0px -59% 0px'}).observe(hero);
+    }
     const panel = document.querySelector('.contact-panel');
     if (panel) new IntersectionObserver(update, {rootMargin: '0px 0px -12% 0px'}).observe(panel);
   }

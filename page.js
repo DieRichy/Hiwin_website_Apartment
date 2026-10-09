@@ -99,6 +99,8 @@ if (chatGroups) {
     });
   });
   const preferred = ['ja', 'zh-Hant', 'th'].includes(document.documentElement.lang) ? 'cp-tab-line' : 'cp-tab-whatsapp';
-  select(document.getElementById(preferred));
+  // A link to one group (e.g. the homepage's WeChat button, #cp-wechat) opens that group's tab.
+  const linked = tabs.find(t => '#' + t.getAttribute('aria-controls') === location.hash);
+  select(linked || document.getElementById(preferred));
   chatGroups.classList.add('cp-tabbed');
 }

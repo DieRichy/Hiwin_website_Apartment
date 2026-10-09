@@ -80,10 +80,14 @@ def localize(page, locale, table):
         return match.group(1) + html.escape(table.get(key, {}).get(locale, key), quote=True) + '"'
     page = re.sub(r'((?:alt|aria-label|content)=")([^"]*)"', attr, page)
     return page.replace('<html lang="en">', '<html lang="'+locale+'">').replace('<span>EN</span>', '<span>'+labels[locale]+'</span>')
+# Individual travellers go to the hotel's own booking site, in their language where it has one.
+direct_booking = {'ja': 'https://apartmenthotel11.com/', 'zh-Hant': 'https://apartmenthotel11.com/zh-tw/', 'ko': 'https://apartmenthotel11.com/ko/'}
 for locale in labels:
     page = template.replace('</body>', part['support'].replace('{home}', '/'+routes[locale]+'/')+'</body>')
     for slug in inner_pages:
-        page = page.replace('href="'+slug+'/"', 'href="/'+routes[locale]+'/'+slug+'/"')
+        # Also covers links to a part of the page, e.g. contact/#cp-wechat.
+        page = re.sub('href="'+slug+'/(#[^"]*)?"', lambda m: 'href="/'+routes[locale]+'/'+slug+'/'+(m.group(1) or '')+'"', page)
+    page = page.replace('href="https://apartmenthotel11.com/en/"', 'href="'+direct_booking.get(locale, 'https://apartmenthotel11.com/en/')+'"')
     if locale in ('th', 'id', 'fil'):
         prefix = '../assets/'
         font = 'noto-sans-thai' if locale == 'th' else 'inter'
@@ -142,7 +146,7 @@ for slug in inner_pages:
             font = 'noto-sans-thai' if locale == 'th' else 'inter'
             page = page.replace('</head>', '<link rel="preload" as="font" type="font/ttf" href="/assets/fonts/'+font+'-400.ttf" crossorigin>\n</head>')
         if locale == 'id':
-            page = page.replace('JPY 2,000', 'JPY 2.000').replace('3,000', '3.000')
+            page = page.replace('JPY 2,800', 'JPY 2.800').replace('3,000', '3.000')
         seo = '<link rel="canonical" href="'+origin+path+'">'
         for code in labels:
             seo += '<link rel="alternate" hreflang="'+code+'" href="'+origin+'/'+routes[code]+'/'+slug+'/">'

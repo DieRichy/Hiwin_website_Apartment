@@ -692,15 +692,6 @@
     "fil": "Check-out bago mag-10:00 AM",
     "ko": "체크아웃 10:00까지"
   },
-  "Minimum stay of 2 nights": {
-    "ja": "2泊以上から",
-    "zh-Hant": "最少連住2晚",
-    "ms": "Minimum 2 malam",
-    "th": "พักขั้นต่ำ 2 คืน",
-    "id": "Minimal menginap 2 malam",
-    "fil": "Minimum na 2 gabi",
-    "ko": "최소 2박"
-  },
   "Breakfast delivery included": {
     "ja": "朝食デリバリー付き",
     "zh-Hant": "含早餐配送",
@@ -971,15 +962,6 @@
     "fil": "Minimum na stay",
     "ko": "최소 숙박"
   },
-  "2 nights": {
-    "ja": "2泊",
-    "zh-Hant": "2晚",
-    "ms": "2 malam",
-    "th": "2 คืน",
-    "id": "2 malam",
-    "fil": "2 gabi",
-    "ko": "2박"
-  },
   "Occupancy": {
     "ja": "宿泊人数",
     "zh-Hant": "入住人數",
@@ -989,15 +971,6 @@
     "fil": "Bilang ng bisita",
     "ko": "숙박 인원"
   },
-  "Rates are based on 2 guests per room. Each additional guest is JPY 2,000 per night.": {
-    "ja": "料金は1室2名利用が基準です。追加1名につき1泊2,000円を申し受けます。",
-    "zh-Hant": "房價以每房2人入住計算，每加1人每晚加收2,000日圓。",
-    "ms": "Kadar berdasarkan 2 tetamu sebilik. Setiap tetamu tambahan dikenakan JPY 2,000 semalam.",
-    "th": "ราคาคิดตามการเข้าพัก 2 ท่านต่อห้อง เพิ่มผู้เข้าพัก 1 ท่าน คิดเพิ่ม 2,000 เยนต่อคืน",
-    "id": "Tarif berdasarkan 2 tamu per kamar. Setiap tambahan tamu dikenakan JPY 2,000 per malam.",
-    "fil": "Batay sa 2 bisita bawat kuwarto ang rates. JPY 2,000 kada gabi ang bawat dagdag na bisita.",
-    "ko": "요금은 객실당 2인 기준이며, 1인 추가 시 1박당 2,000엔이 추가됩니다."
-  },
   "Taxes": {
     "ja": "税金",
     "zh-Hant": "稅費",
@@ -1006,15 +979,6 @@
     "id": "Pajak",
     "fil": "Buwis",
     "ko": "세금"
-  },
-  "Rates include tax. Accommodation tax is charged separately.": {
-    "ja": "料金は税込です。宿泊税は別途申し受けます。",
-    "zh-Hant": "價格已含稅，住宿稅另計。",
-    "ms": "Kadar termasuk cukai. Cukai penginapan dikenakan secara berasingan.",
-    "th": "ราคารวมภาษีแล้ว ภาษีที่พักเรียกเก็บแยกต่างหาก",
-    "id": "Tarif sudah termasuk pajak. Pajak penginapan dikenakan terpisah.",
-    "fil": "Kasama na ang buwis sa rates. Hiwalay na sinisingil ang accommodation tax.",
-    "ko": "요금은 세금 포함이며, 숙박세는 별도입니다."
   },
   "Cancellation policy": {
     "ja": "キャンセルポリシー",
@@ -1043,15 +1007,6 @@
     "fil": "Singil",
     "ko": "취소 수수료"
   },
-  "14 or more days before check-in": {
-    "ja": "ご宿泊の14日前まで",
-    "zh-Hant": "入住14天前（含）以前",
-    "ms": "14 hari atau lebih sebelum daftar masuk",
-    "th": "ก่อนเช็กอิน 14 วันขึ้นไป",
-    "id": "14 hari atau lebih sebelum check-in",
-    "fil": "14 araw o higit pa bago ang check-in",
-    "ko": "체크인 14일 전까지"
-  },
   "Free": {
     "ja": "無料",
     "zh-Hant": "免費",
@@ -1060,33 +1015,6 @@
     "id": "Gratis",
     "fil": "Libre",
     "ko": "무료"
-  },
-  "13 to 7 days before": {
-    "ja": "13〜7日前",
-    "zh-Hant": "入住前13〜7天",
-    "ms": "13 hingga 7 hari sebelum",
-    "th": "ก่อนเช็กอิน 13–7 วัน",
-    "id": "13 hingga 7 hari sebelumnya",
-    "fil": "13 hanggang 7 araw bago",
-    "ko": "13~7일 전"
-  },
-  "6 to 2 days before": {
-    "ja": "6〜2日前",
-    "zh-Hant": "入住前6〜2天",
-    "ms": "6 hingga 2 hari sebelum",
-    "th": "ก่อนเช็กอิน 6–2 วัน",
-    "id": "6 hingga 2 hari sebelumnya",
-    "fil": "6 hanggang 2 araw bago",
-    "ko": "6~2일 전"
-  },
-  "On the day, or no-show": {
-    "ja": "当日・不泊",
-    "zh-Hant": "入住當天取消或未入住",
-    "ms": "Pada hari yang sama atau tidak hadir",
-    "th": "วันเข้าพักหรือไม่มาเข้าพัก",
-    "id": "Pada hari H atau tidak hadir",
-    "fil": "Mismong araw o no-show",
-    "ko": "당일 취소 또는 노쇼"
   },
   "HOW TO BOOK": {
     "ja": "ご予約の流れ",
@@ -1654,5 +1582,275 @@
     "id": "Telepon",
     "fil": "Telepono",
     "ko": "전화"
+  },
+  "WAYS TO PARTNER": {
+    "ja": "協業モデル",
+    "zh-Hant": "合作模式",
+    "ms": "BENTUK KERJASAMA",
+    "th": "รูปแบบความร่วมมือ",
+    "id": "BENTUK KEMITRAAN",
+    "fil": "MGA URI NG PARTNERSHIP",
+    "ko": "제휴 형태"
+  },
+  "Four ways to work together.": {
+    "ja": "4つの協業スタイル。",
+    "zh-Hant": "四種方式，攜手合作。",
+    "ms": "Empat cara bekerjasama.",
+    "th": "ความร่วมมือ 4 รูปแบบ",
+    "id": "Empat cara bermitra.",
+    "fil": "Apat na paraan ng pakikipagtulungan.",
+    "ko": "네 가지 제휴 방식"
+  },
+  "We work with travel agencies, companies and groups of all kinds to give more travellers a comfortable, high-quality stay.": {
+    "ja": "旅行会社、企業、各種団体と協力し、より多くの旅行者に快適で質の高いご滞在をお届けしています。",
+    "zh-Hant": "我們與旅行社、企業及各類團體合作，為更多旅客提供舒適、高品質的住宿體驗。",
+    "ms": "Kami bekerjasama dengan agensi pelancongan, syarikat dan pelbagai kumpulan untuk memberi lebih ramai pelancong penginapan yang selesa dan berkualiti.",
+    "th": "เราร่วมมือกับบริษัทท่องเที่ยว องค์กร และกลุ่มต่าง ๆ เพื่อมอบประสบการณ์การเข้าพักที่สะดวกสบายและมีคุณภาพให้นักท่องเที่ยวมากขึ้น",
+    "id": "Kami bekerja sama dengan agen perjalanan, perusahaan, dan berbagai rombongan untuk memberikan pengalaman menginap yang nyaman dan berkualitas bagi lebih banyak wisatawan.",
+    "fil": "Nakikipagtulungan kami sa mga travel agency, kumpanya at iba't ibang grupo para mabigyan ang mas maraming biyahero ng komportable at de-kalidad na pananatili.",
+    "ko": "여행사, 기업 및 다양한 단체와 협력하여 더 많은 여행객에게 편안하고 품질 높은 숙박을 제공합니다."
+  },
+  "FIT & individual travel": {
+    "ja": "FIT・個人旅行",
+    "zh-Hant": "FIT／自由行",
+    "ms": "FIT & pelancongan individu",
+    "th": "FIT และผู้เดินทางอิสระ",
+    "id": "FIT & wisatawan mandiri",
+    "fil": "FIT at independent travel",
+    "ko": "개별 자유여행(FIT)"
+  },
+  "Flexible plans based on stay dates, number of guests and length of stay.": {
+    "ja": "ご宿泊日・人数・日数に合わせて、柔軟にプランをご提案します。",
+    "zh-Hant": "依入住日期、人數及天數，彈性提供方案。",
+    "ms": "Pakej fleksibel mengikut tarikh menginap, bilangan tetamu dan tempoh penginapan.",
+    "th": "เสนอแผนที่พักแบบยืดหยุ่นตามวันเข้าพัก จำนวนผู้เข้าพัก และจำนวนคืน",
+    "id": "Paket fleksibel sesuai tanggal menginap, jumlah tamu, dan lama menginap.",
+    "fil": "Flexible na plano batay sa petsa ng pananatili, bilang ng bisita at haba ng pananatili.",
+    "ko": "투숙 날짜, 인원, 숙박 일수에 맞춰 유연하게 제안합니다."
+  },
+  "Group travel": {
+    "ja": "団体旅行",
+    "zh-Hant": "團體旅遊",
+    "ms": "Pelancongan berkumpulan",
+    "th": "กรุ๊ปทัวร์",
+    "id": "Perjalanan rombongan",
+    "fil": "Group travel",
+    "ko": "단체 여행"
+  },
+  "Graduation trips, company trips and more: we recommend the best-suited properties.": {
+    "ja": "卒業旅行や社員旅行などに、最適な宿泊施設をご提案します。",
+    "zh-Hant": "畢業旅行、員工旅遊等，推薦最合適的住宿設施。",
+    "ms": "Lawatan tamat pengajian, percutian syarikat dan banyak lagi: kami cadangkan penginapan yang paling sesuai.",
+    "th": "ทริปจบการศึกษา ทริปบริษัท และอื่น ๆ เราแนะนำที่พักที่เหมาะสมที่สุดให้",
+    "id": "Perjalanan wisuda, perjalanan kantor, dan lainnya: kami rekomendasikan akomodasi yang paling sesuai.",
+    "fil": "Graduation trip, company trip at iba pa: irerekomenda namin ang pinakaangkop na accommodation.",
+    "ko": "졸업 여행, 직원 여행 등에 가장 알맞은 숙소를 추천합니다."
+  },
+  "Travel agencies & sales channels": {
+    "ja": "旅行会社・販売チャネル",
+    "zh-Hant": "旅行社及銷售通路",
+    "ms": "Agensi pelancongan & saluran jualan",
+    "th": "บริษัทท่องเที่ยวและช่องทางการขาย",
+    "id": "Agen perjalanan & saluran penjualan",
+    "fil": "Mga travel agency at sales channel",
+    "ko": "여행사·판매 채널"
+  },
+  "We connect tour products, rates and room allocations, flexibly matching your sales needs.": {
+    "ja": "旅行商品・料金・客室在庫を連携し、販売ニーズに柔軟に対応します。",
+    "zh-Hant": "串接行程商品、價格及房量，彈性配合銷售需求。",
+    "ms": "Kami menghubungkan produk pelancongan, kadar dan peruntukan bilik, mengikut keperluan jualan anda.",
+    "th": "เชื่อมโยงสินค้าท่องเที่ยว ราคา และจำนวนห้องพัก ปรับให้เข้ากับความต้องการด้านการขายของคุณได้อย่างยืดหยุ่น",
+    "id": "Kami menghubungkan produk tur, tarif, dan alokasi kamar, menyesuaikan kebutuhan penjualan Anda secara fleksibel.",
+    "fil": "Ikinokonekta namin ang mga tour product, rate at room allocation, at umaangkop sa pangangailangan ng inyong benta.",
+    "ko": "여행 상품, 요금, 객실 물량을 연동해 판매 요구에 유연하게 맞춥니다."
+  },
+  "Joint promotions": {
+    "ja": "共同プロモーション",
+    "zh-Hant": "聯合推廣",
+    "ms": "Promosi bersama",
+    "th": "การตลาดร่วมกัน",
+    "id": "Promosi bersama",
+    "fil": "Magkatuwang na promosyon",
+    "ko": "공동 프로모션"
+  },
+  "Tourism promotion and marketing activities, planned together to raise brand value.": {
+    "ja": "観光プロモーションやマーケティング活動を共に企画し、ブランド価値を高めます。",
+    "zh-Hant": "透過觀光宣傳及行銷活動，共同規劃，提升品牌價值。",
+    "ms": "Promosi pelancongan dan aktiviti pemasaran yang dirancang bersama untuk meningkatkan nilai jenama.",
+    "th": "วางแผนการประชาสัมพันธ์การท่องเที่ยวและกิจกรรมการตลาดร่วมกัน เพื่อเพิ่มคุณค่าของแบรนด์",
+    "id": "Promosi wisata dan kegiatan pemasaran yang direncanakan bersama untuk meningkatkan nilai merek.",
+    "fil": "Sabay naming pinaplano ang tourism promotion at marketing para mapataas ang halaga ng brand.",
+    "ko": "관광 홍보와 마케팅 활동을 함께 기획해 브랜드 가치를 높입니다."
+  },
+  "3 room types at this property": {
+    "ja": "当館の客室タイプは全3種",
+    "zh-Hant": "本館共 3 種房型",
+    "ms": "3 jenis bilik di hartanah ini",
+    "th": "ที่พักนี้มีห้อง 3 ประเภท",
+    "id": "3 tipe kamar di properti ini",
+    "fil": "3 room type sa property na ito",
+    "ko": "이 숙소 객실 타입 총 3가지"
+  },
+  "4 room types at this property": {
+    "ja": "当館の客室タイプは全4種",
+    "zh-Hant": "本館共 4 種房型",
+    "ms": "4 jenis bilik di hartanah ini",
+    "th": "ที่พักนี้มีห้อง 4 ประเภท",
+    "id": "4 tipe kamar di properti ini",
+    "fil": "4 room type sa property na ito",
+    "ko": "이 숙소 객실 타입 총 4가지"
+  },
+  "5 room types at this property": {
+    "ja": "当館の客室タイプは全5種",
+    "zh-Hant": "本館共 5 種房型",
+    "ms": "5 jenis bilik di hartanah ini",
+    "th": "ที่พักนี้มีห้อง 5 ประเภท",
+    "id": "5 tipe kamar di properti ini",
+    "fil": "5 room type sa property na ito",
+    "ko": "이 숙소 객실 타입 총 5가지"
+  },
+  "6 room types at this property": {
+    "ja": "当館の客室タイプは全6種",
+    "zh-Hant": "本館共 6 種房型",
+    "ms": "6 jenis bilik di hartanah ini",
+    "th": "ที่พักนี้มีห้อง 6 ประเภท",
+    "id": "6 tipe kamar di properti ini",
+    "fil": "6 room type sa property na ito",
+    "ko": "이 숙소 객실 타입 총 6가지"
+  },
+  "8 room types at this property": {
+    "ja": "当館の客室タイプは全8種",
+    "zh-Hant": "本館共 8 種房型",
+    "ms": "8 jenis bilik di hartanah ini",
+    "th": "ที่พักนี้มีห้อง 8 ประเภท",
+    "id": "8 tipe kamar di properti ini",
+    "fil": "8 room type sa property na ito",
+    "ko": "이 숙소 객실 타입 총 8가지"
+  },
+  "2 nights (except Kansai Airport)": {
+    "ja": "2泊（関西空港を除く）",
+    "zh-Hant": "2晚（關西機場館除外）",
+    "ms": "2 malam (kecuali Kansai Airport)",
+    "th": "2 คืน (ยกเว้น Kansai Airport)",
+    "id": "2 malam (kecuali Kansai Airport)",
+    "fil": "2 gabi (maliban sa Kansai Airport)",
+    "ko": "2박 (간사이공항 제외)"
+  },
+  "Rates are based on 2 guests per room. Each additional guest is JPY 2,800 per night, including breakfast and accommodation tax.": {
+    "ja": "料金は1室2名利用が基準です。追加1名につき1泊2,800円（朝食・宿泊税込み）を申し受けます。",
+    "zh-Hant": "房價以每房2人入住計算，每加1人每晚加收2,800日圓（含早餐及住宿稅）。",
+    "ms": "Kadar berdasarkan 2 tetamu sebilik. Setiap tetamu tambahan dikenakan JPY 2,800 semalam, termasuk sarapan dan cukai penginapan.",
+    "th": "ราคาคิดตามการเข้าพัก 2 ท่านต่อห้อง เพิ่มผู้เข้าพัก 1 ท่าน คิดเพิ่ม 2,800 เยนต่อคืน รวมอาหารเช้าและภาษีที่พักแล้ว",
+    "id": "Tarif berdasarkan 2 tamu per kamar. Setiap tambahan tamu dikenakan JPY 2,800 per malam, termasuk sarapan dan pajak penginapan.",
+    "fil": "Batay sa 2 bisita bawat kuwarto ang rates. JPY 2,800 kada gabi ang bawat dagdag na bisita, kasama ang almusal at accommodation tax.",
+    "ko": "요금은 객실당 2인 기준이며, 1인 추가 시 1박당 2,800엔(조식·숙박세 포함)이 추가됩니다."
+  },
+  "Children": {
+    "ja": "お子さま",
+    "zh-Hant": "兒童",
+    "ms": "Kanak-kanak",
+    "th": "เด็ก",
+    "id": "Anak-anak",
+    "fil": "Mga bata",
+    "ko": "어린이"
+  },
+  "Children under 6 stay free when not using a bed.": {
+    "ja": "6歳未満のお子さまは、ベッドを使用しない場合は無料です。",
+    "zh-Hant": "未滿6歲兒童不佔床可免費入住。",
+    "ms": "Kanak-kanak bawah 6 tahun menginap percuma jika tidak menggunakan katil.",
+    "th": "เด็กอายุต่ำกว่า 6 ปีเข้าพักฟรี หากไม่ใช้เตียง",
+    "id": "Anak di bawah 6 tahun menginap gratis jika tidak menggunakan tempat tidur.",
+    "fil": "Libre ang mga batang wala pang 6 na taon kung hindi gagamit ng kama.",
+    "ko": "6세 미만 어린이는 침대를 사용하지 않으면 무료입니다."
+  },
+  "Rates include tax and accommodation tax.": {
+    "ja": "料金は税込（宿泊税を含む）です。",
+    "zh-Hant": "價格已含稅及住宿稅。",
+    "ms": "Kadar termasuk cukai dan cukai penginapan.",
+    "th": "ราคารวมภาษีและภาษีที่พักแล้ว",
+    "id": "Tarif sudah termasuk pajak dan pajak penginapan.",
+    "fil": "Kasama na sa rates ang buwis at accommodation tax.",
+    "ko": "요금은 세금 및 숙박세 포함입니다."
+  },
+  "20 or more days before check-in": {
+    "ja": "ご宿泊の20日前まで",
+    "zh-Hant": "入住20天前（含）以前",
+    "ms": "20 hari atau lebih sebelum daftar masuk",
+    "th": "ก่อนเช็กอิน 20 วันขึ้นไป",
+    "id": "20 hari atau lebih sebelum check-in",
+    "fil": "20 araw o higit pa bago ang check-in",
+    "ko": "체크인 20일 전까지"
+  },
+  "19 to 8 days before": {
+    "ja": "19〜8日前",
+    "zh-Hant": "入住前19〜8天",
+    "ms": "19 hingga 8 hari sebelum",
+    "th": "ก่อนเช็กอิน 19–8 วัน",
+    "id": "19 hingga 8 hari sebelumnya",
+    "fil": "19 hanggang 8 araw bago",
+    "ko": "19~8일 전"
+  },
+  "7 to 3 days before": {
+    "ja": "7〜3日前",
+    "zh-Hant": "入住前7〜3天",
+    "ms": "7 hingga 3 hari sebelum",
+    "th": "ก่อนเช็กอิน 7–3 วัน",
+    "id": "7 hingga 3 hari sebelumnya",
+    "fil": "7 hanggang 3 araw bago",
+    "ko": "7~3일 전"
+  },
+  "From 2 days before to the day of arrival, or no-show": {
+    "ja": "2日前〜当日・不泊",
+    "zh-Hant": "入住前2天內取消或未入住",
+    "ms": "2 hari sebelum hingga hari ketibaan, atau tidak hadir",
+    "th": "ตั้งแต่ 2 วันก่อนเช็กอินถึงวันเข้าพัก หรือไม่มาเข้าพัก",
+    "id": "2 hari sebelumnya hingga hari kedatangan, atau tidak hadir",
+    "fil": "Mula 2 araw bago hanggang sa mismong araw, o no-show",
+    "ko": "2일 전~당일 취소 또는 노쇼"
+  },
+  "Minimum stay of 2 nights (except Kansai Airport)": {
+    "ja": "2泊以上から（関西空港を除く）",
+    "zh-Hant": "最少連住2晚（關西機場館除外）",
+    "ms": "Minimum 2 malam (kecuali Kansai Airport)",
+    "th": "พักขั้นต่ำ 2 คืน (ยกเว้น Kansai Airport)",
+    "id": "Minimal menginap 2 malam (kecuali Kansai Airport)",
+    "fil": "Minimum na 2 gabi (maliban sa Kansai Airport)",
+    "ko": "최소 2박 (간사이공항 제외)"
+  },
+  "Standard 2–4 Guest Room": {
+    "ja": "スタンダード2〜4名ルーム",
+    "zh-Hant": "標準2-4人房",
+    "ms": "Bilik Standard 2–4 Tetamu",
+    "th": "ห้องสแตนดาร์ดสำหรับ 2–4 ท่าน",
+    "id": "Kamar Standard 2–4 Tamu",
+    "fil": "Standard Room para sa 2–4",
+    "ko": "스탠다드 2~4인실"
+  },
+  "Various bed types": {
+    "ja": "各種ベッドタイプ",
+    "zh-Hant": "多樣化床型",
+    "ms": "Pelbagai jenis katil",
+    "th": "เตียงหลายรูปแบบ",
+    "id": "Beragam tipe tempat tidur",
+    "fil": "Iba't ibang uri ng kama",
+    "ko": "다양한 침대 구성"
+  },
+  "*": {
+    "ja": "※",
+    "zh-Hant": "※",
+    "ko": "※",
+    "ms": "*",
+    "th": "*",
+    "id": "*",
+    "fil": "*"
+  },
+  "* Except at certain properties.": {
+    "ja": "※一部施設を除く",
+    "zh-Hant": "※ 部分館別除外",
+    "ko": "※ 일부 숙소 제외",
+    "ms": "* Kecuali di hartanah tertentu.",
+    "th": "* ยกเว้นที่พักบางแห่ง",
+    "id": "* Kecuali di properti tertentu.",
+    "fil": "* Maliban sa ilang property."
   }
 }
