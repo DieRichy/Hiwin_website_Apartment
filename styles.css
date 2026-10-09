@@ -107,9 +107,6 @@ html:is([lang=th],[lang=id],[lang=fil]) .stats span{line-height:1.6}
  html:is([lang=th],[lang=id],[lang=fil]) .scene-controls{gap:4px}
 }
 
-@media(max-width:760px){
- html:is([lang=th],[lang=id],[lang=fil]) .hero-shade{background:linear-gradient(0deg,#171b16 0%,#171b16 39%,#171b16c0 52%,#171b1620 75%,transparent 100%),linear-gradient(90deg,#1116119c,#11161170)}
-}
 @media(max-width:360px){
  html:is([lang=th],[lang=id],[lang=fil]) .scene-controls button{width:26px}
  html:is([lang=th],[lang=id],[lang=fil]) .scene-controls button:after{width:22px;left:2px}
@@ -1167,7 +1164,6 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
  html[lang=ko] .partner-models h3{font-size:22px;line-height:1.5}
  html[lang=ko] .contact-info h3{font-size:clamp(30px,8.2vw,40px);line-height:1.45}
  html[lang=ko] .motion-toggle{max-width:58%;font-size:15px;line-height:1.5}
- html[lang=ko] .hero-shade{background:linear-gradient(0deg,#171b16 0%,#171b16 39%,#171b16c0 52%,#171b1620 75%,transparent 100%),linear-gradient(90deg,#11161190,#11161155)}
 }
 @media(max-width:360px){
  html[lang=ko] .scene-controls{gap:4px}
@@ -1401,3 +1397,6 @@ html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th]
 @media(max-width:360px){.agency-stats{grid-template-columns:repeat(3,minmax(0,1fr))}.agency-stats div{padding:0 6px}.agency-stats strong{font-size:24px}.agency-stats span{font-size:13px}}
 /* Malay hero heading (two longer lines since October 10, 2026): same desktop size as Indonesian so each line fits. */
 @media(min-width:761px){html[lang=ms] .hero h1{font-size:clamp(48px,5.1vw,82px)}}
+/* Phones: long-text languages get a smaller hero heading that scales with the screen, so it always sits on two lines
+   (measured on 375px: Korean fits up to 33px, Thai 32px, Malay 27px). Layout comes before size. */
+@media(max-width:760px){html[lang=ko] .hero h1{font-size:clamp(24px,8.4vw,46px)}html[lang=th] .hero h1{font-size:clamp(22px,8.1vw,44px)}html[lang=fil] .hero h1{font-size:clamp(24px,8.6vw,48px)}html:is([lang=ms],[lang=id]) .hero h1{font-size:clamp(21px,6.9vw,40px);line-height:1.2;letter-spacing:-.02em}}
