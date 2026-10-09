@@ -1187,24 +1187,6 @@
     "fil": "Oo. Para sa urgent requests, tawagan o i-message kami sa WhatsApp o LINE at iche-check agad namin ang availability.",
     "ko": "네. 급한 경우 전화, WhatsApp, LINE으로 연락 주시면 바로 객실 현황을 확인해 드립니다."
   },
-  "Do you have properties outside Osaka?": {
-    "ja": "大阪以外にも施設はありますか？",
-    "zh-Hant": "大阪以外也有物業嗎？",
-    "ms": "Adakah anda mempunyai hartanah di luar Osaka?",
-    "th": "มีที่พักนอกโอซาก้าไหม",
-    "id": "Apakah ada properti di luar Osaka?",
-    "fil": "May properties ba kayo sa labas ng Osaka?",
-    "ko": "오사카 외 지역에도 숙소가 있나요?"
-  },
-  "Yes. We also have properties in Kyoto, Tokyo, Okinawa, Kobe and Nagoya. Tell us your itinerary and we will suggest options.": {
-    "ja": "はい。京都・東京・沖縄・神戸・名古屋にも施設があります。行程をお知らせいただければご提案します。",
-    "zh-Hant": "有。我們在京都、東京、沖繩、神戶、名古屋也有物業，告訴我們行程，我們會為您推薦。",
-    "ms": "Ya. Kami juga mempunyai hartanah di Kyoto, Tokyo, Okinawa, Kobe dan Nagoya. Beritahu kami jadual perjalanan anda dan kami akan mencadangkan pilihan.",
-    "th": "มี เรายังมีที่พักในเกียวโต โตเกียว โอกินาวา โกเบ และนาโกย่า แจ้งแผนการเดินทางมา แล้วเราจะแนะนำตัวเลือกให้",
-    "id": "Ada. Kami juga memiliki properti di Kyoto, Tokyo, Okinawa, Kobe, dan Nagoya. Beri tahu itinerary Anda dan kami akan menyarankan pilihan.",
-    "fil": "Oo. May properties din kami sa Kyoto, Tokyo, Okinawa, Kobe at Nagoya. Sabihin lang ang inyong itinerary at magmumungkahi kami.",
-    "ko": "네. 교토, 도쿄, 오키나와, 고베, 나고야에도 숙소가 있습니다. 일정을 알려 주시면 추천해 드립니다."
-  },
   "Shinsaibashi 9 featured room": {
     "ja": "心斎橋9のおすすめ客室",
     "zh-Hant": "心齋橋9 精選房型",
@@ -1852,5 +1834,23 @@
     "th": "* ยกเว้นที่พักบางแห่ง",
     "id": "* Kecuali di properti tertentu.",
     "fil": "* Maliban sa ilang property."
+  },
+  "How are additional guests charged?": {
+    "ja": "追加人数の料金はどうなりますか？",
+    "zh-Hant": "加人怎麼計費？",
+    "ms": "Berapakah caj untuk tetamu tambahan?",
+    "th": "เพิ่มผู้เข้าพักคิดค่าใช้จ่ายอย่างไร",
+    "id": "Berapa biaya untuk tamu tambahan?",
+    "fil": "Magkano ang singil sa dagdag na bisita?",
+    "ko": "인원을 추가하면 요금은 어떻게 되나요?"
+  },
+  "Rates are for 2 guests per room. Each additional guest is JPY 2,800 per night, including breakfast and accommodation tax, up to the room's maximum occupancy. Children under 6 stay free when not using a bed.": {
+    "ja": "料金は1室2名利用が基準で、追加1名につき1泊2,800円（朝食・宿泊税込み）です。各客室の定員までご利用いただけます。6歳未満のお子さまは、ベッドを使用しない場合は無料です。",
+    "zh-Hant": "房價以每房2人計算，每加1人每晚加收2,800日圓（含早餐及住宿稅），最多可加至各房型的可住人數上限。未滿6歲兒童不佔床可免費入住。",
+    "ms": "Kadar berdasarkan 2 tetamu sebilik. Setiap tetamu tambahan dikenakan JPY 2,800 semalam, termasuk sarapan dan cukai penginapan, sehingga had maksimum bilik. Kanak-kanak bawah 6 tahun menginap percuma jika tidak menggunakan katil.",
+    "th": "ราคาคิดตามการเข้าพัก 2 ท่านต่อห้อง เพิ่มผู้เข้าพัก 1 ท่าน คิดเพิ่ม 2,800 เยนต่อคืน รวมอาหารเช้าและภาษีที่พักแล้ว เพิ่มได้ไม่เกินจำนวนผู้เข้าพักสูงสุดของห้อง เด็กอายุต่ำกว่า 6 ปีเข้าพักฟรี หากไม่ใช้เตียง",
+    "id": "Tarif berdasarkan 2 tamu per kamar. Setiap tambahan tamu dikenakan JPY 2,800 per malam, termasuk sarapan dan pajak penginapan, hingga kapasitas maksimum kamar. Anak di bawah 6 tahun menginap gratis jika tidak menggunakan tempat tidur.",
+    "fil": "Batay sa 2 bisita bawat kuwarto ang rates. JPY 2,800 kada gabi ang bawat dagdag na bisita, kasama ang almusal at accommodation tax, hanggang sa maximum na bilang ng bisita ng kuwarto. Libre ang mga batang wala pang 6 na taon kung hindi gagamit ng kama.",
+    "ko": "요금은 객실당 2인 기준이며, 1인 추가 시 1박당 2,800엔(조식·숙박세 포함)이 추가됩니다. 객실별 최대 인원까지 추가할 수 있으며, 6세 미만 어린이는 침대를 사용하지 않으면 무료입니다."
   }
 }
