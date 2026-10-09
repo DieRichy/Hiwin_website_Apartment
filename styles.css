@@ -1262,7 +1262,8 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
 .ch{display:block;width:1em;height:1em;background:currentColor;-webkit-mask:center/contain no-repeat;mask:center/contain no-repeat}
 .ch-whatsapp{-webkit-mask-image:url("assets/icons/whatsapp.svg");mask-image:url("assets/icons/whatsapp.svg")}.ch-line{-webkit-mask-image:url("assets/icons/line.svg");mask-image:url("assets/icons/line.svg")}.ch-wechat{-webkit-mask-image:url("assets/icons/wechat.svg");mask-image:url("assets/icons/wechat.svg")}.ch-phone{-webkit-mask-image:url("assets/icons/phone.svg");mask-image:url("assets/icons/phone.svg")}.ch-mail{-webkit-mask-image:url("assets/icons/mail.svg");mask-image:url("assets/icons/mail.svg")}
 .ch-badge{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;width:34px;height:34px;border-radius:50%;background:var(--ink);color:#fff;font-size:17px}
-/* One-stop support dock (pages/_support.html, support.js): sits under the header so the open phone menu covers it. */
+/* One-stop support dock (pages/_support.html, support.js): bottom right on wide screens; top right just below the
+   72px header on phones. It sits under the header so the open phone menu and the language list cover it. */
 .support-dock{position:fixed;right:24px;bottom:24px;z-index:15;transition:opacity .3s,transform .3s,visibility .3s}
 .support-dock.is-away{opacity:0;visibility:hidden;transform:translateY(16px);pointer-events:none}
 .support-dock.is-collapsed .support-bar,.support-dock:not(.is-collapsed) .support-show{display:none}
@@ -1276,7 +1277,7 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
 .support-dock :focus-visible{outline-offset:-4px}
 html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th] .support-eyebrow,html[lang=ko] .support-eyebrow{letter-spacing:.5px}
 /* Phones: icons only, one tap straight to the contact page; slides away while scrolling down (support.js). */
-@media(max-width:760px){.support-dock{right:12px;bottom:calc(14px + env(safe-area-inset-bottom))}.support-dock.is-tucked{opacity:0;visibility:hidden;transform:translateY(calc(100% + 24px));pointer-events:none}
+@media(max-width:760px){.support-dock{right:12px;top:82px;bottom:auto}.support-dock.is-away{transform:translateY(-12px)}.support-dock.is-tucked{opacity:0;visibility:hidden;transform:translateY(-12px);pointer-events:none}
 .support-link{gap:0;padding:9px 10px}.support-text{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.support-arrow,.support-hide{display:none}.support-icons>span{width:30px;height:30px;font-size:15px}
 .support-dock.is-collapsed .support-bar{display:flex}.support-dock.is-collapsed .support-show{display:none}}
 @media print{.support-dock{display:none}}
@@ -1284,7 +1285,7 @@ html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th]
 .contact-tel,.contact-channels dt{display:flex;align-items:center;gap:8px;width:auto;font-size:14px;font-weight:400;line-height:1.4;color:#d3c9bc}.contact-tel{margin-top:30px;letter-spacing:1px}.contact-tel .ch,.contact-channels dt .ch{font-size:16px;flex-shrink:0}.contact-tel+.phone{margin-top:2px}
 .contact-channels{margin-top:24px}.contact-channels div{display:block;margin-top:0}.contact-channels dd{margin-top:10px}
 @media(max-width:760px){.contact-tel{margin-top:24px}}
-/* Contact panel QR codes: scan from a computer, tap on a phone. One row per number. */
+/* Contact panel QR codes: scan from a computer, tap on a phone. One row: WhatsApp and LINE (+81 70-3205-9967) and WeChat. */
 .contact-qr{margin-top:28px;padding-top:22px;border-top:1px solid #ffffff30}.contact-qr-title{font-size:14px;line-height:1.5;color:#d3c9bc;margin-bottom:14px}.contact-qr-title span:before{content:"·";margin:0 8px 0 4px}
 .contact-qr-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px 16px;max-width:460px}.contact-qr-grid>*{display:flex;flex-direction:column;min-width:0}
 .contact-qr-grid img{width:100%;max-width:128px;height:auto;aspect-ratio:1;background:#fff}
@@ -1367,3 +1368,17 @@ html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th]
 /* Enquiry notes (what to send, reply time): in the contact panel and under the contact page summary. */
 .contact-notes{list-style:none;margin:14px 0 0;padding:0;font-size:15px;line-height:1.6;color:#e8dcc6}.contact-notes li{position:relative;padding-left:14px}.contact-notes li+li{margin-top:4px}.contact-notes li:before{content:"";position:absolute;left:0;top:.65em;width:5px;height:5px;border-radius:50%;background:#dbc396}
 .cp-notes{margin-top:18px;font-size:16px;color:var(--ink)}.cp-notes li:before{background:var(--gold)}
+/* Back-to-top button (pages/_support.html, support.js): bottom right, in the dock's ink-and-gold style. On wide screens
+   it sits 12px above the dock (61px tall, 56px minimised) and drops to the corner while the dock is hidden. */
+.to-top{position:fixed;right:24px;bottom:24px;z-index:15;display:flex;align-items:center;justify-content:center;width:48px;height:48px;padding:0;border:0;border-top:2px solid var(--gold);background:var(--ink);color:#fff;box-shadow:0 12px 30px #0000002e,0 0 0 1px #ffffff26;cursor:pointer;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .3s,transform .3s,visibility .3s,background .2s}
+.to-top.is-shown{opacity:1;visibility:visible;transform:none}@media(min-width:761px){.to-top{bottom:97px;transition:opacity .3s,transform .3s,visibility .3s,background .2s,bottom .3s}.support-dock.is-collapsed~.to-top{bottom:92px}.support-dock.is-away~.to-top{bottom:24px}}.to-top:hover{background:#45413a}.to-top svg{width:22px;height:22px}.to-top:focus-visible{outline-offset:-4px}
+@media(max-width:760px){.to-top{right:12px;bottom:calc(14px + env(safe-area-inset-bottom));width:44px;height:44px}}
+@media print{.to-top{display:none}}
+/* Hero: four key facts above the heading, in the eyebrow style, each after a small gold square. */
+.hero-points{display:flex;flex-wrap:wrap;gap:6px 18px}.hero-points span{display:inline-flex;align-items:center;gap:8px}.hero-points span:before{content:"";width:5px;height:5px;background:#dbc396;flex-shrink:0}
+/* Phones: the four facts form a 2x2 grid, and the hero grows (instead of overflowing upwards) when they wrap.
+   Malay, Thai, Indonesian and Filipino keep their own taller minimum heights. */
+@media(max-width:760px){.hero .hero-points{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 12px;max-width:100%;letter-spacing:.3px}.hero-points span{align-items:flex-start;min-width:0;overflow-wrap:anywhere}.hero-points span:before{margin-top:.55em}
+.hero{height:auto;min-height:max(660px,calc(100svh - 72px));max-height:none}.hero .hero-content{min-height:inherit;padding-top:56px}}
+/* Header "Partner with us" on wide screens: a filled gold button, like the hero's main button. */
+@media(min-width:1101px){.site-header nav .nav-contact{background:#dbc396;border-color:#dbc396;color:var(--ink);font-weight:700}.site-header nav .nav-contact:hover,.site-header nav .nav-contact:focus-visible{background:var(--ink);border-color:var(--ink);color:#fff}}
