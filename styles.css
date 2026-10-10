@@ -1258,8 +1258,8 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
 .ch{display:block;width:1em;height:1em;background:currentColor;-webkit-mask:center/contain no-repeat;mask:center/contain no-repeat}
 .ch-whatsapp{-webkit-mask-image:url("assets/icons/whatsapp.svg");mask-image:url("assets/icons/whatsapp.svg")}.ch-line{-webkit-mask-image:url("assets/icons/line.svg");mask-image:url("assets/icons/line.svg")}.ch-wechat{-webkit-mask-image:url("assets/icons/wechat.svg");mask-image:url("assets/icons/wechat.svg")}.ch-phone{-webkit-mask-image:url("assets/icons/phone.svg");mask-image:url("assets/icons/phone.svg")}.ch-mail{-webkit-mask-image:url("assets/icons/mail.svg");mask-image:url("assets/icons/mail.svg")}
 .ch-badge{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;width:34px;height:34px;border-radius:50%;background:var(--ink);color:#fff;font-size:18px}
-/* One-stop support dock (pages/_support.html, support.js): bottom right on wide screens; top right just below the
-   72px header on phones. It sits under the header so the open phone menu and the language list cover it. */
+/* One-stop support dock (pages/_support.html, support.js): bottom right, open by default, can be minimised. It sits
+   under the header so the open phone menu and the language list cover it. */
 .support-dock{position:fixed;right:24px;bottom:24px;z-index:15;transition:opacity .3s,transform .3s,visibility .3s}
 .support-dock.is-away{opacity:0;visibility:hidden;transform:translateY(16px);pointer-events:none}
 .support-dock.is-collapsed .support-bar,.support-dock:not(.is-collapsed) .support-show{display:none}
@@ -1269,13 +1269,13 @@ html[lang=ko] .restaurant-grid h4{font-family:"Hiragino Kaku Gothic ProN","Yu Go
 .support-text{display:flex;flex-direction:column;line-height:1.35}.support-eyebrow{font-size:12px;font-weight:700;letter-spacing:1.6px;color:#dbc396}.support-title{font-size:16px;font-weight:600}
 .support-arrow{width:18px;height:18px;color:#dbc396;transition:transform .2s}.support-link:hover .support-arrow{transform:translateX(3px)}
 .support-hide{display:flex;align-items:center;justify-content:center;width:40px;padding:0;border:0;border-left:1px solid #ffffff24;background:transparent;color:#bdb9b1;cursor:pointer}.support-hide:hover{color:#fff}.support-hide svg{width:18px;height:18px}
-.support-show{display:flex;align-items:center;justify-content:center;width:54px;height:54px;padding:0;border:0;border-top:2px solid var(--gold);background:var(--ink);color:#fff;box-shadow:0 12px 30px #0000002e;cursor:pointer}.support-show:hover{background:#45413a}.support-show svg{width:26px;height:26px}
+.support-show{display:flex;align-items:center;justify-content:center;width:54px;height:54px;padding:0;border:0;border-top:2px solid var(--gold);background:var(--ink);color:#fff;box-shadow:0 12px 30px #0000002e,0 0 0 1px #ffffff26;cursor:pointer}.support-show:hover{background:#45413a}.support-show svg{width:26px;height:26px}
 .support-dock :focus-visible{outline-offset:-4px}
 html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th] .support-eyebrow,html[lang=ko] .support-eyebrow{letter-spacing:.5px}
-/* Phones: icons only, one tap straight to the contact page; slides away while scrolling down (support.js). */
-@media(max-width:760px){.support-dock{right:12px;top:82px;bottom:auto}.support-dock.is-away{transform:translateY(-12px)}.support-dock.is-tucked{opacity:0;visibility:hidden;transform:translateY(-12px);pointer-events:none}
-.support-link{gap:0;padding:9px 10px}.support-text{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}.support-arrow,.support-hide{display:none}.support-icons>span{width:30px;height:30px;font-size:16px}
-.support-dock.is-collapsed .support-bar{display:flex}.support-dock.is-collapsed .support-show{display:none}}
+/* Phones: the same open bar, a little tighter (58px tall, 50px minimised); the longer Filipino title wraps. */
+@media(max-width:760px){.support-dock{right:12px;bottom:calc(14px + env(safe-area-inset-bottom));max-width:calc(100% - 24px)}
+.support-link{gap:11px;min-height:56px;padding:8px 12px}.support-icons>span{width:30px;height:30px;font-size:16px}.support-arrow{display:none}.support-hide{width:40px}
+.support-show{width:50px;height:50px}.support-show svg{width:24px;height:24px}.support-title{text-wrap:balance}}
 @media print{.support-dock{display:none}}
 /* Contact panel: every block is a small label (TEL, Email, Scan to chat, Company address) above its content. */
 .contact-tel,.contact-channels dt{display:flex;align-items:center;gap:8px;width:auto;font-size:15px;font-weight:400;line-height:1.4;color:#d3c9bc}.contact-tel{margin-top:30px;letter-spacing:1px}.contact-tel .ch,.contact-channels dt .ch{font-size:17px;flex-shrink:0}.contact-tel+.phone{margin-top:2px}
@@ -1364,11 +1364,12 @@ html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th]
 /* Enquiry notes (what to send, reply time): in the contact panel and under the contact page summary. */
 .contact-notes{list-style:none;margin:14px 0 0;padding:0;font-size:16px;line-height:1.6;color:#e8dcc6}.contact-notes li{position:relative;padding-left:14px}.contact-notes li+li{margin-top:4px}.contact-notes li:before{content:"";position:absolute;left:0;top:.65em;width:5px;height:5px;border-radius:50%;background:#dbc396}
 .cp-notes{margin-top:18px;font-size:17px;color:var(--ink)}.cp-notes li:before{background:var(--gold)}
-/* Back-to-top button (pages/_support.html, support.js): bottom right, in the dock's ink-and-gold style. On wide screens
-   it sits 12px above the dock (61px tall, 56px minimised) and drops to the corner while the dock is hidden. */
-.to-top{position:fixed;right:24px;bottom:24px;z-index:15;display:flex;align-items:center;justify-content:center;width:48px;height:48px;padding:0;border:0;border-top:2px solid var(--gold);background:var(--ink);color:#fff;box-shadow:0 12px 30px #0000002e,0 0 0 1px #ffffff26;cursor:pointer;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .3s,transform .3s,visibility .3s,background .2s}
-.to-top.is-shown{opacity:1;visibility:visible;transform:none}@media(min-width:761px){.to-top{bottom:97px;transition:opacity .3s,transform .3s,visibility .3s,background .2s,bottom .3s}.support-dock.is-collapsed~.to-top{bottom:92px}.support-dock.is-away~.to-top{bottom:24px}}.to-top:hover{background:#45413a}.to-top svg{width:22px;height:22px}.to-top:focus-visible{outline-offset:-4px}
-@media(max-width:760px){.to-top{right:12px;bottom:calc(14px + env(safe-area-inset-bottom));width:44px;height:44px}}
+/* Back-to-top button (pages/_support.html, support.js): bottom right, the same square as the minimised dock. It sits 12px
+   (10px on phones) above the dock, whose height support.js keeps in --dock-height, and drops to the corner while the
+   dock is hidden. */
+.to-top{position:fixed;right:24px;bottom:24px;z-index:15;display:flex;align-items:center;justify-content:center;width:54px;height:54px;padding:0;border:0;border-top:2px solid var(--gold);background:var(--ink);color:#fff;box-shadow:0 12px 30px #0000002e,0 0 0 1px #ffffff26;cursor:pointer;opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .3s,transform .3s,visibility .3s,background .2s}
+.to-top.is-shown{opacity:1;visibility:visible;transform:none}@media(min-width:761px){.to-top{bottom:calc(36px + var(--dock-height,61px));transition:opacity .3s,transform .3s,visibility .3s,background .2s,bottom .3s}.support-dock.is-away~.to-top{bottom:24px}}.to-top:hover{background:#45413a}.to-top svg{width:22px;height:22px}.to-top:focus-visible{outline-offset:-4px}
+@media(max-width:760px){.to-top{right:12px;bottom:calc(24px + var(--dock-height,58px) + env(safe-area-inset-bottom));width:50px;height:50px;transition:opacity .3s,transform .3s,visibility .3s,background .2s,bottom .3s}.support-dock.is-away~.to-top{bottom:calc(14px + env(safe-area-inset-bottom))}}
 @media print{.to-top{display:none}}
 /* Hero: four key facts above the heading, each after a small white square. White text with a soft shadow so it reads over
    the photo or video (no background box). */
