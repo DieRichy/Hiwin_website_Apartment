@@ -62,24 +62,6 @@
     "fil": "Featured Apartment Hotel 11 properties sa central Osaka para sa travel agencies: family at group rooms mula 25㎡ na may kusina, breakfast delivery at partner rates kapag nag-inquire.",
     "ko": "여행사를 위한 오사카 중심부 Apartment Hotel 11 추천 숙소. 주방이 있는 25㎡ 이상 가족·단체 객실, 조식 배달 포함, 제휴 요금은 문의해 주세요."
   },
-  "Agency Partnership & Booking Terms | Apartment Hotel 11": {
-    "ja": "旅行会社さまとのお取引・予約条件｜Apartment Hotel 11",
-    "zh-Hant": "旅行社同業合作與訂房條件｜住一 Apartment Hotel 11",
-    "ms": "Kerjasama Agensi & Terma Tempahan | Apartment Hotel 11",
-    "th": "ความร่วมมือกับบริษัทนำเที่ยวและเงื่อนไขการจอง | Apartment Hotel 11",
-    "id": "Kemitraan Agen & Ketentuan Pemesanan | Apartment Hotel 11",
-    "fil": "Agency Partnership at Booking Terms | Apartment Hotel 11",
-    "ko": "여행사 제휴 및 예약 조건 | Apartment Hotel 11"
-  },
-  "How travel agencies work with Apartment Hotel 11 by HIWIN in Osaka: partner rates on request, stay conditions, cancellation policy and booking steps.": {
-    "ja": "HIWINが運営する大阪のApartment Hotel 11と旅行会社さまのお取引について。取引料金のご案内、宿泊条件、キャンセルポリシー、ご予約の流れをまとめています。",
-    "zh-Hant": "旅行社如何與 HIWIN 旗下大阪住一 Apartment Hotel 11 公寓式飯店合作：同業價格洽詢、住宿條件、取消政策與訂房流程一次看懂。",
-    "ms": "Cara agensi pelancongan bekerjasama dengan Apartment Hotel 11 oleh HIWIN di Osaka: kadar rakan kongsi atas permintaan, syarat penginapan, polisi pembatalan dan langkah tempahan.",
-    "th": "บริษัทนำเที่ยวร่วมงานกับ Apartment Hotel 11 โดย HIWIN ในโอซาก้าอย่างไร: ราคาเอเจนต์ตามคำขอ เงื่อนไขการเข้าพัก นโยบายการยกเลิก และขั้นตอนการจอง",
-    "id": "Cara agen perjalanan bermitra dengan Apartment Hotel 11 by HIWIN di Osaka: tarif mitra sesuai permintaan, ketentuan menginap, kebijakan pembatalan, dan langkah pemesanan.",
-    "fil": "Paano nakikipag-partner ang travel agencies sa Apartment Hotel 11 ng HIWIN sa Osaka: partner rates kapag nag-inquire, kondisyon ng stay, cancellation policy at booking steps.",
-    "ko": "여행사가 HIWIN의 오사카 Apartment Hotel 11과 제휴하는 방법: 제휴 요금 문의, 숙박 조건, 취소 규정, 예약 절차를 한눈에 확인하세요."
-  },
   "FOR TRAVEL AGENCIES · OSAKA": {
     "ja": "旅行会社さま向け・大阪",
     "zh-Hant": "旅行社專區・大阪",
@@ -1906,5 +1888,176 @@
     "id": "* Fasilitas berbeda di setiap properti.",
     "fil": "* Nag-iiba ang mga pasilidad depende sa property.",
     "ko": "※ 설비는 숙소에 따라 다릅니다."
+  },
+  "Agency Partnership & Group Bookings | Apartment Hotel 11": {
+    "ja": "旅行会社さまとのお取引・団体予約｜Apartment Hotel 11",
+    "zh-Hant": "旅行社同業合作・團體訂房｜住一 Apartment Hotel 11",
+    "ms": "Kerjasama Agensi & Tempahan Kumpulan | Apartment Hotel 11",
+    "th": "ความร่วมมือกับบริษัทนำเที่ยวและการจองกรุ๊ป | Apartment Hotel 11",
+    "id": "Kemitraan Agen & Pemesanan Rombongan | Apartment Hotel 11",
+    "fil": "Agency Partnership at Group Booking | Apartment Hotel 11",
+    "ko": "여행사 제휴 및 단체 예약 | Apartment Hotel 11"
+  },
+  "How travel agencies work with Apartment Hotel 11 by HIWIN in Osaka: group stays, partner rates on request, stay conditions, cancellation policy and booking steps.": {
+    "ja": "HIWINが運営する大阪のApartment Hotel 11と旅行会社さまのお取引について。団体宿泊のご手配、取引料金のご案内、宿泊条件、キャンセルポリシー、ご予約の流れをまとめています。",
+    "zh-Hant": "旅行社與 HIWIN 旗下大阪住一 Apartment Hotel 11 合作：團體住宿安排、同業價格洽詢、住宿條件、取消政策與訂房流程。",
+    "ms": "Cara agensi pelancongan bekerjasama dengan Apartment Hotel 11 oleh HIWIN di Osaka: penginapan berkumpulan, kadar rakan kongsi atas permintaan, syarat penginapan, polisi pembatalan dan langkah tempahan.",
+    "th": "บริษัทนำเที่ยวร่วมงานกับ Apartment Hotel 11 โดย HIWIN ในโอซาก้า: ที่พักสำหรับกรุ๊ป ราคาเอเจนต์ตามคำขอ เงื่อนไขการเข้าพัก นโยบายการยกเลิก และขั้นตอนการจอง",
+    "id": "Cara agen perjalanan bermitra dengan Apartment Hotel 11 by HIWIN di Osaka: penginapan rombongan, tarif mitra sesuai permintaan, ketentuan menginap, kebijakan pembatalan, dan langkah pemesanan.",
+    "fil": "Paano nakikipag-partner ang travel agencies sa Apartment Hotel 11 ng HIWIN sa Osaka: group stays, partner rates kapag nag-inquire, kondisyon ng stay, cancellation policy at booking steps.",
+    "ko": "여행사가 HIWIN의 오사카 Apartment Hotel 11과 제휴하는 방법: 단체 숙박, 제휴 요금 문의, 숙박 조건, 취소 규정, 예약 절차를 한눈에 확인하세요."
+  },
+  "GROUP STAYS": {
+    "ja": "団体のご宿泊",
+    "zh-Hant": "團體住宿",
+    "ms": "PENGINAPAN BERKUMPULAN",
+    "th": "ที่พักสำหรับกรุ๊ป",
+    "id": "PENGINAPAN ROMBONGAN",
+    "fil": "GROUP STAYS",
+    "ko": "단체 숙박"
+  },
+  "Group stays in Osaka.": {
+    "ja": "大阪での団体宿泊",
+    "zh-Hant": "大阪團體住宿安排",
+    "ms": "Penginapan berkumpulan di Osaka.",
+    "th": "ที่พักสำหรับกรุ๊ปในโอซาก้า",
+    "id": "Penginapan rombongan di Osaka.",
+    "fil": "Group stays sa Osaka.",
+    "ko": "오사카 단체 숙박"
+  },
+  "For graduation trips, company trips and tour groups, we arrange rooms in one building or across several buildings in the same area.": {
+    "ja": "修学旅行・社員旅行・ツアー団体など、1館または同じエリアの複数館で客室をご用意します。",
+    "zh-Hant": "畢業旅行、員工旅遊、旅行團等，可安排同一館，或同一區域的多館入住。",
+    "ms": "Untuk lawatan tamat sekolah, lawatan syarikat dan kumpulan pelancongan, kami menyediakan bilik di satu bangunan atau beberapa bangunan di kawasan yang sama.",
+    "th": "สำหรับทริปจบการศึกษา ทริปบริษัท และกรุ๊ปทัวร์ เราจัดห้องพักในอาคารเดียว หรือหลายอาคารในย่านเดียวกัน",
+    "id": "Untuk study tour, perjalanan perusahaan, dan rombongan tur, kami menyiapkan kamar di satu gedung atau beberapa gedung di area yang sama.",
+    "fil": "Para sa graduation trip, company trip at tour group, naghahanda kami ng mga kuwarto sa iisang building o sa ilang building sa parehong lugar.",
+    "ko": "수학여행, 기업 단체여행, 패키지 투어 등 단체 고객을 위해 한 건물 또는 같은 지역의 여러 건물에 객실을 준비해 드립니다."
+  },
+  "Room capacity": {
+    "ja": "客室数",
+    "zh-Hant": "房量",
+    "ms": "Kapasiti bilik",
+    "th": "จำนวนห้อง",
+    "id": "Kapasitas kamar",
+    "fil": "Bilang ng kuwarto",
+    "ko": "객실 규모"
+  },
+  "Each building averages around 50 to 70 rooms, and some have more than 100.": {
+    "ja": "1館あたり平均50〜70室、100室を超える施設もあります。",
+    "zh-Hant": "每館平均約50至70間客房，部分超過100間。",
+    "ms": "Setiap bangunan mempunyai purata 50 hingga 70 bilik, dan ada yang melebihi 100.",
+    "th": "แต่ละอาคารมีเฉลี่ย 50–70 ห้อง บางแห่งมีมากกว่า 100 ห้อง",
+    "id": "Rata-rata setiap gedung memiliki 50 hingga 70 kamar, dan beberapa lebih dari 100.",
+    "fil": "Karaniwang may 50 hanggang 70 kuwarto ang bawat building, at may ilang lampas 100.",
+    "ko": "건물당 평균 50~70실이며, 100실이 넘는 곳도 있습니다."
+  },
+  "One building or several": {
+    "ja": "1館でも複数館でも",
+    "zh-Hant": "一館或多館",
+    "ms": "Satu atau beberapa bangunan",
+    "th": "อาคารเดียวหรือหลายอาคาร",
+    "id": "Satu atau beberapa gedung",
+    "fil": "Isa o ilang building",
+    "ko": "한 건물 또는 여러 건물"
+  },
+  "Larger groups can stay across several buildings in the same area, such as Namba, Kuromon or Shin-Imamiya.": {
+    "ja": "大人数の団体は、難波・黒門・新今宮など同じエリアの複数館に分けてご宿泊いただけます。",
+    "zh-Hant": "人數較多的團體，可分住難波、黑門、新今宮等同一區域的多館。",
+    "ms": "Kumpulan besar boleh menginap di beberapa bangunan dalam kawasan yang sama, seperti Namba, Kuromon atau Shin-Imamiya.",
+    "th": "กรุ๊ปขนาดใหญ่สามารถแยกพักหลายอาคารในย่านเดียวกัน เช่น นัมบะ คุโรมง หรือชินอิมามิยะ",
+    "id": "Rombongan besar dapat menginap di beberapa gedung di area yang sama, seperti Namba, Kuromon, atau Shin-Imamiya.",
+    "fil": "Puwedeng hatiin ang malalaking grupo sa ilang building sa parehong lugar, gaya ng Namba, Kuromon o Shin-Imamiya.",
+    "ko": "인원이 많은 단체는 난바, 구로몬, 신이마미야 등 같은 지역의 여러 건물에 나누어 숙박할 수 있습니다."
+  },
+  "Rooms for 2 to 4 guests": {
+    "ja": "2〜4名向けの客室",
+    "zh-Hant": "2至4人房型",
+    "ms": "Bilik untuk 2 hingga 4 tetamu",
+    "th": "ห้องสำหรับ 2–4 ท่าน",
+    "id": "Kamar untuk 2 hingga 4 tamu",
+    "fil": "Kuwarto para sa 2 hanggang 4 na bisita",
+    "ko": "2~4인 객실"
+  },
+  "Most featured room types sleep 2 to 4 guests. Family rooms and larger suites are also available.": {
+    "ja": "おすすめ客室の多くは2〜4名でご利用いただけます。ファミリールームや広めのスイートもございます。",
+    "zh-Hant": "多數精選房型可住2至4人，另有家庭房與大坪數套房。",
+    "ms": "Kebanyakan jenis bilik pilihan memuatkan 2 hingga 4 tetamu. Bilik keluarga dan suite yang lebih besar juga tersedia.",
+    "th": "ห้องแนะนำส่วนใหญ่พักได้ 2–4 ท่าน และยังมีห้องแฟมิลี่และห้องสวีทขนาดใหญ่",
+    "id": "Sebagian besar tipe kamar pilihan muat 2 hingga 4 tamu. Kamar keluarga dan suite yang lebih luas juga tersedia.",
+    "fil": "Kasya ang 2 hanggang 4 na bisita sa karamihan ng featured room types. May family room at mas malalaking suite din.",
+    "ko": "추천 객실 대부분은 2~4명이 숙박할 수 있으며, 패밀리룸과 더 넓은 스위트룸도 있습니다."
+  },
+  "Coach access and breakfast": {
+    "ja": "観光バスと朝食",
+    "zh-Hant": "遊覽車與早餐",
+    "ms": "Akses bas dan sarapan",
+    "th": "รถบัสและอาหารเช้า",
+    "id": "Akses bus dan sarapan",
+    "fil": "Tour bus at almusal",
+    "ko": "관광버스와 조식"
+  },
+  "Easy tour coach pick-up and drop-off, with breakfast delivery included.": {
+    "ja": "観光バスの乗降がスムーズで、朝食デリバリー付きです。",
+    "zh-Hant": "遊覽車上下車方便，並含早餐配送。",
+    "ms": "Mudah untuk menurunkan dan mengambil penumpang bas persiaran, termasuk penghantaran sarapan.",
+    "th": "รถบัสนำเที่ยวรับส่งได้สะดวก และรวมบริการส่งอาหารเช้า",
+    "id": "Mudah untuk naik-turun bus wisata, termasuk antar sarapan.",
+    "fil": "Madali ang pick-up at drop-off ng tour bus, at kasama ang breakfast delivery.",
+    "ko": "관광버스 승하차가 편리하고 조식 배달이 포함됩니다."
+  },
+  "For a group quotation, please send:": {
+    "ja": "団体のお見積りには、以下をお知らせください。",
+    "zh-Hant": "團體詢價請提供：",
+    "ms": "Untuk sebut harga kumpulan, sila hantar:",
+    "th": "ขอใบเสนอราคาสำหรับกรุ๊ป กรุณาแจ้ง:",
+    "id": "Untuk penawaran harga rombongan, mohon kirimkan:",
+    "fil": "Para sa group quotation, pakipadala:",
+    "ko": "단체 견적을 원하시면 아래 내용을 보내 주세요:"
+  },
+  "Stay dates": {
+    "ja": "ご宿泊日程",
+    "zh-Hant": "入住日期",
+    "ms": "Tarikh menginap",
+    "th": "วันที่เข้าพัก",
+    "id": "Tanggal menginap",
+    "fil": "Petsa ng stay",
+    "ko": "숙박 일정"
+  },
+  "Number of guests and rooms": {
+    "ja": "人数と部屋数",
+    "zh-Hant": "人數與房間數",
+    "ms": "Bilangan tetamu dan bilik",
+    "th": "จำนวนผู้เข้าพักและจำนวนห้อง",
+    "id": "Jumlah tamu dan kamar",
+    "fil": "Bilang ng bisita at kuwarto",
+    "ko": "인원 및 객실 수"
+  },
+  "Preferred area or buildings": {
+    "ja": "ご希望のエリアまたは施設",
+    "zh-Hant": "希望的區域或館別",
+    "ms": "Kawasan atau bangunan pilihan",
+    "th": "ย่านหรืออาคารที่ต้องการ",
+    "id": "Area atau gedung yang diinginkan",
+    "fil": "Gustong lugar o building",
+    "ko": "희망 지역 또는 건물"
+  },
+  "Any special requests": {
+    "ja": "その他のご要望",
+    "zh-Hant": "其他需求",
+    "ms": "Permintaan lain",
+    "th": "ความต้องการอื่น ๆ",
+    "id": "Permintaan lainnya",
+    "fil": "Iba pang request",
+    "ko": "기타 요청 사항"
+  },
+  "See room counts by building": {
+    "ja": "施設ごとの客室数を見る",
+    "zh-Hant": "查看各館房間數",
+    "ms": "Lihat bilangan bilik setiap bangunan",
+    "th": "ดูจำนวนห้องของแต่ละอาคาร",
+    "id": "Lihat jumlah kamar per gedung",
+    "fil": "Tingnan ang bilang ng kuwarto bawat building",
+    "ko": "건물별 객실 수 보기"
   }
 }

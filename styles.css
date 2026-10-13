@@ -1401,3 +1401,5 @@ html[lang=ja] .support-eyebrow,html[lang=zh-Hant] .support-eyebrow,html[lang=th]
 /* Phones: long-text languages get a smaller hero heading that scales with the screen, so it always sits on two lines
    (measured on 375px: Korean fits up to 33px, Thai 32px, Malay 27px). Layout comes before size. */
 @media(max-width:760px){html[lang=ko] .hero h1{font-size:clamp(24px,8.4vw,46px)}html[lang=th] .hero h1{font-size:clamp(22px,8.1vw,44px)}html[lang=fil] .hero h1{font-size:clamp(24px,8.6vw,48px)}html:is([lang=ms],[lang=id]) .hero h1{font-size:clamp(21px,6.9vw,40px);line-height:1.2;letter-spacing:-.02em}}
+/* Partnership page: group stays section added after "Why"; keep white/cream alternating. */
+.op-groups{background:var(--paper)}.op-groups .op-model-list{margin-top:40px}.op-conditions{background:var(--cream)}.op-how{background:var(--paper)}
