@@ -1664,15 +1664,6 @@
     "fil": "2 gabi (maliban sa Kansai Airport)",
     "ko": "2박 (간사이공항 제외)"
   },
-  "Rates are based on 2 guests per room. Each additional guest is JPY 2,800 per night, including breakfast and accommodation tax.": {
-    "ja": "料金は1室2名利用が基準です。追加1名につき1泊2,800円（朝食・宿泊税込み）を申し受けます。",
-    "zh-Hant": "房價以每房2人入住計算，每加1人每晚加收2,800日圓（含早餐及住宿稅）。",
-    "ms": "Kadar berdasarkan 2 tetamu sebilik. Setiap tetamu tambahan dikenakan JPY 2,800 semalam, termasuk sarapan dan cukai penginapan.",
-    "th": "ราคาคิดตามการเข้าพัก 2 ท่านต่อห้อง เพิ่มผู้เข้าพัก 1 ท่าน คิดเพิ่ม 2,800 เยนต่อคืน รวมอาหารเช้าและภาษีที่พักแล้ว",
-    "id": "Tarif berdasarkan 2 tamu per kamar. Setiap tambahan tamu dikenakan JPY 2,800 per malam, termasuk sarapan dan pajak penginapan.",
-    "fil": "Batay sa 2 bisita bawat kuwarto ang rates. JPY 2,800 kada gabi ang bawat dagdag na bisita, kasama ang almusal at accommodation tax.",
-    "ko": "요금은 객실당 2인 기준이며, 1인 추가 시 1박당 2,800엔(조식·숙박세 포함)이 추가됩니다."
-  },
   "Children": {
     "ja": "お子さま",
     "zh-Hant": "兒童",
@@ -1789,15 +1780,6 @@
     "id": "Berapa biaya untuk tamu tambahan?",
     "fil": "Magkano ang singil sa dagdag na bisita?",
     "ko": "인원을 추가하면 요금은 어떻게 되나요?"
-  },
-  "Rates are for 2 guests per room. Each additional guest is JPY 2,800 per night, including breakfast and accommodation tax, up to the room's maximum occupancy. Children under 6 stay free when not using a bed.": {
-    "ja": "料金は1室2名利用が基準で、追加1名につき1泊2,800円（朝食・宿泊税込み）です。各客室の定員までご利用いただけます。6歳未満のお子さまは、ベッドを使用しない場合は無料です。",
-    "zh-Hant": "房價以每房2人計算，每加1人每晚加收2,800日圓（含早餐及住宿稅），最多可加至各房型的可住人數上限。未滿6歲兒童不佔床可免費入住。",
-    "ms": "Kadar berdasarkan 2 tetamu sebilik. Setiap tetamu tambahan dikenakan JPY 2,800 semalam, termasuk sarapan dan cukai penginapan, sehingga had maksimum bilik. Kanak-kanak bawah 6 tahun menginap percuma jika tidak menggunakan katil.",
-    "th": "ราคาคิดตามการเข้าพัก 2 ท่านต่อห้อง เพิ่มผู้เข้าพัก 1 ท่าน คิดเพิ่ม 2,800 เยนต่อคืน รวมอาหารเช้าและภาษีที่พักแล้ว เพิ่มได้ไม่เกินจำนวนผู้เข้าพักสูงสุดของห้อง เด็กอายุต่ำกว่า 6 ปีเข้าพักฟรี หากไม่ใช้เตียง",
-    "id": "Tarif berdasarkan 2 tamu per kamar. Setiap tambahan tamu dikenakan JPY 2,800 per malam, termasuk sarapan dan pajak penginapan, hingga kapasitas maksimum kamar. Anak di bawah 6 tahun menginap gratis jika tidak menggunakan tempat tidur.",
-    "fil": "Batay sa 2 bisita bawat kuwarto ang rates. JPY 2,800 kada gabi ang bawat dagdag na bisita, kasama ang almusal at accommodation tax, hanggang sa maximum na bilang ng bisita ng kuwarto. Libre ang mga batang wala pang 6 na taon kung hindi gagamit ng kama.",
-    "ko": "요금은 객실당 2인 기준이며, 1인 추가 시 1박당 2,800엔(조식·숙박세 포함)이 추가됩니다. 객실별 최대 인원까지 추가할 수 있으며, 6세 미만 어린이는 침대를 사용하지 않으면 무료입니다."
   },
   "In-room facilities": {
     "ja": "客室設備",
@@ -2068,5 +2050,23 @@
     "id": "Tarif bergantung pada tanggal dan jumlah rombongan, dan tarif rombongan berlaku mulai 5 kamar. Kami kirimkan daftar tarif saat Anda bertanya.",
     "fil": "Nakadepende ang rates sa petsa at laki ng grupo, at may group rate mula 5 kuwarto. Ipapadala namin ang rate sheet kapag nag-inquire kayo.",
     "ko": "요금은 일정과 인원에 따라 달라지며, 5실부터 단체 요금이 적용됩니다. 문의 주시면 요금표를 보내 드립니다."
+  },
+  "Rates are based on 2 guests per room. Each additional guest is JPY 2,000 per night, or JPY 2,800 with breakfast, including accommodation tax.": {
+    "ja": "料金は1室2名利用が基準です。追加1名につき1泊2,000円、朝食付きは2,800円（いずれも宿泊税込み）を申し受けます。",
+    "zh-Hant": "房價以每房2人入住計算，每加1人每晚加收2,000日圓，含早餐則為2,800日圓（皆含住宿稅）。",
+    "ms": "Kadar berdasarkan 2 tetamu sebilik. Setiap tetamu tambahan dikenakan JPY 2,000 semalam, atau JPY 2,800 dengan sarapan, termasuk cukai penginapan.",
+    "th": "ราคาคิดตามการเข้าพัก 2 ท่านต่อห้อง เพิ่มผู้เข้าพัก 1 ท่าน คิดเพิ่ม 2,000 เยนต่อคืน หรือ 2,800 เยนรวมอาหารเช้า (รวมภาษีที่พักแล้ว)",
+    "id": "Tarif berdasarkan 2 tamu per kamar. Setiap tambahan tamu dikenakan JPY 2.000 per malam, atau JPY 2.800 dengan sarapan, sudah termasuk pajak penginapan.",
+    "fil": "Batay sa 2 bisita bawat kuwarto ang rates. JPY 2,000 kada gabi ang bawat dagdag na bisita, o JPY 2,800 kasama ang almusal, kasama na ang accommodation tax.",
+    "ko": "요금은 객실당 2인 기준이며, 1인 추가 시 1박당 2,000엔, 조식 포함 시 2,800엔이 추가됩니다(숙박세 포함)."
+  },
+  "Rates are for 2 guests per room. Each additional guest is JPY 2,000 per night, or JPY 2,800 with breakfast, including accommodation tax, up to the room's maximum occupancy. Children under 6 stay free when not using a bed.": {
+    "ja": "料金は1室2名利用が基準で、追加1名につき1泊2,000円、朝食付きは2,800円（いずれも宿泊税込み）です。各客室の定員までご利用いただけます。6歳未満のお子さまは、ベッドを使用しない場合は無料です。",
+    "zh-Hant": "房價以每房2人計算，每加1人每晚加收2,000日圓，含早餐則為2,800日圓（皆含住宿稅），最多可加至各房型的可住人數上限。未滿6歲兒童不佔床可免費入住。",
+    "ms": "Kadar adalah untuk 2 tetamu sebilik. Setiap tetamu tambahan dikenakan JPY 2,000 semalam, atau JPY 2,800 dengan sarapan, termasuk cukai penginapan, sehingga kapasiti maksimum bilik. Kanak-kanak bawah 6 tahun percuma jika tidak menggunakan katil.",
+    "th": "ราคาคิดตามการเข้าพัก 2 ท่านต่อห้อง เพิ่มผู้เข้าพัก 1 ท่าน คิดเพิ่ม 2,000 เยนต่อคืน หรือ 2,800 เยนรวมอาหารเช้า (รวมภาษีที่พักแล้ว) เพิ่มได้จนถึงจำนวนผู้เข้าพักสูงสุดของห้อง เด็กอายุต่ำกว่า 6 ปีที่ไม่ใช้เตียงพักฟรี",
+    "id": "Tarif untuk 2 tamu per kamar. Setiap tambahan tamu dikenakan JPY 2.000 per malam, atau JPY 2.800 dengan sarapan, sudah termasuk pajak penginapan, hingga kapasitas maksimum kamar. Anak di bawah 6 tahun gratis jika tidak menggunakan tempat tidur.",
+    "fil": "Para sa 2 bisita bawat kuwarto ang rates. JPY 2,000 kada gabi ang bawat dagdag na bisita, o JPY 2,800 kasama ang almusal, kasama na ang accommodation tax, hanggang sa maximum na bilang ng bisita ng kuwarto. Libre ang batang wala pang 6 na taon kung hindi gagamit ng kama.",
+    "ko": "요금은 객실당 2인 기준이며, 1인 추가 시 1박당 2,000엔, 조식 포함 시 2,800엔(숙박세 포함)이 추가됩니다. 객실 최대 인원까지 추가할 수 있으며, 6세 미만 어린이는 침대를 사용하지 않으면 무료입니다."
   }
 }
