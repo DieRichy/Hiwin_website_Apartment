@@ -106,7 +106,7 @@ Once the agency pages existed, the homepage still carried the whole one-page bro
 - Contact panel (every page): under the heading, one line with the reply time (usually within 2 hours during business hours) and the staff languages (Japanese, Chinese, English, Korean), `.contact-reply`. The contact page also says what to send for a quote (stay dates, guests, rooms), which the partnership page booking steps repeat.
 - Traditional Chinese wording: the brand type is 公寓式飯店 (as in the brochure); otherwise say 住宿 (accommodation), 館 for one building (心齋橋9號館, 60 多館) and 館別 for "which property". Never 物業, which reads as real estate in Taiwan, and not plain 飯店, which suggests a full-service hotel with a front desk.
 - Back-to-top button (`pages/_support.html`, `support.js`): bottom right on every page except the short contact page (on wide screens just above the dock), in the dock's ink-and-gold style. It appears after the first screen and scrolls smoothly to the top (instantly when the visitor prefers reduced motion).
-- Hero key facts (`.hero-points`): 52 properties in Osaka, rooms for 2–8 guests, breakfast delivery, partner rates on request. The header's "Partner with us" is a filled gold button on wide screens.
+- Hero key facts (`.hero-points`): 60+ properties across Japan, rooms for 2–8 guests, breakfast delivery, partner rates on request. The header's "Partner with us" is a filled gold button on wide screens.
 - Both header logos go to the homepage. The Apartment Hotel 11 logo is a mouse/touch shortcut (`tabindex="-1"`, `aria-hidden`), so keyboard and screen-reader users get one home link, the HIWIN logo.
 
 ## Photos from the HIWIN folder · October 10, 2026
