@@ -1970,42 +1970,6 @@
     "fil": "Puwedeng hatiin ang malalaking grupo sa ilang building sa parehong lugar, gaya ng Namba, Kuromon o Shin-Imamiya.",
     "ko": "인원이 많은 단체는 난바, 구로몬, 신이마미야 등 같은 지역의 여러 건물에 나누어 숙박할 수 있습니다."
   },
-  "Rooms for 2 to 4 guests": {
-    "ja": "2〜4名向けの客室",
-    "zh-Hant": "2至4人房型",
-    "ms": "Bilik untuk 2 hingga 4 tetamu",
-    "th": "ห้องสำหรับ 2–4 ท่าน",
-    "id": "Kamar untuk 2 hingga 4 tamu",
-    "fil": "Kuwarto para sa 2 hanggang 4 na bisita",
-    "ko": "2~4인 객실"
-  },
-  "Most featured room types sleep 2 to 4 guests. Family rooms and larger suites are also available.": {
-    "ja": "おすすめ客室の多くは2〜4名でご利用いただけます。ファミリールームや広めのスイートもございます。",
-    "zh-Hant": "多數精選房型可住2至4人，另有家庭房與大坪數套房。",
-    "ms": "Kebanyakan jenis bilik pilihan memuatkan 2 hingga 4 tetamu. Bilik keluarga dan suite yang lebih besar juga tersedia.",
-    "th": "ห้องแนะนำส่วนใหญ่พักได้ 2–4 ท่าน และยังมีห้องแฟมิลี่และห้องสวีทขนาดใหญ่",
-    "id": "Sebagian besar tipe kamar pilihan muat 2 hingga 4 tamu. Kamar keluarga dan suite yang lebih luas juga tersedia.",
-    "fil": "Kasya ang 2 hanggang 4 na bisita sa karamihan ng featured room types. May family room at mas malalaking suite din.",
-    "ko": "추천 객실 대부분은 2~4명이 숙박할 수 있으며, 패밀리룸과 더 넓은 스위트룸도 있습니다."
-  },
-  "Coach access and breakfast": {
-    "ja": "観光バスと朝食",
-    "zh-Hant": "遊覽車與早餐",
-    "ms": "Akses bas dan sarapan",
-    "th": "รถบัสและอาหารเช้า",
-    "id": "Akses bus dan sarapan",
-    "fil": "Tour bus at almusal",
-    "ko": "관광버스와 조식"
-  },
-  "Easy tour coach pick-up and drop-off, with breakfast delivery included.": {
-    "ja": "観光バスの乗降がスムーズで、朝食デリバリー付きです。",
-    "zh-Hant": "遊覽車上下車方便，並含早餐配送。",
-    "ms": "Mudah untuk menurunkan dan mengambil penumpang bas persiaran, termasuk penghantaran sarapan.",
-    "th": "รถบัสนำเที่ยวรับส่งได้สะดวก และรวมบริการส่งอาหารเช้า",
-    "id": "Mudah untuk naik-turun bus wisata, termasuk antar sarapan.",
-    "fil": "Madali ang pick-up at drop-off ng tour bus, at kasama ang breakfast delivery.",
-    "ko": "관광버스 승하차가 편리하고 조식 배달이 포함됩니다."
-  },
   "For a group quotation, please send:": {
     "ja": "団体のお見積りには、以下をお知らせください。",
     "zh-Hant": "團體詢價請提供：",
@@ -2059,5 +2023,41 @@
     "id": "Lihat jumlah kamar per gedung",
     "fil": "Tingnan ang bilang ng kuwarto bawat building",
     "ko": "건물별 객실 수 보기"
+  },
+  "Coach access at every building": {
+    "ja": "全館で観光バスに対応",
+    "zh-Hant": "每館皆可停靠遊覽車",
+    "ms": "Akses bas di setiap bangunan",
+    "th": "ทุกอาคารรองรับรถบัส",
+    "id": "Akses bus di setiap gedung",
+    "fil": "Tour bus sa bawat building",
+    "ko": "모든 건물 관광버스 정차 가능"
+  },
+  "Every building can accommodate tour coach pick-up and drop-off.": {
+    "ja": "すべての施設で観光バスの乗降に対応しています。",
+    "zh-Hant": "每一館皆可停靠遊覽車，方便團體上下車。",
+    "ms": "Setiap bangunan boleh menerima bas persiaran untuk menurunkan dan mengambil penumpang.",
+    "th": "ทุกอาคารรองรับการรับส่งด้วยรถบัสนำเที่ยว",
+    "id": "Setiap gedung dapat melayani naik-turun penumpang bus wisata.",
+    "fil": "Puwedeng mag-pick-up at drop-off ang tour bus sa bawat building.",
+    "ko": "모든 건물에서 관광버스 승하차가 가능합니다."
+  },
+  "Group rates from 5 rooms": {
+    "ja": "5室から団体料金",
+    "zh-Hant": "5間起享團體價",
+    "ms": "Kadar kumpulan dari 5 bilik",
+    "th": "ราคากรุ๊ปตั้งแต่ 5 ห้อง",
+    "id": "Tarif rombongan mulai 5 kamar",
+    "fil": "Group rate mula 5 kuwarto",
+    "ko": "5실부터 단체 요금"
+  },
+  "Group rates apply from 5 rooms. Bookings of 10 rooms or more include breakfast.": {
+    "ja": "5室以上で団体料金を適用します。10室以上のご予約は朝食付きです。",
+    "zh-Hant": "訂房5間以上適用團體價格，10間以上另含早餐。",
+    "ms": "Kadar kumpulan dikenakan untuk tempahan 5 bilik ke atas. Tempahan 10 bilik ke atas termasuk sarapan.",
+    "th": "ราคากรุ๊ปใช้กับการจองตั้งแต่ 5 ห้องขึ้นไป และการจองตั้งแต่ 10 ห้องขึ้นไปรวมอาหารเช้า",
+    "id": "Tarif rombongan berlaku mulai 5 kamar. Pemesanan 10 kamar atau lebih sudah termasuk sarapan.",
+    "fil": "May group rate mula 5 kuwarto. Kasama ang almusal sa booking na 10 kuwarto pataas.",
+    "ko": "5실 이상 예약 시 단체 요금이 적용되며, 10실 이상은 조식이 포함됩니다."
   }
 }
