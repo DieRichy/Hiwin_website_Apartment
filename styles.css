@@ -1503,3 +1503,7 @@ html:is([lang=ja],[lang=zh-Hant],[lang=zh-Hans],[lang=ko],[lang=th]) .op-card-to
 @media(prefers-reduced-motion:reduce){.op-card-detail{transition:none}}
 /* Area chips that link to a featured area's cards. */
 a.op-chip-link{transition:border-color .2s,background .2s}a.op-chip-link span{border-bottom:1px solid var(--gold)}a.op-chip-link:hover,a.op-chip-link:focus-visible{border-color:var(--ink);background:var(--cream)}
+/* Desktop map wider (user), labels without a background: a white halo keeps them readable on the pale map. */
+@media(min-width:1101px){.op-map{grid-template-columns:minmax(0,620px) 1fr;gap:44px}}
+.op-map-poi b{background:transparent;padding:0;text-shadow:0 0 3px #fff,0 0 3px #fff,0 0 2px #fff,0 1px 2px #fff}
+@media(min-width:761px) and (max-width:1100px){.op-map-static{max-width:600px}}
