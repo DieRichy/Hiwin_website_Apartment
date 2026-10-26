@@ -3,10 +3,11 @@
     "ja": "Apartment Hotel 11｜旅行会社向け 日本の宿泊パートナー｜HIWIN",
     "zh-Hant": "住一 Apartment Hotel 11｜日本住宿・旅行社合作｜HIWIN",
     "ms": "Apartment Hotel 11 untuk Agensi Pelancongan di Jepun | HIWIN",
-    "th": "Apartment Hotel 11 ที่พักในญี่ปุ่นสำหรับบริษัทท่องเที่ยว | HIWIN",
+    "th": "Apartment Hotel 11 ที่พักในญี่ปุ่นสำหรับบริษัทนำเที่ยว | HIWIN",
     "id": "Apartment Hotel 11 untuk Agen Perjalanan di Jepang | HIWIN",
     "fil": "Apartment Hotel 11 para sa mga Travel Agency sa Japan | HIWIN",
-    "ko": "Apartment Hotel 11 | 여행사를 위한 일본 숙박 파트너 | HIWIN"
+    "ko": "Apartment Hotel 11 | 여행사를 위한 일본 숙박 파트너 | HIWIN",
+    "zh-Hans": "住一 Apartment Hotel 11｜日本住宿・旅行社合作｜HIWIN"
   },
   "Skip to content": {
     "ja": "本文へ移動",
@@ -15,16 +16,18 @@
     "th": "ข้ามไปยังเนื้อหา",
     "id": "Langsung ke konten",
     "fil": "Dumiretso sa nilalaman",
-    "ko": "본문으로 바로가기"
+    "ko": "본문으로 바로가기",
+    "zh-Hans": "跳到主要内容"
   },
   "TRAVEL AGENCY PARTNERSHIPS": {
     "ja": "旅行会社の皆さまへ",
     "zh-Hant": "旅行社合作",
     "ms": "KERJASAMA AGENSI PELANCONGAN",
-    "th": "พันธมิตรบริษัทท่องเที่ยว",
+    "th": "พันธมิตรบริษัทนำเที่ยว",
     "id": "KEMITRAAN AGEN PERJALANAN",
     "fil": "PAKIKIPAGTULUNGAN SA MGA TRAVEL AGENCY",
-    "ko": "여행사 파트너십"
+    "ko": "여행사 파트너십",
+    "zh-Hans": "旅行社合作"
   },
   "Menu": {
     "ja": "メニュー",
@@ -33,34 +36,8 @@
     "th": "เมนู",
     "id": "Menu",
     "fil": "Menu",
-    "ko": "메뉴"
-  },
-  "About": {
-    "ja": "私たちについて",
-    "zh-Hant": "關於我們",
-    "ms": "Tentang kami",
-    "th": "เกี่ยวกับเรา",
-    "id": "Tentang kami",
-    "fil": "Tungkol sa amin",
-    "ko": "회사 소개"
-  },
-  "Our portfolio": {
-    "ja": "宿泊施設",
-    "zh-Hant": "住宿據點",
-    "ms": "Pilihan penginapan",
-    "th": "ที่พักของเรา",
-    "id": "Akomodasi kami",
-    "fil": "Mga accommodation",
-    "ko": "숙박시설"
-  },
-  "Beyond the stay": {
-    "ja": "宿泊以外のサービス",
-    "zh-Hant": "住宿以外的服務",
-    "ms": "Selain penginapan",
-    "th": "บริการเพิ่มเติม",
-    "id": "Layanan lainnya",
-    "fil": "Iba pang serbisyo",
-    "ko": "숙박 외 서비스"
+    "ko": "메뉴",
+    "zh-Hans": "菜单"
   },
   "Partner with us": {
     "ja": "協業のご相談",
@@ -69,7 +46,8 @@
     "th": "ร่วมเป็นพันธมิตร",
     "id": "Bermitra dengan kami",
     "fil": "Makipagtulungan",
-    "ko": "제휴 문의"
+    "ko": "제휴 문의",
+    "zh-Hans": "合作咨询"
   },
   "Apartment hotels, dining and local experiences.": {
     "ja": "宿泊、食事、街を楽しむ体験。",
@@ -78,25 +56,28 @@
     "th": "ที่พักแบบอพาร์ตเมนต์ อาหาร และประสบการณ์ท้องถิ่น",
     "id": "Hotel apartemen, kuliner, dan pengalaman lokal.",
     "fil": "Mga apartment hotel, kainan, at lokal na karanasan.",
-    "ko": "아파트먼트 호텔부터 식사와 현지 체험까지."
+    "ko": "아파트먼트 호텔부터 식사와 현지 체험까지.",
+    "zh-Hans": "公寓式酒店、餐饮与本地体验。"
   },
-  "A connected stay for the journeys you create.": {
+  "Stays and local services, built around the trips you plan.": {
     "ja": "旅程に合わせて、宿泊と地域サービスをご提案します。",
     "zh-Hant": "配合您規劃的行程，整合住宿與在地服務。",
     "ms": "Penginapan dan perkhidmatan tempatan untuk perjalanan yang anda atur.",
     "th": "เชื่อมต่อทุกช่วงของการเดินทางที่คุณออกแบบ",
     "id": "Layanan yang terhubung untuk perjalanan yang Anda rancang.",
     "fil": "Magkakaugnay na serbisyo para sa biyaheng binuo ninyo.",
-    "ko": "여러분이 기획하는 여행에 필요한 서비스를 연결합니다."
+    "ko": "여러분이 기획하는 여행에 필요한 서비스를 연결합니다.",
+    "zh-Hans": "配合您规划的行程，整合住宿与本地服务。"
   },
   "Explore a partnership": {
-    "ja": "協業のご相談",
+    "ja": "協業について相談する",
     "zh-Hant": "洽談合作",
     "ms": "Bincangkan kerjasama",
     "th": "พูดคุยเรื่องความร่วมมือ",
     "id": "Jajaki kerja sama",
     "fil": "Pag-usapan ang pagtutulungan",
-    "ko": "파트너십 문의"
+    "ko": "파트너십 문의",
+    "zh-Hans": "洽谈合作"
   },
   "JAPAN ACCOMMODATION PARTNER FOR TRAVEL AGENCIES": {
     "ja": "旅行会社さまの日本の宿泊パートナー",
@@ -105,7 +86,8 @@
     "th": "พันธมิตรที่พักในญี่ปุ่นสำหรับบริษัทนำเที่ยว",
     "id": "MITRA AKOMODASI DI JEPANG UNTUK AGEN PERJALANAN",
     "fil": "JAPAN ACCOMMODATION PARTNER PARA SA MGA TRAVEL AGENCY",
-    "ko": "여행사를 위한 일본 숙박 파트너"
+    "ko": "여행사를 위한 일본 숙박 파트너",
+    "zh-Hans": "旅行社的日本住宿合作伙伴"
   },
   "OUR PORTFOLIO": {
     "ja": "宿泊施設",
@@ -114,7 +96,8 @@
     "th": "ที่พักของเรา",
     "id": "AKOMODASI KAMI",
     "fil": "MGA ACCOMMODATION",
-    "ko": "숙박시설"
+    "ko": "숙박시설",
+    "zh-Hans": "住宿据点"
   },
   "More places.": {
     "ja": "旅程に合わせて、",
@@ -123,7 +106,8 @@
     "th": "ที่พักหลากหลาย",
     "id": "Lebih banyak pilihan.",
     "fil": "Mas maraming lugar.",
-    "ko": "더 다양한 숙박시설,"
+    "ko": "더 다양한 숙소,",
+    "zh-Hans": "多元住宿选择，"
   },
   "More possibilities.": {
     "ja": "選べる宿泊拠点。",
@@ -132,16 +116,18 @@
     "th": "โอกาสที่มากขึ้น",
     "id": "Lebih banyak peluang.",
     "fil": "Mas maraming posibilidad.",
-    "ko": "더 넓은 여행의 가능성."
+    "ko": "더 넓은 여행의 가능성.",
+    "zh-Hans": "更多行程搭配。"
   },
-  "An Osaka base, with stays across six city destinations in Japan.": {
-    "ja": "大阪を中心に、日本の6エリアで宿泊施設を展開。",
-    "zh-Hant": "以大阪為核心，住宿據點涵蓋日本六個目的地。",
-    "ms": "Berpangkalan di Osaka, dengan penginapan di enam destinasi di Jepun.",
-    "th": "มีฐานอยู่ที่โอซาก้า พร้อมที่พักใน 6 จุดหมายปลายทางทั่วญี่ปุ่น",
-    "id": "Berbasis di Osaka, dengan akomodasi di enam destinasi di Jepang.",
-    "fil": "Nakasentro sa Osaka, na may mga accommodation sa anim na destinasyon sa Japan.",
-    "ko": "오사카를 중심으로 일본 6개 지역에서 숙박시설을 운영합니다."
+  "Based in Osaka, with properties in six cities across Japan.": {
+    "ja": "大阪を中心に、日本の6都市で宿泊施設を展開。",
+    "zh-Hant": "以大阪為核心，住宿據點遍布日本六個城市。",
+    "ms": "Berpangkalan di Osaka, dengan penginapan di enam bandar di Jepun.",
+    "th": "มีฐานอยู่ที่โอซาก้า พร้อมที่พักใน 6 เมืองทั่วญี่ปุ่น",
+    "id": "Berbasis di Osaka, dengan properti di enam kota di Jepang.",
+    "fil": "Nakabase sa Osaka, may mga property sa anim na lungsod sa Japan.",
+    "ko": "오사카를 중심으로 일본 6개 도시에서 숙소를 운영합니다.",
+    "zh-Hans": "以大阪为核心，住宿据点遍布日本六个城市。"
   },
   "Properties": {
     "ja": "施設",
@@ -150,7 +136,8 @@
     "th": "ที่พัก",
     "id": "Properti",
     "fil": "Mga property",
-    "ko": "숙박시설"
+    "ko": "숙박시설",
+    "zh-Hans": "住宿据点"
   },
   "Guest rooms": {
     "ja": "客室",
@@ -159,7 +146,8 @@
     "th": "ห้องพัก",
     "id": "Kamar",
     "fil": "Mga kuwarto",
-    "ko": "객실"
+    "ko": "객실",
+    "zh-Hans": "客房"
   },
   "PORTFOLIO FIGURES · JULY 2026": {
     "ja": "施設データ · 2026年7月時点",
@@ -168,7 +156,8 @@
     "th": "ข้อมูลที่พัก · กรกฎาคม 2026",
     "id": "DATA AKOMODASI · JULI 2026",
     "fil": "DATOS NG MGA ACCOMMODATION · HULYO 2026",
-    "ko": "숙박시설 현황 · 2026년 7월 기준"
+    "ko": "숙박시설 현황 · 2026년 7월 기준",
+    "zh-Hans": "住宿数据 · 截至2026年7月"
   },
   "Rooms": {
     "ja": "客室数",
@@ -177,7 +166,8 @@
     "th": "ห้องพัก",
     "id": "Kamar",
     "fil": "Mga kuwarto",
-    "ko": "객실"
+    "ko": "객실",
+    "zh-Hans": "客房数"
   },
   "Osaka": {
     "ja": "大阪",
@@ -186,7 +176,8 @@
     "th": "โอซาก้า",
     "id": "Osaka",
     "fil": "Osaka",
-    "ko": "오사카"
+    "ko": "오사카",
+    "zh-Hans": "大阪"
   },
   "Kyoto": {
     "ja": "京都",
@@ -195,7 +186,8 @@
     "th": "เกียวโต",
     "id": "Kyoto",
     "fil": "Kyoto",
-    "ko": "교토"
+    "ko": "교토",
+    "zh-Hans": "京都"
   },
   "Tokyo": {
     "ja": "東京",
@@ -204,16 +196,18 @@
     "th": "โตเกียว",
     "id": "Tokyo",
     "fil": "Tokyo",
-    "ko": "도쿄"
+    "ko": "도쿄",
+    "zh-Hans": "东京"
   },
   "Okinawa": {
     "ja": "沖縄",
     "zh-Hant": "沖繩",
     "ms": "Okinawa",
-    "th": "โอกินาว่า",
+    "th": "โอกินาวา",
     "id": "Okinawa",
     "fil": "Okinawa",
-    "ko": "오키나와"
+    "ko": "오키나와",
+    "zh-Hans": "冲绳"
   },
   "Kobe": {
     "ja": "神戸",
@@ -222,7 +216,8 @@
     "th": "โกเบ",
     "id": "Kobe",
     "fil": "Kobe",
-    "ko": "고베"
+    "ko": "고베",
+    "zh-Hans": "神户"
   },
   "Nagoya": {
     "ja": "名古屋",
@@ -231,7 +226,8 @@
     "th": "นาโกย่า",
     "id": "Nagoya",
     "fil": "Nagoya",
-    "ko": "나고야"
+    "ko": "나고야",
+    "zh-Hans": "名古屋"
   },
   "A look at our properties.": {
     "ja": "施設のご紹介。",
@@ -240,7 +236,8 @@
     "th": "ชมตัวอย่างที่พักของเรา",
     "id": "Lihat pilihan properti kami.",
     "fil": "Kilalanin ang ilan sa aming mga property.",
-    "ko": "주요 숙박시설을 소개합니다."
+    "ko": "주요 숙소를 소개합니다.",
+    "zh-Hans": "精选住宿据点。"
   },
   "01 / OSAKA": {
     "ja": "01 / 大阪",
@@ -249,7 +246,8 @@
     "th": "01 / โอซาก้า",
     "id": "01 / OSAKA",
     "fil": "01 / OSAKA",
-    "ko": "01 / 오사카"
+    "ko": "01 / 오사카",
+    "zh-Hans": "01 / 大阪"
   },
   "03 / OSAKA": {
     "ja": "03 / 大阪",
@@ -258,7 +256,8 @@
     "th": "03 / โอซาก้า",
     "id": "03 / OSAKA",
     "fil": "03 / OSAKA",
-    "ko": "03 / 오사카"
+    "ko": "03 / 오사카",
+    "zh-Hans": "03 / 大阪"
   },
   "05 / OSAKA": {
     "ja": "05 / 大阪",
@@ -267,7 +266,8 @@
     "th": "05 / โอซาก้า",
     "id": "05 / OSAKA",
     "fil": "05 / OSAKA",
-    "ko": "05 / 오사카"
+    "ko": "05 / 오사카",
+    "zh-Hans": "05 / 大阪"
   },
   "Shinsaibashi 9": {
     "ja": "心斎橋9",
@@ -276,7 +276,8 @@
     "th": "Shinsaibashi 9",
     "id": "Shinsaibashi 9",
     "fil": "Shinsaibashi 9",
-    "ko": "신사이바시 9"
+    "ko": "신사이바시 9",
+    "zh-Hans": "心斋桥9"
   },
   "Hanazono 1": {
     "ja": "花園1",
@@ -285,7 +286,8 @@
     "th": "Hanazono 1",
     "id": "Hanazono 1",
     "fil": "Hanazono 1",
-    "ko": "하나조노 1"
+    "ko": "하나조노 1",
+    "zh-Hans": "花园1"
   },
   "Shin-Imamiya 3": {
     "ja": "新今宮3",
@@ -294,7 +296,8 @@
     "th": "Shin-Imamiya 3",
     "id": "Shin-Imamiya 3",
     "fil": "Shin-Imamiya 3",
-    "ko": "신이마미야 3"
+    "ko": "신이마미야 3",
+    "zh-Hans": "新今宫3"
   },
   "Tsutenkaku": {
     "ja": "通天閣",
@@ -303,7 +306,8 @@
     "th": "Tsutenkaku",
     "id": "Tsutenkaku",
     "fil": "Tsutenkaku",
-    "ko": "쓰텐카쿠"
+    "ko": "쓰텐카쿠",
+    "zh-Hans": "通天阁"
   },
   "BEYOND ACCOMMODATION": {
     "ja": "宿泊以外のサービス",
@@ -312,7 +316,8 @@
     "th": "มากกว่าบริการที่พัก",
     "id": "LEBIH DARI AKOMODASI",
     "fil": "HIGIT PA SA ACCOMMODATION",
-    "ko": "숙박 그 이상의 서비스"
+    "ko": "숙박 그 이상의 서비스",
+    "zh-Hans": "住宿以外的服务"
   },
   "A stay is only": {
     "ja": "宿泊から、",
@@ -321,7 +326,8 @@
     "th": "ที่พักคือจุดเริ่มต้น",
     "id": "Menginap hanyalah",
     "fil": "Ang accommodation ay simula",
-    "ko": "숙박은 여행의"
+    "ko": "숙박은 여행의",
+    "zh-Hans": "住宿，"
   },
   "the beginning.": {
     "ja": "旅が広がる。",
@@ -330,7 +336,8 @@
     "th": "ของประสบการณ์",
     "id": "awal perjalanan.",
     "fil": "pa lamang.",
-    "ko": "시작일 뿐입니다."
+    "ko": "시작일 뿐입니다.",
+    "zh-Hans": "只是旅程的开始。"
   },
   "Connect accommodation with dining, transport, relaxation and entertainment through HIWIN's local network.": {
     "ja": "HIWINの地域ネットワークを通じて、宿泊に飲食・移動・リラクゼーション・エンターテインメントを組み合わせます。",
@@ -339,7 +346,8 @@
     "th": "เชื่อมต่อที่พักกับร้านอาหาร การเดินทาง บริการผ่อนคลาย และความบันเทิง ผ่านเครือข่ายท้องถิ่นของ HIWIN",
     "id": "Hubungkan akomodasi dengan kuliner, transportasi, relaksasi, dan hiburan melalui jaringan lokal HIWIN.",
     "fil": "Pagsamahin ang accommodation, kainan, transportasyon, pagpapahinga, at entertainment sa tulong ng lokal na network ng HIWIN.",
-    "ko": "HIWIN의 현지 네트워크를 통해 숙박에 식사, 이동, 휴식, 엔터테인먼트를 더해보세요."
+    "ko": "HIWIN의 현지 네트워크를 통해 숙박에 식사, 이동, 휴식, 엔터테인먼트를 더해보세요.",
+    "zh-Hans": "通过 HIWIN 的本地网络，串连住宿、餐饮、交通、放松与娱乐。"
   },
   "DINE": {
     "ja": "食べる",
@@ -348,7 +356,8 @@
     "th": "รับประทานอาหาร",
     "id": "KULINER",
     "fil": "KAINAN",
-    "ko": "식사"
+    "ko": "식사",
+    "zh-Hans": "餐饮"
   },
   "MOVE": {
     "ja": "移動する",
@@ -357,7 +366,8 @@
     "th": "เดินทาง",
     "id": "TRANSPORTASI",
     "fil": "BIYAHE",
-    "ko": "이동"
+    "ko": "이동",
+    "zh-Hans": "交通"
   },
   "RELAX": {
     "ja": "くつろぐ",
@@ -366,7 +376,8 @@
     "th": "ผ่อนคลาย",
     "id": "RELAKSASI",
     "fil": "PAHINGA",
-    "ko": "휴식"
+    "ko": "휴식",
+    "zh-Hans": "放松"
   },
   "ENJOY": {
     "ja": "楽しむ",
@@ -375,7 +386,8 @@
     "th": "เพลิดเพลิน",
     "id": "HIBURAN",
     "fil": "LIBANGAN",
-    "ko": "즐길 거리"
+    "ko": "즐길 거리",
+    "zh-Hans": "娱乐"
   },
   "Bring Osaka to the table.": {
     "ja": "旅に、大阪の味を。",
@@ -384,16 +396,18 @@
     "th": "สัมผัสโอซาก้าผ่านรสชาติอาหาร",
     "id": "Nikmati cita rasa Osaka.",
     "fil": "Tikman ang mga lasa ng Osaka.",
-    "ko": "오사카의 맛을 여행에 더하세요."
+    "ko": "오사카의 맛을 여행에 더하세요.",
+    "zh-Hans": "在旅程中，品味大阪。"
   },
-  "Discover restaurant brands within our wider hospitality network.": {
-    "ja": "HIWINのネットワークにつながる飲食店をご紹介します。",
-    "zh-Hant": "探索 HIWIN 服務網絡中的餐飲品牌。",
-    "ms": "Kenali restoran dalam rangkaian HIWIN.",
-    "th": "รู้จักแบรนด์ร้านอาหารในเครือข่ายธุรกิจบริการของเรา",
-    "id": "Kenali merek restoran dalam jaringan hospitality kami.",
-    "fil": "Kilalanin ang mga restaurant brand sa aming hospitality network.",
-    "ko": "HIWIN의 호스피탈리티 네트워크에 속한 레스토랑 브랜드를 소개합니다."
+  "Restaurant brands from the HIWIN group.": {
+    "ja": "HIWINグループの飲食店ブランド。",
+    "zh-Hant": "HIWIN 集團旗下的餐飲品牌。",
+    "ms": "Jenama restoran daripada kumpulan HIWIN.",
+    "th": "แบรนด์ร้านอาหารในเครือ HIWIN",
+    "id": "Merek restoran dari grup HIWIN.",
+    "fil": "Mga restaurant brand ng HIWIN group.",
+    "ko": "HIWIN 그룹의 레스토랑 브랜드.",
+    "zh-Hans": "HIWIN 集团旗下的餐饮品牌。"
   },
   "TEPPANYAKI": {
     "ja": "鉄板焼",
@@ -402,16 +416,18 @@
     "th": "เทปปันยากิ",
     "id": "TEPPANYAKI",
     "fil": "TEPPANYAKI",
-    "ko": "철판요리"
+    "ko": "철판요리",
+    "zh-Hans": "铁板烧"
   },
   "TONKATSU": {
     "ja": "とんかつ",
     "zh-Hant": "日式炸豬排",
-    "ms": "TONKATSU · DAGING BABI GORENG",
+    "ms": "TONKATSU",
     "th": "ทงคัตสึ",
     "id": "TONKATSU",
     "fil": "TONKATSU",
-    "ko": "돈카츠"
+    "ko": "돈카츠",
+    "zh-Hans": "日式炸猪排"
   },
   "CRAB CUISINE": {
     "ja": "蟹料理",
@@ -420,34 +436,28 @@
     "th": "อาหารจานปู",
     "id": "HIDANGAN KEPITING",
     "fil": "MGA PUTAHENG ALIMANGO",
-    "ko": "게 요리"
-  },
-  "ALSO IN THE NETWORK": {
-    "ja": "その他の飲食ブランド",
-    "zh-Hant": "其他餐飲品牌",
-    "ms": "JENAMA LAIN DALAM RANGKAIAN",
-    "th": "บริการอื่นในเครือข่าย",
-    "id": "LAYANAN LAIN DALAM JARINGAN",
-    "fil": "IBA PA SA AMING NETWORK",
-    "ko": "네트워크 내 기타 서비스"
+    "ko": "게 요리",
+    "zh-Hans": "螃蟹料理"
   },
   "Transfers & private transport": {
     "ja": "送迎・専用車の手配",
     "zh-Hant": "接送與包車安排",
-    "ms": "Jemputan & kenderaan persendirian",
+    "ms": "Transfer & kenderaan persendirian",
     "th": "บริการรับส่งและรถส่วนตัว",
     "id": "Antar-jemput & kendaraan pribadi",
     "fil": "Mga transfer at pribadong sasakyan",
-    "ko": "공항 픽업·샌딩 및 전용 차량"
+    "ko": "공항 픽업·샌딩 및 전용 차량",
+    "zh-Hans": "接送与包车安排"
   },
-  "Airport transfers and private vehicle arrangements for Osaka and journeys around Kansai.": {
-    "ja": "大阪での空港送迎や、関西周辺の旅に合わせた専用車の手配。",
-    "zh-Hant": "可洽詢大阪機場接送與關西地區包車安排。",
-    "ms": "Jemputan lapangan terbang dan tempahan kenderaan persendirian untuk perjalanan di Osaka dan kawasan Kansai.",
-    "th": "บริการรับส่งสนามบินและการจัดรถส่วนตัวสำหรับโอซาก้าและการเดินทางในภูมิภาคคันไซ",
-    "id": "Layanan antar-jemput bandara dan pengaturan kendaraan pribadi untuk Osaka serta perjalanan di wilayah Kansai.",
-    "fil": "Mga airport transfer at pag-aayos ng pribadong sasakyan para sa Osaka at mga biyahe sa Kansai.",
-    "ko": "오사카 공항 픽업·샌딩과 간사이 지역 이동을 위한 전용 차량을 수배합니다."
+  "Airport transfers and private vehicles in Osaka and around Kansai.": {
+    "ja": "大阪での空港送迎と、関西周辺の専用車手配。",
+    "zh-Hant": "大阪機場接送與關西地區包車安排。",
+    "ms": "Transfer lapangan terbang dan kenderaan persendirian di Osaka dan sekitar Kansai.",
+    "th": "บริการรับส่งสนามบินและรถส่วนตัวในโอซาก้าและทั่วคันไซ",
+    "id": "Antar-jemput bandara dan kendaraan pribadi di Osaka dan sekitar Kansai.",
+    "fil": "Airport transfer at pribadong sasakyan sa Osaka at sa buong Kansai.",
+    "ko": "오사카 공항 픽업·샌딩과 간사이 지역 전용 차량.",
+    "zh-Hans": "大阪机场接送与关西地区包车安排。"
   },
   "A little time to unwind": {
     "ja": "旅の合間に、ひと息。",
@@ -456,7 +466,8 @@
     "th": "เติมเวลาผ่อนคลาย",
     "id": "Saatnya bersantai",
     "fil": "Oras para magpahinga",
-    "ko": "여행 중 잠시 쉬어가는 시간"
+    "ko": "여행 중 잠시 쉬어가는 시간",
+    "zh-Hans": "留一点时间，放松身心。"
   },
   "Massage and relaxation services to complement a day of exploring or shopping.": {
     "ja": "観光やショッピングの後に、マッサージやリラクゼーションのサービス。",
@@ -465,7 +476,8 @@
     "th": "บริการนวดและผ่อนคลายเพื่อเติมความสบายหลังวันท่องเที่ยวหรือช้อปปิ้ง",
     "id": "Layanan pijat dan relaksasi untuk melengkapi hari setelah berwisata atau berbelanja.",
     "fil": "Mga massage at relaxation service pagkatapos ng pamamasyal o pamimili.",
-    "ko": "관광이나 쇼핑 후 이용할 수 있는 마사지 및 릴랙세이션 서비스입니다."
+    "ko": "관광이나 쇼핑 후 이용할 수 있는 마사지 및 릴랙세이션 서비스입니다.",
+    "zh-Hans": "在观光或购物后，安排按摩与放松服务。"
   },
   "Osaka after dark": {
     "ja": "夜の大阪を楽しむ",
@@ -474,16 +486,18 @@
     "th": "โอซาก้ายามค่ำคืน",
     "id": "Osaka setelah senja",
     "fil": "Osaka sa gabi",
-    "ko": "밤에 만나는 오사카"
+    "ko": "밤에 만나는 오사카",
+    "zh-Hans": "探索大阪夜生活"
   },
-  "Nightlife and entertainment options through the local partner network.": {
+  "Nightlife and entertainment through our local partners.": {
     "ja": "地域のパートナーネットワークを通じたナイトライフやエンターテインメントのご提案。",
     "zh-Hant": "透過在地合作網絡，探索夜生活與娛樂選擇。",
     "ms": "Pilihan hiburan malam melalui rangkaian rakan kongsi tempatan.",
     "th": "ตัวเลือกกิจกรรมยามค่ำคืนและความบันเทิงผ่านเครือข่ายพันธมิตรท้องถิ่น",
     "id": "Pilihan hiburan malam melalui jaringan mitra lokal.",
     "fil": "Mga pagpipilian sa nightlife at entertainment sa pamamagitan ng mga lokal na partner.",
-    "ko": "현지 파트너 네트워크를 통해 나이트라이프와 엔터테인먼트 옵션을 안내합니다."
+    "ko": "현지 파트너 네트워크를 통해 나이트라이프와 엔터테인먼트 옵션을 안내합니다.",
+    "zh-Hans": "通过本地合作网络，探索夜生活与娱乐选择。"
   },
   "Services are arranged separately. Availability, operating hours and booking conditions depend on the relevant provider and are confirmed for each enquiry.": {
     "ja": "各サービスは個別に手配します。空き状況・営業時間・予約条件は提供事業者によって異なり、お問い合わせごとに確認いたします。",
@@ -492,7 +506,8 @@
     "th": "บริการต่าง ๆ ต้องจัดจองแยกจากที่พัก การให้บริการ เวลาเปิดทำการ และเงื่อนไขการจองขึ้นอยู่กับผู้ให้บริการแต่ละราย และจะยืนยันเมื่อได้รับการสอบถาม",
     "id": "Layanan diatur secara terpisah. Ketersediaan, jam operasional, dan ketentuan pemesanan bergantung pada penyedia masing-masing dan dikonfirmasi untuk setiap permintaan.",
     "fil": "Hiwalay na inaayos ang mga serbisyo. Ang availability, oras ng operasyon, at mga kondisyon sa booking ay nakadepende sa bawat provider at kinukumpirma sa bawat inquiry.",
-    "ko": "각 서비스는 숙박과 별도로 수배됩니다. 이용 가능 여부, 운영 시간, 예약 조건은 해당 제공업체에 따라 다르며, 문의 시 개별 확인합니다."
+    "ko": "각 서비스는 숙박과 별도로 수배됩니다. 이용 가능 여부, 운영 시간, 예약 조건은 해당 제공업체에 따라 다르며, 문의 시 개별 확인합니다.",
+    "zh-Hans": "各项服务需另行安排。供应情况、营业时间及预订条件依服务提供方而异，将于每次咨询时确认。"
   },
   "Confirm the booking": {
     "ja": "ご予約の確定",
@@ -501,7 +516,8 @@
     "th": "ยืนยันการจอง",
     "id": "Konfirmasi pemesanan",
     "fil": "Kumpirmahin ang booking",
-    "ko": "예약 확정"
+    "ko": "예약 확정",
+    "zh-Hans": "确认预订"
   },
   "TRAVEL AGENCY ENQUIRIES": {
     "ja": "旅行会社向けお問い合わせ",
@@ -510,25 +526,28 @@
     "th": "ติดต่อเรื่องความร่วมมือ",
     "id": "PERTANYAAN AGEN PERJALANAN",
     "fil": "MGA INQUIRY NG TRAVEL AGENCY",
-    "ko": "여행사 제휴 문의"
+    "ko": "여행사 제휴 문의",
+    "zh-Hans": "旅行社合作咨询"
   },
-  "Let's make": {
+  "Let's work": {
     "ja": "まずは、",
     "zh-Hant": "歡迎聯繫，",
     "ms": "Mari mulakan",
     "th": "เริ่มต้นความร่วมมือ",
     "id": "Mari mulai",
     "fil": "Simulan natin",
-    "ko": "파트너십을"
+    "ko": "파트너십을",
+    "zh-Hans": "欢迎联系，"
   },
-  "the connection.": {
+  "together.": {
     "ja": "ご相談ください。",
     "zh-Hant": "洽談合作。",
     "ms": "kerjasama.",
     "th": "ไปด้วยกัน",
     "id": "kerja sama.",
     "fil": "ang pagtutulungan.",
-    "ko": "시작해보세요."
+    "ko": "시작해보세요.",
+    "zh-Hans": "洽谈合作。"
   },
   "Email": {
     "ja": "メール",
@@ -537,7 +556,8 @@
     "th": "อีเมล",
     "id": "Email",
     "fil": "Email",
-    "ko": "이메일"
+    "ko": "이메일",
+    "zh-Hans": "邮箱"
   },
   "HIWIN corporate website": {
     "ja": "HIWIN公式サイト",
@@ -546,7 +566,8 @@
     "th": "เว็บไซต์บริษัท HIWIN",
     "id": "Situs resmi HIWIN",
     "fil": "Opisyal na website ng HIWIN",
-    "ko": "HIWIN 공식 홈페이지"
+    "ko": "HIWIN 공식 홈페이지",
+    "zh-Hans": "HIWIN 官方网站"
   },
   "Pause video": {
     "ja": "動画を一時停止",
@@ -555,7 +576,8 @@
     "th": "หยุดวิดีโอชั่วคราว",
     "id": "Jeda video",
     "fil": "I-pause ang video",
-    "ko": "영상 일시정지"
+    "ko": "영상 일시정지",
+    "zh-Hans": "暂停视频"
   },
   "Play video": {
     "ja": "動画を再生",
@@ -564,7 +586,8 @@
     "th": "เล่นวิดีโอ",
     "id": "Putar video",
     "fil": "I-play ang video",
-    "ko": "영상 재생"
+    "ko": "영상 재생",
+    "zh-Hans": "播放视频"
   },
   "Choose language": {
     "ja": "言語を選ぶ",
@@ -573,7 +596,8 @@
     "th": "เลือกภาษา",
     "id": "Pilih bahasa",
     "fil": "Pumili ng wika",
-    "ko": "언어 선택"
+    "ko": "언어 선택",
+    "zh-Hans": "选择语言"
   },
   "Main navigation": {
     "ja": "メインナビゲーション",
@@ -582,7 +606,8 @@
     "th": "เมนูหลัก",
     "id": "Navigasi utama",
     "fil": "Pangunahing menu",
-    "ko": "주 메뉴"
+    "ko": "주 메뉴",
+    "zh-Hans": "主导航"
   },
   "Light-filled Apartment Hotel 11 interior with a kitchen and dining area": {
     "ja": "キッチンとダイニングを備えたApartment Hotel 11の明るい客室",
@@ -591,7 +616,8 @@
     "th": "ภายใน Apartment Hotel 11 ที่สว่างโปร่ง พร้อมพื้นที่ครัวและโต๊ะอาหาร",
     "id": "Interior Apartment Hotel 11 yang terang, dengan dapur dan area makan",
     "fil": "Maliwanag na interior ng Apartment Hotel 11 na may kusina at dining area",
-    "ko": "주방과 식사 공간을 갖춘 밝은 Apartment Hotel 11 내부"
+    "ko": "주방과 식사 공간을 갖춘 밝은 Apartment Hotel 11 내부",
+    "zh-Hans": "Apartment Hotel 11 明亮客房，设有厨房与用餐空间"
   },
   "Relaxation service imagery from the HIWIN brochure": {
     "ja": "HIWINパンフレット掲載のリラクゼーションサービスイメージ",
@@ -600,7 +626,8 @@
     "th": "ภาพบริการผ่อนคลายจากโบรชัวร์ HIWIN",
     "id": "Foto layanan relaksasi dari brosur HIWIN",
     "fil": "Larawan ng relaxation service mula sa brochure ng HIWIN",
-    "ko": "HIWIN 브로슈어의 릴랙세이션 서비스 사진"
+    "ko": "HIWIN 브로슈어의 릴랙세이션 서비스 사진",
+    "zh-Hans": "HIWIN 宣传册中的放松服务示意"
   },
   "Osaka nightlife imagery from the HIWIN brochure": {
     "ja": "HIWINパンフレット掲載の大阪のナイトライフイメージ",
@@ -609,7 +636,8 @@
     "th": "ภาพกิจกรรมยามค่ำคืนในโอซาก้าจากโบรชัวร์ HIWIN",
     "id": "Foto hiburan malam Osaka dari brosur HIWIN",
     "fil": "Larawan ng nightlife sa Osaka mula sa brochure ng HIWIN",
-    "ko": "HIWIN 브로슈어의 오사카 나이트라이프 사진"
+    "ko": "HIWIN 브로슈어의 오사카 나이트라이프 사진",
+    "zh-Hans": "HIWIN 宣传册中的大阪夜生活示意"
   },
   "Business partners shaking hands": {
     "ja": "握手するビジネスパートナー",
@@ -618,7 +646,8 @@
     "th": "พันธมิตรธุรกิจจับมือกัน",
     "id": "Mitra bisnis berjabat tangan",
     "fil": "Mga business partner na nagkakamay",
-    "ko": "악수하는 비즈니스 파트너"
+    "ko": "악수하는 비즈니스 파트너",
+    "zh-Hans": "商务合作伙伴握手"
   },
   "Pause slideshow": {
     "ja": "スライドを一時停止",
@@ -627,7 +656,8 @@
     "th": "หยุดภาพสไลด์ชั่วคราว",
     "id": "Jeda tayangan slide",
     "fil": "I-pause ang slideshow",
-    "ko": "슬라이드 일시정지"
+    "ko": "슬라이드 일시정지",
+    "zh-Hans": "暂停轮播"
   },
   "Play slideshow": {
     "ja": "スライドを再生",
@@ -636,7 +666,8 @@
     "th": "เล่นภาพสไลด์",
     "id": "Putar tayangan slide",
     "fil": "I-play ang slideshow",
-    "ko": "슬라이드 재생"
+    "ko": "슬라이드 재생",
+    "zh-Hans": "播放轮播"
   },
   "Hero scenes": {
     "ja": "トップの写真",
@@ -645,7 +676,8 @@
     "th": "ภาพแนะนำที่พักและบริการ",
     "id": "Foto utama",
     "fil": "Mga larawan sa pangunahing banner",
-    "ko": "대표 사진"
+    "ko": "대표 사진",
+    "zh-Hans": "首页主图"
   },
   "Show property exterior": {
     "ja": "施設外観の写真を表示",
@@ -654,7 +686,8 @@
     "th": "แสดงภาพภายนอกที่พัก",
     "id": "Tampilkan eksterior properti",
     "fil": "Ipakita ang labas ng property",
-    "ko": "건물 외관 보기"
+    "ko": "건물 외관 보기",
+    "zh-Hans": "显示建筑外观"
   },
   "Show restaurant": {
     "ja": "レストランの写真を表示",
@@ -663,43 +696,8 @@
     "th": "แสดงภาพร้านอาหาร",
     "id": "Tampilkan restoran",
     "fil": "Ipakita ang restaurant",
-    "ko": "레스토랑 사진 보기"
-  },
-  "Umeda Kamiyama": {
-    "ja": "梅田神山",
-    "zh-Hant": "梅田神山",
-    "ms": "Umeda Kamiyama",
-    "th": "Umeda Kamiyama",
-    "id": "Umeda Kamiyama",
-    "fil": "Umeda Kamiyama",
-    "ko": "우메다 가미야마"
-  },
-  "Apartment Hotel 11 Umeda Kamiyama exterior": {
-    "ja": "Apartment Hotel 11 梅田神山の外観",
-    "zh-Hant": "Apartment Hotel 11 梅田神山外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Umeda Kamiyama",
-    "th": "ภายนอก Apartment Hotel 11 Umeda Kamiyama",
-    "id": "Eksterior Apartment Hotel 11 Umeda Kamiyama",
-    "fil": "Labas ng Apartment Hotel 11 Umeda Kamiyama",
-    "ko": "Apartment Hotel 11 우메다 가미야마 외관"
-  },
-  "Higashi-Umeda": {
-    "ja": "東梅田",
-    "zh-Hant": "東梅田",
-    "ms": "Higashi-Umeda",
-    "th": "Higashi-Umeda",
-    "id": "Higashi-Umeda",
-    "fil": "Higashi-Umeda",
-    "ko": "히가시우메다"
-  },
-  "Apartment Hotel 11 Higashi-Umeda exterior": {
-    "ja": "Apartment Hotel 11 東梅田の外観",
-    "zh-Hant": "Apartment Hotel 11 東梅田外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Higashi-Umeda",
-    "th": "ภายนอก Apartment Hotel 11 Higashi-Umeda",
-    "id": "Eksterior Apartment Hotel 11 Higashi-Umeda",
-    "fil": "Labas ng Apartment Hotel 11 Higashi-Umeda",
-    "ko": "Apartment Hotel 11 히가시우메다 외관"
+    "ko": "레스토랑 사진 보기",
+    "zh-Hans": "显示餐厅照片"
   },
   "Osaka Dome": {
     "ja": "大阪ドーム",
@@ -708,25 +706,8 @@
     "th": "Osaka Dome",
     "id": "Osaka Dome",
     "fil": "Osaka Dome",
-    "ko": "오사카 돔"
-  },
-  "Shinsaibashi 2": {
-    "ja": "心斎橋2",
-    "zh-Hant": "心齋橋2",
-    "ms": "Shinsaibashi 2",
-    "th": "Shinsaibashi 2",
-    "id": "Shinsaibashi 2",
-    "fil": "Shinsaibashi 2",
-    "ko": "신사이바시 2"
-  },
-  "Apartment Hotel 11 Shinsaibashi 2 exterior": {
-    "ja": "Apartment Hotel 11 心斎橋2の外観",
-    "zh-Hant": "Apartment Hotel 11 心齋橋2外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Shinsaibashi 2",
-    "th": "ภายนอก Apartment Hotel 11 Shinsaibashi 2",
-    "id": "Eksterior Apartment Hotel 11 Shinsaibashi 2",
-    "fil": "Labas ng Apartment Hotel 11 Shinsaibashi 2",
-    "ko": "Apartment Hotel 11 신사이바시 2 외관"
+    "ko": "오사카 돔",
+    "zh-Hans": "大阪巨蛋"
   },
   "Kuromon 9": {
     "ja": "黒門9",
@@ -735,7 +716,8 @@
     "th": "Kuromon 9",
     "id": "Kuromon 9",
     "fil": "Kuromon 9",
-    "ko": "구로몬 9"
+    "ko": "구로몬 9",
+    "zh-Hans": "黑门9"
   },
   "Space to settle in": {
     "ja": "ゆとりある空間",
@@ -744,7 +726,8 @@
     "th": "พื้นที่พักผ่อนอย่างสบาย",
     "id": "Ruang untuk merasa nyaman",
     "fil": "Espasyo para maging komportable",
-    "ko": "편안하게 머무는 공간"
+    "ko": "편안하게 머무는 공간",
+    "zh-Hans": "舒适生活空间"
   },
   "Everyday convenience": {
     "ja": "暮らしの設備",
@@ -753,7 +736,8 @@
     "th": "สะดวกในทุกวัน",
     "id": "Kemudahan sehari-hari",
     "fil": "Kaginhawaan sa araw-araw",
-    "ko": "일상에 필요한 편리함"
+    "ko": "일상에 필요한 편리함",
+    "zh-Hans": "便利生活设施"
   },
   "Connected city services": {
     "ja": "街とつながるサービス",
@@ -762,7 +746,8 @@
     "th": "เชื่อมต่อบริการในเมือง",
     "id": "Terhubung dengan layanan kota",
     "fil": "Mga serbisyo sa lungsod",
-    "ko": "도시의 다양한 서비스"
+    "ko": "도시의 다양한 서비스",
+    "zh-Hans": "本地服务选择"
   },
   "Discover HIWIN's apartment hotels": {
     "ja": "HIWINのアパートメントホテルを知る",
@@ -771,7 +756,8 @@
     "th": "รู้จักที่พักแบบอพาร์ตเมนต์ของ HIWIN",
     "id": "Kenali hotel apartemen HIWIN",
     "fil": "Kilalanin ang mga apartment hotel ng HIWIN",
-    "ko": "HIWIN의 아파트먼트 호텔 알아보기"
+    "ko": "HIWIN의 아파트먼트 호텔 알아보기",
+    "zh-Hans": "认识 HIWIN 的公寓式酒店"
   },
   "Apartment Hotel 11 entrance and brand sign": {
     "ja": "Apartment Hotel 11のエントランスと看板",
@@ -780,7 +766,8 @@
     "th": "ทางเข้าและป้าย Apartment Hotel 11",
     "id": "Pintu masuk dan papan nama Apartment Hotel 11",
     "fil": "Pasukan at karatula ng Apartment Hotel 11",
-    "ko": "Apartment Hotel 11 입구와 브랜드 간판"
+    "ko": "Apartment Hotel 11 입구와 브랜드 간판",
+    "zh-Hans": "Apartment Hotel 11 入口与品牌招牌"
   },
   "Previous property": {
     "ja": "前の施設",
@@ -789,7 +776,8 @@
     "th": "ที่พักก่อนหน้า",
     "id": "Properti sebelumnya",
     "fil": "Nakaraang property",
-    "ko": "이전 숙박시설"
+    "ko": "이전 숙박시설",
+    "zh-Hans": "上一个住宿据点"
   },
   "Next property": {
     "ja": "次の施設",
@@ -798,7 +786,8 @@
     "th": "ที่พักถัดไป",
     "id": "Properti berikutnya",
     "fil": "Susunod na property",
-    "ko": "다음 숙박시설"
+    "ko": "다음 숙박시설",
+    "zh-Hans": "下一个住宿据点"
   },
   "Namba Minami 7": {
     "ja": "難波南7",
@@ -807,7 +796,8 @@
     "th": "Namba Minami 7",
     "id": "Namba Minami 7",
     "fil": "Namba Minami 7",
-    "ko": "난바 미나미 7"
+    "ko": "난바미나미 7",
+    "zh-Hans": "难波南7"
   },
   "Namba 2": {
     "ja": "難波2",
@@ -816,16 +806,8 @@
     "th": "Namba 2",
     "id": "Namba 2",
     "fil": "Namba 2",
-    "ko": "난바 2"
-  },
-  "Apartment Hotel 11 Namba 2 exterior": {
-    "ja": "Apartment Hotel 11 難波2の外観",
-    "zh-Hant": "Apartment Hotel 11 難波2外觀",
-    "ms": "Bahagian luar Apartment Hotel 11 Namba 2",
-    "th": "ภายนอก Apartment Hotel 11 Namba 2",
-    "id": "Eksterior Apartment Hotel 11 Namba 2",
-    "fil": "Labas ng Apartment Hotel 11 Namba 2",
-    "ko": "Apartment Hotel 11 난바 2 외관"
+    "ko": "난바 2",
+    "zh-Hans": "难波2"
   },
   "TEMPURA": {
     "ja": "天ぷら",
@@ -834,7 +816,8 @@
     "th": "เทมปุระ",
     "id": "TEMPURA",
     "fil": "TEMPURA",
-    "ko": "덴푸라"
+    "ko": "덴푸라",
+    "zh-Hans": "天妇罗"
   },
   "ROBATA": {
     "ja": "炉端焼き",
@@ -843,7 +826,8 @@
     "th": "โรบาตะยากิ",
     "id": "ROBATA",
     "fil": "ROBATA",
-    "ko": "로바타야키"
+    "ko": "로바타야키",
+    "zh-Hans": "炉端烧"
   },
   "RAMEN": {
     "ja": "ラーメン",
@@ -852,7 +836,8 @@
     "th": "ราเมน",
     "id": "RAMEN",
     "fil": "RAMEN",
-    "ko": "라멘"
+    "ko": "라멘",
+    "zh-Hans": "拉面"
   },
   "Namba Minami 6": {
     "ja": "難波南6",
@@ -861,7 +846,8 @@
     "th": "Namba Minami 6",
     "id": "Namba Minami 6",
     "fil": "Namba Minami 6",
-    "ko": "난바 미나미 6"
+    "ko": "난바미나미 6",
+    "zh-Hans": "难波南6"
   },
   "Company address": {
     "ja": "所在地",
@@ -870,7 +856,8 @@
     "th": "ที่อยู่บริษัท",
     "id": "Alamat kantor",
     "fil": "Address ng kumpanya",
-    "ko": "회사 주소"
+    "ko": "회사 주소",
+    "zh-Hans": "公司地址"
   },
   "3-12-14 Minamisenba, Chuo-ku, Osaka, Japan": {
     "ja": "大阪市中央区南船場3丁目12番14号",
@@ -879,7 +866,8 @@
     "th": "3-12-14 Minamisenba, Chuo-ku, Osaka, ญี่ปุ่น",
     "id": "3-12-14 Minamisenba, Chuo-ku, Osaka, Jepang",
     "fil": "3-12-14 Minamisenba, Chuo-ku, Osaka, Japan",
-    "ko": "일본 오사카시 주오구 미나미센바 3-12-14"
+    "ko": "일본 오사카시 주오구 미나미센바 3-12-14",
+    "zh-Hans": "大阪市中央区南船场3丁目12番14号"
   },
   "13F, Quartz Shinsaibashi": {
     "ja": "クオーツ心斎橋 13階",
@@ -888,7 +876,8 @@
     "th": "ชั้น 13 อาคาร Quartz Shinsaibashi",
     "id": "Lantai 13, Quartz Shinsaibashi",
     "fil": "Ika-13 palapag, Quartz Shinsaibashi",
-    "ko": "Quartz Shinsaibashi 13층"
+    "ko": "Quartz Shinsaibashi 13층",
+    "zh-Hans": "Quartz 心斋桥 13 层"
   },
   "HIWIN office on Google Maps": {
     "ja": "Google マップでHIWINの所在地を見る",
@@ -897,7 +886,8 @@
     "th": "ดูที่ตั้งสำนักงาน HIWIN บน Google Maps",
     "id": "Lihat kantor HIWIN di Google Maps",
     "fil": "Tingnan ang opisina ng HIWIN sa Google Maps",
-    "ko": "Google 지도에서 HIWIN 사무실 보기"
+    "ko": "Google 지도에서 HIWIN 사무실 보기",
+    "zh-Hans": "在 Google 地图查看 HIWIN 公司地址"
   },
   "Partner with Apartment Hotel 11 by HIWIN: 60+ apartment hotels and 3,000+ rooms in Osaka, Kyoto, Tokyo and 3 more Japanese cities, for travel agents planning FIT and group trips.": {
     "ja": "HIWINが運営するApartment Hotel 11は、大阪・京都・東京など日本6都市に60以上の施設・3,000室以上を展開。旅行会社さま向けに、個人旅行・団体旅行の宿泊と飲食・地域サービスをご提案します。",
@@ -906,7 +896,8 @@
     "th": "ร่วมงานกับ Apartment Hotel 11 โดย HIWIN: อพาร์ตเมนต์โฮเทลกว่า 60 แห่ง ห้องพักกว่า 3,000 ห้อง ในโอซาก้า เกียวโต โตเกียว และอีก 3 เมืองในญี่ปุ่น สำหรับนักท่องเที่ยวอิสระและกรุ๊ปทัวร์",
     "id": "Bermitra dengan Apartment Hotel 11 oleh HIWIN: lebih dari 60 hotel apartemen dan 3.000 kamar di Osaka, Kyoto, Tokyo, dan tiga kota lain di Jepang, untuk perjalanan individu maupun rombongan.",
     "fil": "Makipag-partner sa Apartment Hotel 11 ng HIWIN: mahigit 60 apartment hotel at 3,000 kuwarto sa Osaka, Kyoto, Tokyo at tatlo pang lungsod sa Japan, para sa individual at group travel.",
-    "ko": "HIWIN이 운영하는 Apartment Hotel 11과 함께하세요. 오사카·교토·도쿄 등 일본 6개 도시의 60개 이상 시설, 3,000개 이상 객실로 개별 여행과 단체 여행 숙박을 제안합니다."
+    "ko": "HIWIN이 운영하는 Apartment Hotel 11과 함께하세요. 오사카·교토·도쿄 등 일본 6개 도시의 60개 이상 시설, 3,000개 이상 객실로 개별 여행과 단체 여행 숙박을 제안합니다.",
+    "zh-Hans": "住一 Apartment Hotel 11 由 HIWIN 运营，在大阪、京都、东京等日本六个城市拥有60多处公寓式酒店、3,000多间客房，为旅行社提供自由行与团体住宿合作，并结合餐饮及本地服务。"
   },
   "ONE-STOP SUPPORT": {
     "ja": "ワンストップサポート",
@@ -915,7 +906,8 @@
     "th": "ติดต่อได้ในที่เดียว",
     "id": "LAYANAN SATU PINTU",
     "fil": "ONE-STOP NA SUPORTA",
-    "ko": "원스톱 상담"
+    "ko": "원스톱 상담",
+    "zh-Hans": "一站式服务窗口"
   },
   "One-stop support": {
     "ja": "ワンストップサポート",
@@ -924,7 +916,8 @@
     "th": "ติดต่อได้ในที่เดียว",
     "id": "Layanan satu pintu",
     "fil": "One-stop na suporta",
-    "ko": "원스톱 상담"
+    "ko": "원스톱 상담",
+    "zh-Hans": "一站式服务窗口"
   },
   "Show one-stop support": {
     "ja": "ワンストップサポートを表示",
@@ -933,7 +926,8 @@
     "th": "แสดงช่องทางติดต่อ",
     "id": "Tampilkan layanan satu pintu",
     "fil": "Ipakita ang one-stop na suporta",
-    "ko": "원스톱 상담 펼치기"
+    "ko": "원스톱 상담 펼치기",
+    "zh-Hans": "展开一站式服务窗口"
   },
   "Hide one-stop support": {
     "ja": "ワンストップサポートを最小化",
@@ -942,7 +936,8 @@
     "th": "ซ่อนช่องทางติดต่อ",
     "id": "Sembunyikan layanan satu pintu",
     "fil": "Itago ang one-stop na suporta",
-    "ko": "원스톱 상담 접기"
+    "ko": "원스톱 상담 접기",
+    "zh-Hans": "收起一站式服务窗口"
   },
   "Scan to chat": {
     "ja": "QRコードで連絡",
@@ -951,7 +946,8 @@
     "th": "สแกนคิวอาร์โค้ดเพื่อติดต่อ",
     "id": "Pindai untuk chat",
     "fil": "I-scan para mag-chat",
-    "ko": "QR 코드로 채팅"
+    "ko": "QR 코드로 채팅",
+    "zh-Hans": "扫码联系"
   },
   "WeChat": {
     "ja": "WeChat",
@@ -960,7 +956,8 @@
     "th": "WeChat",
     "id": "WeChat",
     "fil": "WeChat",
-    "ko": "WeChat"
+    "ko": "WeChat",
+    "zh-Hans": "微信"
   },
   "WeChat QR code": {
     "ja": "WeChat QRコード",
@@ -969,7 +966,8 @@
     "th": "คิวอาร์โค้ด WeChat",
     "id": "Kode QR WeChat",
     "fil": "QR code ng WeChat",
-    "ko": "WeChat QR 코드"
+    "ko": "WeChat QR 코드",
+    "zh-Hans": "微信二维码"
   },
   "Scan in WeChat": {
     "ja": "WeChatでスキャン",
@@ -978,7 +976,8 @@
     "th": "สแกนใน WeChat",
     "id": "Pindai di WeChat",
     "fil": "I-scan sa WeChat",
-    "ko": "WeChat으로 스캔"
+    "ko": "WeChat으로 스캔",
+    "zh-Hans": "微信扫一扫"
   },
   "Messaging apps": {
     "ja": "メッセージアプリ",
@@ -987,7 +986,8 @@
     "th": "แอปแชท",
     "id": "Aplikasi pesan instan",
     "fil": "Messaging apps",
-    "ko": "메신저"
+    "ko": "메신저",
+    "zh-Hans": "聊天软件"
   },
   "Individual travellers: book direct at apartmenthotel11.com": {
     "ja": "個人のお客様のご予約は apartmenthotel11.com へ",
@@ -996,25 +996,28 @@
     "th": "ลูกค้าบุคคลทั่วไป จองห้องพักได้ที่ apartmenthotel11.com",
     "id": "Tamu perorangan: pesan langsung di apartmenthotel11.com",
     "fil": "Mga indibidwal na biyahero: mag-book nang direkta sa apartmenthotel11.com",
-    "ko": "개인 여행객 예약은 apartmenthotel11.com에서"
+    "ko": "개인 여행객 예약은 apartmenthotel11.com에서",
+    "zh-Hans": "散客预订请至 apartmenthotel11.com"
   },
-  "A hotel stay.": {
+  "Hotel convenience.": {
     "ja": "ホテルの利便性。",
     "zh-Hant": "飯店的便利，",
     "ms": "Kemudahan hotel.",
     "th": "สะดวกเหมือนโรงแรม",
     "id": "Kemudahan hotel.",
     "fil": "Kaginhawaan ng hotel.",
-    "ko": "호텔의 편리함에"
+    "ko": "호텔의 편리함에",
+    "zh-Hans": "酒店的便利，"
   },
-  "A home-like rhythm.": {
+  "The ease of home.": {
     "ja": "住まいのような自由。",
     "zh-Hant": "居家的自在。",
     "ms": "Selesa seperti di rumah.",
     "th": "สบายเหมือนอยู่บ้าน",
     "id": "Kenyamanan rumah.",
     "fil": "Ginhawa ng tahanan.",
-    "ko": "집처럼 편안한 일상을."
+    "ko": "집처럼 편안한 일상을.",
+    "zh-Hans": "居家的自在。"
   },
   "Apartment Hotel 11 brings hotel convenience together with the freedom of a home. Room layouts and everyday facilities give guests space to settle in, whether they are travelling independently, with family or as a group.": {
     "ja": "Apartment Hotel 11は、ホテルの利便性と住まいのような自由さを兼ね備えた宿泊スタイルです。個人旅行でも、家族やグループでの旅でも、客室の空間と生活設備を活かし、自分のペースでお過ごしいただけます。",
@@ -1023,7 +1026,8 @@
     "th": "Apartment Hotel 11 ผสานความสะดวกของโรงแรมกับอิสระเหมือนอยู่บ้าน รูปแบบห้องพักและสิ่งอำนวยความสะดวกสำหรับชีวิตประจำวันช่วยให้ผู้เข้าพักพักผ่อนได้อย่างสบาย ไม่ว่าจะเดินทางด้วยตัวเอง มากับครอบครัว หรือมาเป็นกลุ่ม",
     "id": "Apartment Hotel 11 memadukan kemudahan hotel dengan kebebasan layaknya di rumah. Tata ruang dan fasilitas sehari-hari memberi tamu ruang untuk merasa nyaman, baik saat bepergian sendiri, bersama keluarga, maupun dalam rombongan.",
     "fil": "Pinagsasama ng Apartment Hotel 11 ang kaginhawaan ng hotel at kalayaan ng pananatili sa sariling tahanan. Ang mga layout ng kuwarto at pasilidad para sa pang-araw-araw na gamit ay nagbibigay ng komportableng espasyo, mag-isa man, kasama ang pamilya, o bahagi ng grupo.",
-    "ko": "Apartment Hotel 11은 호텔의 편리함과 집에서처럼 자유로운 숙박을 함께 제공합니다. 다양한 객실 구조와 일상에 필요한 편의시설로 혼자 여행하는 분부터 가족, 단체까지 편안하게 머물 수 있는 공간을 제안합니다."
+    "ko": "Apartment Hotel 11은 호텔의 편리함과 집에서처럼 자유로운 숙박을 함께 제공합니다. 다양한 객실 구조와 일상에 필요한 편의시설로 혼자 여행하는 분부터 가족, 단체까지 편안하게 머물 수 있는 공간을 제안합니다.",
+    "zh-Hans": "Apartment Hotel 11 结合酒店的便利与居家的自在。无论是自由行、家庭或团体游客，都能运用客房空间与生活设施，按照自己的节奏享受住宿。"
   },
   "ABOUT APARTMENT HOTEL 11": {
     "ja": "Apartment Hotel 11について",
@@ -1032,7 +1036,8 @@
     "th": "เกี่ยวกับ Apartment Hotel 11",
     "id": "TENTANG APARTMENT HOTEL 11",
     "fil": "TUNGKOL SA APARTMENT HOTEL 11",
-    "ko": "Apartment Hotel 11 소개"
+    "ko": "Apartment Hotel 11 소개",
+    "zh-Hans": "关于住一 Apartment Hotel 11"
   },
   "Operated by HIWIN, an Osaka-based group that develops, designs, builds and runs its own apartment hotels.": {
     "ja": "運営は大阪を拠点とするHIWIN。開発・設計・施工・運営までグループで一貫して手がけています。",
@@ -1041,7 +1046,8 @@
     "th": "ดำเนินงานโดย HIWIN กลุ่มบริษัทในโอซาก้าที่ดูแลตั้งแต่การพัฒนา การออกแบบ การก่อสร้าง ไปจนถึงการบริหารที่พัก",
     "id": "Dikelola oleh HIWIN, grup berbasis di Osaka yang menangani pengembangan, desain, konstruksi, hingga pengelolaan hotel apartemennya sendiri.",
     "fil": "Pinapatakbo ito ng HIWIN, isang grupong nakabase sa Osaka na humahawak sa development, disenyo, konstruksyon at pamamahala ng sarili nitong mga apartment hotel.",
-    "ko": "오사카에 기반을 둔 HIWIN이 운영하며, 개발부터 설계, 시공, 운영까지 그룹이 직접 맡고 있습니다."
+    "ko": "오사카에 기반을 둔 HIWIN이 운영하며, 개발부터 설계, 시공, 운영까지 그룹이 직접 맡고 있습니다.",
+    "zh-Hans": "由大阪的 HIWIN 集团运营，从开发、设计、施工到运营一手包办。"
   },
   "For a quote, please send your stay dates, number of guests and number of rooms.": {
     "ja": "お見積りのご依頼は、ご宿泊日・人数・部屋数をお知らせください。",
@@ -1050,7 +1056,8 @@
     "th": "ขอใบเสนอราคา กรุณาแจ้งวันเข้าพัก จำนวนผู้เข้าพัก และจำนวนห้อง",
     "id": "Untuk penawaran harga, mohon sertakan tanggal menginap, jumlah tamu, dan jumlah kamar.",
     "fil": "Para sa quotation, ibigay ang petsa ng stay, bilang ng bisita at bilang ng kuwarto.",
-    "ko": "견적 문의 시 숙박 일정, 인원, 객실 수를 알려 주세요."
+    "ko": "견적 문의 시 숙박 일정, 인원, 객실 수를 알려 주세요.",
+    "zh-Hans": "询价请提供：入住日期、人数、房数。"
   },
   "Back to top": {
     "ja": "ページの先頭へ",
@@ -1059,7 +1066,8 @@
     "th": "กลับขึ้นด้านบน",
     "id": "Kembali ke atas",
     "fil": "Bumalik sa itaas",
-    "ko": "맨 위로"
+    "ko": "맨 위로",
+    "zh-Hans": "回到顶部"
   },
   "60+ properties across Japan": {
     "ja": "全国60施設以上",
@@ -1068,7 +1076,8 @@
     "th": "ที่พักกว่า 60 แห่งทั่วญี่ปุ่น",
     "id": "60+ properti di seluruh Jepang",
     "fil": "60+ property sa buong Japan",
-    "ko": "일본 내 60여 개 숙소"
+    "ko": "일본 내 60여 개 숙소",
+    "zh-Hans": "全日本 60 多栋"
   },
   "Rooms for 2–8 guests": {
     "ja": "2〜8名様の客室",
@@ -1077,7 +1086,8 @@
     "th": "ห้องพักสำหรับ 2–8 ท่าน",
     "id": "Kamar untuk 2–8 tamu",
     "fil": "Kuwarto para sa 2–8 bisita",
-    "ko": "2~8인 객실"
+    "ko": "2~8인 객실",
+    "zh-Hans": "2–8 人房型"
   },
   "Partner rates on request": {
     "ja": "取引料金はお問い合わせ",
@@ -1086,7 +1096,8 @@
     "th": "ราคาเอเจนต์ สอบถามได้",
     "id": "Tarif mitra atas permintaan",
     "fil": "Partner rates kapag hiniling",
-    "ko": "제휴 요금 문의"
+    "ko": "제휴 요금 문의",
+    "zh-Hans": "协议价请咨询"
   },
   "04 / TOKYO": {
     "ja": "04 / 東京",
@@ -1095,7 +1106,8 @@
     "th": "04 / โตเกียว",
     "id": "04 / TOKYO",
     "fil": "04 / TOKYO",
-    "ko": "04 / 도쿄"
+    "ko": "04 / 도쿄",
+    "zh-Hans": "04 / 东京"
   },
   "Shinsekai": {
     "ja": "新世界",
@@ -1104,7 +1116,8 @@
     "th": "Shinsekai",
     "id": "Shinsekai",
     "fil": "Shinsekai",
-    "ko": "신세카이"
+    "ko": "신세카이",
+    "zh-Hans": "新世界"
   },
   "Asakusa 2": {
     "ja": "浅草2",
@@ -1113,7 +1126,8 @@
     "th": "Asakusa 2",
     "id": "Asakusa 2",
     "fil": "Asakusa 2",
-    "ko": "아사쿠사 2"
+    "ko": "아사쿠사 2",
+    "zh-Hans": "浅草2"
   },
   "Motomachi": {
     "ja": "元町",
@@ -1122,7 +1136,8 @@
     "th": "Motomachi",
     "id": "Motomachi",
     "fil": "Motomachi",
-    "ko": "모토마치"
+    "ko": "모토마치",
+    "zh-Hans": "元町"
   },
   "Namba Minami 4": {
     "ja": "難波南4",
@@ -1131,7 +1146,8 @@
     "th": "Namba Minami 4",
     "id": "Namba Minami 4",
     "fil": "Namba Minami 4",
-    "ko": "난바미나미 4"
+    "ko": "난바미나미 4",
+    "zh-Hans": "难波南4"
   },
   "Sakae": {
     "ja": "栄",
@@ -1140,7 +1156,8 @@
     "th": "Sakae",
     "id": "Sakae",
     "fil": "Sakae",
-    "ko": "사카에"
+    "ko": "사카에",
+    "zh-Hans": "荣"
   },
   "Apartment Hotel 11 Shinsekai exterior": {
     "ja": "Apartment Hotel 11 新世界の外観",
@@ -1149,7 +1166,8 @@
     "th": "ภายนอก Apartment Hotel 11 Shinsekai",
     "id": "Eksterior Apartment Hotel 11 Shinsekai",
     "fil": "Labas ng Apartment Hotel 11 Shinsekai",
-    "ko": "Apartment Hotel 11 신세카이 외관"
+    "ko": "Apartment Hotel 11 신세카이 외관",
+    "zh-Hans": "Apartment Hotel 11 新世界外观"
   },
   "Apartment Hotel 11 Asakusa 2 exterior": {
     "ja": "Apartment Hotel 11 浅草2の外観",
@@ -1158,7 +1176,8 @@
     "th": "ภายนอก Apartment Hotel 11 Asakusa 2",
     "id": "Eksterior Apartment Hotel 11 Asakusa 2",
     "fil": "Labas ng Apartment Hotel 11 Asakusa 2",
-    "ko": "Apartment Hotel 11 아사쿠사 2 외관"
+    "ko": "Apartment Hotel 11 아사쿠사 2 외관",
+    "zh-Hans": "Apartment Hotel 11 浅草2外观"
   },
   "Apartment Hotel 11 Kobe Motomachi exterior": {
     "ja": "Apartment Hotel 11 神戸元町の外観",
@@ -1167,7 +1186,8 @@
     "th": "ภายนอก Apartment Hotel 11 Kobe Motomachi",
     "id": "Eksterior Apartment Hotel 11 Kobe Motomachi",
     "fil": "Labas ng Apartment Hotel 11 Kobe Motomachi",
-    "ko": "Apartment Hotel 11 고베 모토마치 외관"
+    "ko": "Apartment Hotel 11 고베 모토마치 외관",
+    "zh-Hans": "Apartment Hotel 11 神户元町外观"
   },
   "Apartment Hotel 11 Namba Minami 4 exterior": {
     "ja": "Apartment Hotel 11 難波南4の外観",
@@ -1176,7 +1196,8 @@
     "th": "ภายนอก Apartment Hotel 11 Namba Minami 4",
     "id": "Eksterior Apartment Hotel 11 Namba Minami 4",
     "fil": "Labas ng Apartment Hotel 11 Namba Minami 4",
-    "ko": "Apartment Hotel 11 난바미나미 4 외관"
+    "ko": "Apartment Hotel 11 난바미나미 4 외관",
+    "zh-Hans": "Apartment Hotel 11 难波南4外观"
   },
   "Apartment Hotel 11 Nagoya Sakae exterior": {
     "ja": "Apartment Hotel 11 名古屋栄の外観",
@@ -1185,16 +1206,18 @@
     "th": "ภายนอก Apartment Hotel 11 Nagoya Sakae",
     "id": "Eksterior Apartment Hotel 11 Nagoya Sakae",
     "fil": "Labas ng Apartment Hotel 11 Nagoya Sakae",
-    "ko": "Apartment Hotel 11 나고야 사카에 외관"
+    "ko": "Apartment Hotel 11 나고야 사카에 외관",
+    "zh-Hans": "Apartment Hotel 11 名古屋荣外观"
   },
   "HIWIN transfer vehicle": {
     "ja": "HIWINの送迎車両",
     "zh-Hant": "HIWIN 接送車輛",
-    "ms": "Kenderaan pemindahan HIWIN",
+    "ms": "Kenderaan transfer HIWIN",
     "th": "รถรับส่งของ HIWIN",
     "id": "Kendaraan antar-jemput HIWIN",
     "fil": "Sasakyang pang-transfer ng HIWIN",
-    "ko": "HIWIN 송영 차량"
+    "ko": "HIWIN 픽업 차량",
+    "zh-Hans": "HIWIN 接送车辆"
   },
   "Crab cuisine from HIWIN's restaurant network": {
     "ja": "HIWINグループの蟹料理",
@@ -1203,7 +1226,8 @@
     "th": "อาหารปูจากเครือข่ายร้านอาหารของ HIWIN",
     "id": "Hidangan kepiting dari jaringan restoran HIWIN",
     "fil": "Crab dish mula sa restaurant network ng HIWIN",
-    "ko": "HIWIN 레스토랑 네트워크의 게 요리"
+    "ko": "HIWIN 레스토랑 네트워크의 게 요리",
+    "zh-Hans": "HIWIN 餐饮网络的螃蟹料理"
   },
   "07 / OSAKA": {
     "ja": "07 / 大阪",
@@ -1212,7 +1236,8 @@
     "th": "07 / โอซาก้า",
     "id": "07 / OSAKA",
     "fil": "07 / OSAKA",
-    "ko": "07 / 오사카"
+    "ko": "07 / 오사카",
+    "zh-Hans": "07 / 大阪"
   },
   "08 / OSAKA": {
     "ja": "08 / 大阪",
@@ -1221,7 +1246,8 @@
     "th": "08 / โอซาก้า",
     "id": "08 / OSAKA",
     "fil": "08 / OSAKA",
-    "ko": "08 / 오사카"
+    "ko": "08 / 오사카",
+    "zh-Hans": "08 / 大阪"
   },
   "02 / KOBE": {
     "ja": "02 / 神戸",
@@ -1230,7 +1256,8 @@
     "th": "02 / โกเบ",
     "id": "02 / KOBE",
     "fil": "02 / KOBE",
-    "ko": "02 / 고베"
+    "ko": "02 / 고베",
+    "zh-Hans": "02 / 神户"
   },
   "06 / NAGOYA": {
     "ja": "06 / 名古屋",
@@ -1239,7 +1266,8 @@
     "th": "06 / นาโกย่า",
     "id": "06 / NAGOYA",
     "fil": "06 / NAGOYA",
-    "ko": "06 / 나고야"
+    "ko": "06 / 나고야",
+    "zh-Hans": "06 / 名古屋"
   },
   "Apartment Hotel 11 Shin-Imamiya 3 exterior": {
     "ja": "Apartment Hotel 11 新今宮3の外観",
@@ -1248,7 +1276,8 @@
     "th": "ภายนอก Apartment Hotel 11 Shin-Imamiya 3",
     "id": "Eksterior Apartment Hotel 11 Shin-Imamiya 3",
     "fil": "Labas ng Apartment Hotel 11 Shin-Imamiya 3",
-    "ko": "Apartment Hotel 11 신이마미야 3 외관"
+    "ko": "Apartment Hotel 11 신이마미야 3 외관",
+    "zh-Hans": "Apartment Hotel 11 新今宫3外观"
   },
   "Apartment Hotel 11 Dotonbori 4 exterior": {
     "ja": "Apartment Hotel 11 道頓堀4の外観",
@@ -1257,7 +1286,8 @@
     "th": "ภายนอก Apartment Hotel 11 Dotonbori 4",
     "ms": "Bahagian luar Apartment Hotel 11 Dotonbori 4",
     "id": "Eksterior Apartment Hotel 11 Dotonbori 4",
-    "fil": "Labas ng Apartment Hotel 11 Dotonbori 4"
+    "fil": "Labas ng Apartment Hotel 11 Dotonbori 4",
+    "zh-Hans": "Apartment Hotel 11 道顿堀4外观"
   },
   "Show Osaka city view": {
     "ja": "大阪の街並みを表示",
@@ -1266,7 +1296,8 @@
     "th": "แสดงวิวเมืองโอซาก้า",
     "ms": "Tunjukkan pemandangan bandar Osaka",
     "id": "Tampilkan pemandangan kota Osaka",
-    "fil": "Ipakita ang tanawin ng Osaka"
+    "fil": "Ipakita ang tanawin ng Osaka",
+    "zh-Hans": "显示大阪城市景色"
   },
   "During business hours we usually reply within 2 hours, in Japanese, Chinese, English or Korean.": {
     "ja": "営業時間内は通常2時間以内にご返信します（日本語・中国語・英語・韓国語に対応）。",
@@ -1275,7 +1306,8 @@
     "th": "ในเวลาทำการ เรามักตอบกลับภายใน 2 ชั่วโมง ติดต่อได้ทั้งภาษาญี่ปุ่น จีน อังกฤษ และเกาหลี",
     "id": "Pada jam kerja, kami biasanya membalas dalam 2 jam, dalam bahasa Jepang, Mandarin, Inggris, atau Korea.",
     "fil": "Sa oras ng trabaho, karaniwan kaming sumasagot sa loob ng 2 oras, sa Japanese, Chinese, English o Korean.",
-    "ko": "업무 시간에는 보통 2시간 이내에 답변드리며, 일본어·중국어·영어·한국어로 상담 가능합니다."
+    "ko": "업무 시간에는 보통 2시간 이내에 답변드리며, 일본어·중국어·영어·한국어로 상담 가능합니다.",
+    "zh-Hans": "工作时间内通常 2 小时内回复，可使用日文、中文、英文、韩文。"
   },
   "Cities": {
     "ja": "都市",
@@ -1284,7 +1316,8 @@
     "th": "เมือง",
     "id": "Kota",
     "fil": "Lungsod",
-    "ko": "도시"
+    "ko": "도시",
+    "zh-Hans": "城市"
   },
   "Your trips.": {
     "ja": "企画は御社に、",
@@ -1293,7 +1326,8 @@
     "th": "คุณวางแผนการเดินทาง",
     "ms": "Anda rancang perjalanan.",
     "id": "Anda rancang perjalanan.",
-    "fil": "Kayo ang magplano."
+    "fil": "Kayo ang magplano.",
+    "zh-Hans": "您规划行程，"
   },
   "Our stays.": {
     "ja": "滞在は私たちに。",
@@ -1302,6 +1336,7 @@
     "th": "เรื่องที่พักให้เราดูแล",
     "ms": "Kami uruskan penginapan.",
     "id": "Kami urus penginapan.",
-    "fil": "Kami ang bahala."
+    "fil": "Kami ang bahala.",
+    "zh-Hans": "住宿交给我们。"
   }
 }

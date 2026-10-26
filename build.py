@@ -9,7 +9,7 @@ output.mkdir()
 translations = json.loads((root / 'localization.json').read_text())
 template = (root / 'index.html').read_text()
 for key, values in translations.items():
-    for code in ('ja', 'zh-Hant', 'ms', 'th', 'id', 'fil', 'ko'):
+    for code in ('ja', 'zh-Hant', 'zh-Hans', 'ms', 'th', 'id', 'fil', 'ko'):
         if not values.get(code): raise ValueError(f'Missing {code} translation: {key}')
 # Inner pages (pages/*.html): shared head, header and contact parts; strings in pages/localization.json.
 # The support part (floating one-stop support dock) goes on every page except the contact page it links to.
@@ -18,17 +18,17 @@ part = {name: (pages_dir / ('_'+name+'.html')).read_text() for name in ('head', 
 inner_pages = sorted(p.stem for p in pages_dir.glob('*.html') if not p.stem.startswith('_'))
 page_translations = json.loads((pages_dir / 'localization.json').read_text())
 for key, values in page_translations.items():
-    for code in ('ja', 'zh-Hant', 'ms', 'th', 'id', 'fil', 'ko'):
+    for code in ('ja', 'zh-Hant', 'zh-Hans', 'ms', 'th', 'id', 'fil', 'ko'):
         if not values.get(code): raise ValueError(f'Missing {code} translation in pages/localization.json: {key}')
     # Shared strings keep one translation site-wide, so they live only in localization.json.
     if key in translations: raise ValueError(f'pages/localization.json duplicates localization.json: {key}')
 all_translations = {**translations, **page_translations}
-labels = {'en': 'EN', 'ja': '日本語', 'zh-Hant': '繁中', 'ms': 'MS', 'th': 'ไทย', 'id': 'ID', 'fil': 'FIL', 'ko': '한국어'}
-routes = {'en': 'en', 'ja': 'jp', 'zh-Hant': 'tw', 'ms': 'my', 'th': 'th', 'id': 'id', 'fil': 'ph', 'ko': 'ko'}
+labels = {'en': 'EN', 'ja': '日本語', 'zh-Hant': '繁中', 'zh-Hans': '简中', 'ms': 'MS', 'th': 'ไทย', 'id': 'ID', 'fil': 'FIL', 'ko': '한국어'}
+routes = {'en': 'en', 'ja': 'jp', 'zh-Hant': 'tw', 'zh-Hans': 'cn', 'ms': 'my', 'th': 'th', 'id': 'id', 'fil': 'ph', 'ko': 'ko'}
 origin = (os.environ.get('SITE_URL') or os.environ.get('CF_PAGES_URL') or '').rstrip('/')
 if not origin.startswith('https://'):
     raise ValueError('Set SITE_URL to the https:// website origin before building.')
-og_locales = {'en': 'en_US', 'ja': 'ja_JP', 'zh-Hant': 'zh_TW', 'ms': 'ms_MY', 'th': 'th_TH', 'id': 'id_ID', 'fil': 'fil_PH', 'ko': 'ko_KR'}
+og_locales = {'en': 'en_US', 'ja': 'ja_JP', 'zh-Hant': 'zh_TW', 'zh-Hans': 'zh_CN', 'ms': 'ms_MY', 'th': 'th_TH', 'id': 'id_ID', 'fil': 'fil_PH', 'ko': 'ko_KR'}
 # Brand names people search for: parent company HIWIN, hotel brand Apartment Hotel 11, Chinese brand name 住一.
 brand_names = ['住一', 'Apartment Hotel 11 (Eleven)', 'アパートメントホテル11']
 def structured_data(locale, path, page):
@@ -51,7 +51,7 @@ def structured_data(locale, path, page):
                 'address': {'@type': 'PostalAddress', 'streetAddress': '13F Quartz Shinsaibashi, 3-12-14 Minamisenba, Chuo-ku',
                             'addressLocality': 'Osaka', 'addressRegion': 'Osaka', 'postalCode': '542-0081', 'addressCountry': 'JP'},
                 'contactPoint': {'@type': 'ContactPoint', 'telephone': '+81-70-3205-9967', 'contactType': 'sales',
-                                 'areaServed': ['MY', 'SG', 'TH', 'ID', 'PH', 'TW', 'HK', 'KR']},
+                                 'areaServed': ['MY', 'SG', 'TH', 'ID', 'PH', 'TW', 'HK', 'CN', 'KR']},
             },
             {
                 '@type': 'WebPage',
@@ -78,10 +78,10 @@ def localize(page, locale, table):
     def attr(match):
         key = html.unescape(match.group(2))
         return match.group(1) + html.escape(table.get(key, {}).get(locale, key), quote=True) + '"'
-    page = re.sub(r'((?:alt|aria-label|content)=")([^"]*)"', attr, page)
+    page = re.sub(r'((?:alt|aria-label|content|data-label)=")([^"]*)"', attr, page)
     return page.replace('<html lang="en">', '<html lang="'+locale+'">').replace('<span>EN</span>', '<span>'+labels[locale]+'</span>')
 # Individual travellers go to the hotel's own booking site, in their language where it has one.
-direct_booking = {'ja': 'https://apartmenthotel11.com/', 'zh-Hant': 'https://apartmenthotel11.com/zh-tw/', 'ko': 'https://apartmenthotel11.com/ko/'}
+direct_booking = {'ja': 'https://apartmenthotel11.com/', 'zh-Hant': 'https://apartmenthotel11.com/zh-tw/', 'zh-Hans': 'https://apartmenthotel11.com/zh-cn/', 'ko': 'https://apartmenthotel11.com/ko/'}
 for locale in labels:
     page = template.replace('</body>', part['support'].replace('{home}', '/'+routes[locale]+'/')+'</body>')
     for slug in inner_pages:
@@ -99,6 +99,9 @@ for locale in labels:
     page = page.replace('href="styles.css"', 'href="../styles.css"').replace('src="script.js"', 'src="../script.js"').replace('src="analytics.js"', 'src="../analytics.js"')
     if locale == 'id':
         page = page.replace('>3,000+<', '>3.000+<').replace('>2,640<', '>2.640<')
+    if locale == 'ms':
+        # Malaysian agencies mostly serve Muslim travellers: no pork cutlet in the dining list (user, 2026-10-26).
+        page = page.replace('<span>TONKATSU</span>', '')
     for code in labels:
         old = './' if code == 'en' else code+'/'
         new = '/'+routes[code]+'/'
@@ -122,7 +125,7 @@ for locale in labels:
     target = output / routes[locale]
     target.mkdir(exist_ok=True)
     (target / 'index.html').write_text(page)
-names = {'en': 'English', 'ja': '日本語', 'zh-Hant': '繁體中文', 'ms': 'Bahasa Melayu', 'th': 'ไทย', 'id': 'Bahasa Indonesia', 'fil': 'Filipino', 'ko': '한국어'}
+names = {'en': 'English', 'ja': '日本語', 'zh-Hant': '繁體中文', 'zh-Hans': '简体中文', 'ms': 'Bahasa Melayu', 'th': 'ไทย', 'id': 'Bahasa Indonesia', 'fil': 'Filipino', 'ko': '한국어'}
 for slug in inner_pages:
     source = (pages_dir / (slug+'.html')).read_text()
     title = re.search(r'<!--title:(.*?)-->', source).group(1)

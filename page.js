@@ -78,7 +78,7 @@ if (strip) {
   requestAnimationFrame(tick);
 }
 // Contact page on phones: WhatsApp / LINE / WeChat tabs show one group of QR cards at a time (CSS shows all
-// groups on wider screens). LINE opens first for Japanese, Traditional Chinese and Thai, where it is the main chat app.
+// groups on wider screens). LINE opens first for Japanese, Traditional Chinese and Thai, WeChat for Simplified Chinese.
 const chatGroups = document.querySelector('.cp-groups');
 if (chatGroups) {
   const tabs = [...chatGroups.querySelectorAll('[role=tab]')];
@@ -98,9 +98,28 @@ if (chatGroups) {
       if (step) { e.preventDefault(); select(tabs[(i + step + tabs.length) % tabs.length], true); }
     });
   });
-  const preferred = ['ja', 'zh-Hant', 'th'].includes(document.documentElement.lang) ? 'cp-tab-line' : 'cp-tab-whatsapp';
+  const lang = document.documentElement.lang;
+  const preferred = lang === 'zh-Hans' ? 'cp-tab-wechat' : ['ja', 'zh-Hant', 'th'].includes(lang) ? 'cp-tab-line' : 'cp-tab-whatsapp';
   // A link to one group (e.g. the homepage's WeChat button, #cp-wechat) opens that group's tab.
   const linked = tabs.find(t => '#' + t.getAttribute('aria-controls') === location.hash);
   select(linked || document.getElementById(preferred));
   chatGroups.classList.add('cp-tabbed');
 }
+// Property cards: collapsed by default; "Show room types and access" unfolds the room-type and access lists
+// (the photo, name, map link and total rooms always show). CSS animates the height; the button text follows aria-expanded.
+// A link to a card (map pin, legend, #p-<slug>) opens that card.
+const setCard = (card, open) => {
+  const button = card.querySelector('.op-card-toggle');
+  if (!button) return;
+  button.setAttribute('aria-expanded', String(open));
+  card.classList.toggle('is-collapsed', !open);
+};
+for (const button of document.querySelectorAll('.op-card-toggle')) {
+  button.addEventListener('click', () => setCard(button.closest('.op-card'), button.getAttribute('aria-expanded') !== 'true'));
+}
+const openLinkedCard = () => {
+  const card = location.hash.startsWith('#p-') && document.querySelector(location.hash + '.op-card');
+  if (card) setCard(card, true);
+};
+window.addEventListener('hashchange', openLinkedCard);
+openLinkedCard();
